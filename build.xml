@@ -1,0 +1,35 @@
+<project name="CaminoDelCobre" default="deploy.local" basedir=".">
+	<property name="project" value="caminodelcobre" />
+
+
+
+	<!-- Local web space -->
+	<property name="web.local" value="/Library/WebServer/Documents/${project}" />
+	<property name="src" value="src" />
+	<property name="lib" value="lib" />
+	<property name="product" value="product" />
+
+	<target name="init" description="Initialize">
+		<echo message="${project} - init"/>
+		<tstamp/>
+	</target>
+
+
+	<target name="deploy.local" description="Copy to web documents directory">
+		<echo message="${project} - copy web site to local web documents directory"/>
+		<mkdir dir="${product}" />
+		<copy  todir="${product}" verbose="yes">
+			<fileset dir="${src}" />
+		</copy>
+		<mkdir dir="${web.local}"/>
+		<copy  todir="${web.local}" verbose="yes">
+			<fileset dir="${product}" />
+		</copy>
+	</target>
+
+	<target name="clean" depends="init">
+		<echo message="${project} - clean"/>
+		<delete dir="${product}"/>
+	</target>
+
+</project>
