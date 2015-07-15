@@ -1,3 +1,12 @@
+<?php
+/*
+© 2015 William H. Prescott. All Rights Reserved.
+
+This file is part of Camino del Cobre.
+
+*/
+
+?>
 <ul id="navbar">
 	<li>
 	  <a href="index.php">Home</a>
@@ -5,7 +14,7 @@
 	<li>
 	  <a href="vision.php">Vision</a>
 	</li>
-	<li><a href="information.php">
+	<li><a href="region-route.php">
 	  Region / Route</a>
 	</li>
 	<li>

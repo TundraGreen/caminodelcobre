@@ -7,6 +7,7 @@ This file is part of Camino del Cobre.
 */
 
 ?>
+<?php include_once('includes/language.php') ?>
 <!DOCTYPE html>
 <html>
 	<head>
@@ -22,11 +23,11 @@ This file is part of Camino del Cobre.
 		<script src="javascript/caminodelcobre.js"></script>
 	</head>
 	<body>
-		<?php include_once('header.php') ?>
-		<?php include_once('navbar.php') ?>
+		<?php include_once('includes/header.php') ?>
+		<?php include_once('includes/navbar.php') ?>
 	  <h2>Route map</h2>
 		<div id="map-canvas"></div>
-		<?php include_once('footer.php') ?>
+		<?php include_once('includes/footer.php') ?>
 	</body>
 </html>
 

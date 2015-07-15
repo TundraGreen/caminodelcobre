@@ -5,7 +5,9 @@
 This file is part of Camino del Cobre.
 
 */
-
+?>
+<?php include_once('includes/language.php') ?>
+<?php
 $stations = array(
   array('01', 'Creel train station', 27.75438, -107.634893, 2340),
   array('02', 'Highway bridge in Creel', 27.743488, -107.643543, 2324),
@@ -41,8 +43,8 @@ $stations = array(
 		<link href="estilos/caminodelcobre.css" rel="stylesheet" type="text/css" />
 	</head>
 	<body>
-		<?php include_once('header.php') ?>
-		<?php include_once('navbar.php') ?>
+		<?php include_once('includes/header.php') ?>
+		<?php include_once('includes/navbar.php') ?>
 	  <h2>Waypoints</h2>
 	  <div id="waypoint-table">
 		<table>
@@ -82,6 +84,6 @@ $stations = array(
 		</table>
     </div>
 
-		<?php include_once('footer.php') ?>
+		<?php include_once('includes/footer.php') ?>
 	</body>
 </html>
