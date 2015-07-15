@@ -11,16 +11,16 @@ This file is part of Camino del Cobre.
   <img src="imagenes/header-photo.jpeg">
 </div>
 <div class="floatLeft">
-  <h1>Camino del Cobre<br />The Copper Canyon Trail</h1>
+  <h1><?php print(i18n('index.title', $lang)); ?></h1>
 </div>
 <div class="language_selection floatRight">
   <?php
-  if ($lang == 'en') {
+  if ($lang == 'en_US') {
     print ("English<br />\n");
-    print ("<a href=\"".basename($_SERVER['PHP_SELF'])."?lang=es\">Español</a>\n");
+    print ("<a href=\"".basename($_SERVER['PHP_SELF'])."?lang=es_MX\">Español</a>\n");
   }
-  elseif ($lang == 'es') {
-    print ("<a href=\"".basename($_SERVER['PHP_SELF'])."?lang=en\">English</a><br />\n");
+  elseif ($lang == 'es_MX') {
+    print ("<a href=\"".basename($_SERVER['PHP_SELF'])."?lang=en_US\">English</a><br />\n");
     print ("Español\n");
   }
   else {

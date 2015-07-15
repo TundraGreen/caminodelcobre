@@ -9,24 +9,23 @@ This file is part of Camino del Cobre.
 ?>
 <ul id="navbar">
 	<li>
-	  <a href="index.php">Home</a>
+	  <a href="index.php"><?php print(i18n('navbar.home', $lang)); ?></a>
 	</li>
 	<li>
-	  <a href="vision.php">Vision</a>
+	  <a href="vision.php"><?php print(i18n('navbar.vision', $lang)); ?></a>
 	</li>
-	<li><a href="region-route.php">
-	  Region / Route</a>
-	</li>
-	<li>
-	  <a href="logistics.php">Logistics</a>
+	<li><a href="region-route.php"><?php print(i18n('navbar.region_route', $lang)); ?></a>
 	</li>
 	<li>
-	  <a href="map.php">Map</a>
+	  <a href="logistics.php"><?php print(i18n('navbar.logistics', $lang)); ?></a>
 	</li>
 	<li>
-	  <a href="table.php">Waypoint list</a>
+	  <a href="map.php"><?php print(i18n('navbar.map', $lang)); ?></a>
 	</li>
-	<li><a href="#">Guide</a>
+	<li>
+	  <a href="table.php"><?php print(i18n('navbar.table', $lang)); ?></a>
+	</li>
+	<li><a href="#"><?php print(i18n('navbar.guide', $lang)); ?></a>
 	  <ul>
       <li>
         <a href="segment-1.php">Segment 1</a>

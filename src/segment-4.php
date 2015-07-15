@@ -14,7 +14,7 @@ This file is part of Camino del Cobre.
 		<meta name="viewport" content="initial-scale=1.0, user-scalable=no">
 		<meta charset="utf-8">
 		<title>
-			Camino del Cobre
+      <?php print(i18n('segment_4.title', $lang)); ?>
 		</title>
 		<link href="estilos/master.css" rel="stylesheet" type="text/css" />
 		<link href="estilos/caminodelcobre.css" rel="stylesheet" type="text/css" />

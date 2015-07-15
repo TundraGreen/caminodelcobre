@@ -37,10 +37,11 @@ $stations = array(
 <html>
 	<head>
 		<title>
-			Camino del Cobre - Table
+      <?php print(i18n('waypoints.title', $lang)); ?>
 		</title>
 		<link href="estilos/master.css" rel="stylesheet" type="text/css" />
 		<link href="estilos/caminodelcobre.css" rel="stylesheet" type="text/css" />
+		<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Raleway">
 	</head>
 	<body>
 		<?php include_once('includes/header.php') ?>
