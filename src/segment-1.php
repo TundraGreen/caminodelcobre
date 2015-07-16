@@ -29,7 +29,7 @@ This file is part of Camino del Cobre.
 		<?php include_once('includes/navbar.php') ?>
     <div class="vision_text_block">
 		  <h2><?php print(i18n('segment_1.title', $lang)); ?></h2>
-      <h3><?php print(i18n('segment_1.overview.title', $lang)); ?></h3>
+      <h3><?php print(i18n('segment.overview.title', $lang)); ?></h3>
       <p><?php print(i18n('segment_1.overview.text', $lang)); ?></p>
       <div class="half_width_photo floatLeft">
         <img src="imagenes/Creel-Station.jpeg" width="300px" alt="Canyon Scene" /><br />
@@ -41,7 +41,7 @@ This file is part of Camino del Cobre.
       </div>
       <div class="clear"></div>
 
-      <h3><?php print(i18n('segment_1.description.title', $lang)); ?></h3>
+      <h3><?php print(i18n('segment.description.title', $lang)); ?></h3>
       <p><?php print(i18n('segment_1.description.text_01', $lang)); ?></p>
       <p><?php print(i18n('segment_1.description.text_02', $lang)); ?></p>
       <p><?php print(i18n('segment_1.description.text_03', $lang)); ?></p>

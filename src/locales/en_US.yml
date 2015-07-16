@@ -154,8 +154,14 @@ en_US:
       title: |
         The Trail of Trails
   segment:
+    description:
+      title: |
+        Trail description
     next: |
       Next segment
+    overview:
+      title: |
+        Overview
     previous: |
       Previous segment
   segment_1:
@@ -185,15 +191,47 @@ en_US:
         Midway along the fence line the trail bends slightly to the right into the trees (remaining to the east of the gravel pit).  It descends slightly into a water course, rising on the other side to pass through a rural gate and 20 meters beyond into a large field at its northwest corner. The trail passes 100 meters in the west side if the field next to dense woods on the right.  A second mesa climbs steeply in the right. At the southwest corner it passes through another rural gate and turns sharply right (west).  After ~100 meters the trails climbs steeply (~40 meter gain in 400 meters) to the top of the second mesa.  The area is heavily forested in pine with madrone (red barked broad-leaf tree).  After reaching the top of the mesa the trail bends gently to the right until reaching the old road from Creel to Divisadero (unpaved and rough).
       text_12: |
         Hikers wanting to return to Creel at this point can turn right onto the old road and walk along it for ~5 kms.  However, the Camino turns left at this junction and continues to
-      title: |
-        Trail description
     overview:
       text: |
         This section takes hikers from the Creel train station into the forest outside of town.  After passing through a residential area to the south, it separates from the railroad tracks and climbs into the forest on the mesas surrounding the town.  Once on the mesa, it passes through a mixture of farm fields and forest, sometimes on a rural road and sometimes on a single-track forest path.  After a second climb up another mesa, it ends at the old road between Creel and Divisadero ~4 km from Creel.
-      title: |
-        Overview
     title: |
       Segment 1: From Creel to the Old Road
+  segment_2:
+    description:
+      text_01: |
+        The trail starts at the intersection of the trail and the old unpaved road to Divisadero. The trail turns sharply left onto a side road that runs parallel 5 meters east (left) of the old road. The trail markers follow the fence posts for ~50 meters until reaching a barbed wire gate on the left.
+      text_02: |
+        The trail turns sharply left (east) through the gate onto a road leading past several Tarahumara houses on right (and left farther away).  It follows the road (not entering the driveways to the farm dwellings) passing the fence of a small field on the right.  At the end of the fence it turns sharp right, then quickly sharp left.  In 75 meters the trail goes through another pole gate.
+      text_03: |
+        From the gate the trail follows a rural road skirting a low hill on the left for ~ 1.0 km through the pine forest. There are occasional side roads to the right leading away from the hill (for example, ~1/2 km past the gate).  ~750 meters past the gate the forest opens up with fewer trees and more low brush and bushes.  The trail bends right off the road to a single track path. Close attention to the trail markers posted on trees and on rocks in the road may be necessary,
+      text_04: |
+        ~1.25 km the trail passes into high open brush land with views of Creel on the left.  It curves gently to the right (south and then west) and descends slightly (5 - 10 meters) until meeting a trail coming from the left.  From this intersection the railroad line is visible directly in front ~ 20 meters.  The trail bends right and follows a defined single track trail through the trees gradually getting closer to the railroad tracks.  In ~100 meters the paved highway to Divisadero also becomes visible on the left 15 meters on the other side of the tracks.  At this point the trail is very close to both the tracks and the road.  The turn-off to the new Creel airport is on the opposite side of the highway.  For hikers wanting to return to Creel it is possible to cross the tracks at this Point, turn left (north and down the hill) onto the highway, and follow it ~3 kms to town.
+      text_05: |
+        The trail continues from this point on a defined single track parallel to the tracks.  It gradually climbs into the forest (somewhat to the right) increasing its distance from the tracks (up to 50 meters).  ~200 meters from the possible track crossing the trail leaves the trees and crosses a small rocky area with the trail indicated on the rocks.  It resumes its course west through the pine forest.  In some areas the single track path is also marked with "blazes" (small areas on the tree where the bark has been removed).
+      text_06: |
+        After ~1 km the trail bends left and crosses the railroad tracks.  It then bends slightly right and descends in 75 meters to a small parking area on the west side of the highway,  The railroad continues higher on the slope and further away from the trail.  Hikers wanting to return to Creel can turn left on the highway (north and up the hill) at this point (~3.5 kms to town via the highway).
+      text_07: |
+        The trail directly crosses the parking area (20 meters), following markers painted on rocks in the open area.  It follows a rough rural road and descends slightly through the trees crossing a small water course.  The road / trail climbs slightly through the trees alongside a field and fence.  On the left an open area of scattered bushes and low trees is visible beneath the turn of the highway (< 50 meters away).   ~30 meters from the water course the trail turns sharply left away from the fence onto a defined single track path through more scattered low bushes.  It curves to the left back toward the road through trees.  After ~75 meters the trail meets the highway but turns sharply right on a defined path ascending away from the road.  In ~75 meters the trail crosses the railroad tracks (which has once again rejoined the trail) and again enters into the pine forest.
+      text_08: |
+        From this crossing the trail continues south-south west parallel to the tracks (generally visible and <50 meters) on the left. The highway is also running parallel on the other side of the tracks (another ~25 meters away).  The path is generally flat or gently rolling as it crosses a small water course.  In some cases trees also have "blazes" aa well as Camino markers.  In some areas the vegetation is manzanita or other low brush.  In ~1 km the trail again approaches closer to the tracks and passes through broken trees and brush.
+      text_09: |
+        The trail emerges from the low forest and crosses the old unpaved road from Creel to Divisadero.  In another ~20 meters the old road also crosses the railroad tracks (complete with an X-type railroad crossing sign) and meets the modern paved highway.  This crossing and junction is easily visible from the trail on the left.  Hikers wanting to return to Creel may turn left at the crossing onto the road and return (~4.5 kms via the highway).
+      text_10: |
+        This crossing is a network of roads leading to various destinations in the area.  Care to follow the Camino markers (often on rocks) may be necessary.  After crossing the old road the trail descends on a short rural road slightly for ~15 meters to a 4-way junction with a rural road crossing the Camino. The Camino is the straight alternative (e.g., parallel with the tracks) descending to a small water course.  From this point the trail generally follows a rural road that runs parallel to the tracks (~20 meters to the left) for ~1 km to the end of the section.  It is generally open and free from vegetation.  The pine forest is on the right.
+      text_11: |
+        From the water course the trail rises to a high point where it bends right (off the road) to run through the forest along a short single track portion. After 150 meters it re-joins the road.
+      text_12: |
+        In ~500 meters the trail enters into an open area of low trees. On the right is a large farm field (5 hectares) with a single small house in the middle.  The railroad tracks are 10 meters on the left.
+      text_13: |
+        This area is the former Estación Sanchez (Sanchez Station).  The tracks divide into two sets of tracks: a main track and secondary "lay by" track to permit priority trains to pass.  ~100 meters into this open area the trail bends sharply left to cross both sets of tracks. It follows between two rows of trees between the trail and the Divisadero highway.  The two sets of tracks are 10 meters in the right. Roughly half way along the length of the field the trail passes two small buildings and a fenced area.  After passing the small buildings the trail again passes between two rows of trees.  Camino markers are on the trees and fence posts.
+      text_14: |
+        The Camino then emerges into a small parking area on the west side of the Divisadero highway (27.716525, 107.678267, elevation 2442 meters).  Across the highway is the road to the community of Santa Elena (the road sigh to this community is on the highway before the parking area). The Santa Elena / Sanchez turn-off (on both sides of the highway) is also a stop for buses on the highway. Hikers wanting to take the bus in either direction are able to "flag down" the buses in these large open areas.  Alternatively, hikers wanting to walk back to Creel can turn left onto the highway at this point (slightly less than 6 km via the highway).  The west side of Highway 77 is the starting point for the following
+    overview:
+      text: |
+        This section of the trail returns to the pine forest to approach the railroad tracks and Highway 77.  It then follows the tracks and highway (sometimes 50 to 100 meters on the left, sometimes crossing the tracks and briefly adjoining the highway).  It passes through mixed forest and low brush to end at the inactive railroad stop at Estación Sanchez.  Across the highway on the east side is the turnoff to the pueblo of Santa Elena 2 kilometers from the highway.  The open area on both sides of the highway (used for bus stops) is 5+ kms from Creel via Highway 77.
+    title: |
+      Segment 2: From the Old Road to Santa Elena
+      
   vision:
     text: |
       The vision of the Camino del Cobre (The Copper Canyon Trail) is to create a unique experience for visitors to Copper Canyon with a hike along the rim of the canyon, experiencing the beauty of its vistas, the wonders of the local indigenous culture, and its colonial history.  In the tradition of the famous trails of Europe and America - like the Santiago Trail in Spain - the Camino will be a trail of hundreds of miles = from the Basaseachic Waterfall to Sinforosa Canyon, the deepest of all.  Following the Camino's trail signs, hikers will be able to create their own routes of 1, 2 or more days depending on their own preference - starting out in the eco-tourist center of Creel and using the trail network to visit nearby Raramuri (Tarahumara) villages or historic sites from the heyday of Mexican silver mining or the many natural wonders of the region.  As the same time they can enjoy the knowledge that their visit is making a contribution to the economic well-being of the Tarahumara region, one of the most interesting but poorest regions in all Mexico.
