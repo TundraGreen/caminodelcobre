@@ -19,6 +19,11 @@ h1 {
 h2 {
     padding: 20px 20px 20px 0px;
   }
+p {
+  font-family: Raleway;
+	line-height: 1.5em;
+	padding: 0px 0px 10px 0px;
+}
 
 /* ---------------------------- */
 /* ----- Waypoint table ------- */
@@ -133,6 +138,7 @@ h4 {
 	border: 1px solid blue;
 	width: 750px;
 	padding: 10px 20px 20px 20px;
+	margin: 2px 2px 2px 2px;
 	line-height: 1.5em;
 	font-size: 0.8em;
 }
@@ -156,6 +162,22 @@ h4 {
   text-align: center;
 }
 .logistics_inset_text {
+  float: left;
+  width: 325px;
+  font-size: 0.9em;
+  padding: 5px 5px 5px 5px;
+}
+
+/* ---------------------------- */
+/* --------- Region/Route -------- */
+/* ---------------------------- */
+.half_width_photo {
+  float: left;
+  width: 325px;
+  padding: 20px 15px 20px 15px;
+  text-align: center;
+}
+.half_width_text {
   float: left;
   width: 325px;
   font-size: 0.9em;

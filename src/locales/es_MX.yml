@@ -10,6 +10,12 @@ es_MX:
         Participación
     title: |
       Camino del Cobre
+  logistics:
+    title: |
+      Logistica
+  map:
+    title: |
+      Mapa
   navbar:
     guide: |
       Guia
@@ -21,13 +27,47 @@ es_MX:
       Mapa
     region_route: |
       Región/Ruta
-    table: |
-      Puntos de la Ruta
     vision: |
       Visión
+    waypoints: |
+      Puntos de la Ruta
+  region_route:
+    high_country:
+      text_1: |
+        The High Country region between Creel and the rim (Divisadero) is generally rugged, rolling terrain lying between 2,100 to 2,400 meters (roughly 7000 and 8000 feet) in elevation.  In many cases the terrain is that of a ”mesa” (Spanish for “table”) and quite flat for many kilometers.  However, there are also many arroyos (small canyons carved by water) cutting across the mesa.  However, the elevation change between the top of the mesa and the bottom is generally less than 200 meters.
+      text_2: |
+        Close to Creel views are primarily those of forested ridges and arroyos.  Further south, the vistas widen out to the barrancas and river canyons.
+      text_3: |
+        The region is well forested primarily with Ponderosa pine.  There are also stands of coniferous cedars and junipers and deciduous trees such as oak and madrone (a low, distinctively red-barked tree).  However, despite the presence of the many water courses, there is little water on the surface except during the rainy season.
+      title: |
+        El Campo Alto
+    route:
+      text_1: |
+        Due to the rugged and undeveloped terrain of the Creel region, the Camino generally follows the Chepe railroad route southward toward Divisadero.  By its nature, the railroad cannot climb or descend rapidly.  Its tracks are limited to a 3% grade.  This route enables hikers generally to avoid steep elevation changes associated with simply going cross-country on a direct line.  Instead, the Camino follows a gently rolling, often flat path, despite the rough country around it.
+      text_2: |
+        In addition, the trail also follows the modern Creel-to-Divisadero highway (Mexico 77).  This paved highway often is also very close to the railroad line.  In many areas the Camino path is very close to either the highway or the tracks (as close as 5 meters).   In most cases hikers are within easy hearing range of highway vehicles or the trains.  However, at no time, does the Camino trail overlap directly with either the highway or the tracks.  In limited cases, of course, the trail separates at greater distance from the two modern routes (up to several kilometers in the El Cajón canyon area).
+      text_3: |
+        In certain locations, the Camino also follows the course of pipelines carrying water and natural gas between Creel and certain rim villages (Divisadero, Arepanoguchi, San Rafael).  The pipeline course is also close to the highway (primarily) and railroad tracks.  These sections are somewhat more “up and down” than those nearer the railroad.  However, the pipelines also tend to avoid the extremely steep changes possible in such rugged country.
+      text_4: |
+        By taking advantage of these existing routes, the Camino generally offers comfortable walking in rolling terrain without the extra-rigorous demands of a high-altitude (8000 ft) hike.  In addition to this physical aspect, the proximity of the road (and railroad) offers hikers the security of knowing that there are alternative ways to return to developed areas, if they want to stop or if they face a medical or other emergency.
+        
+      title: |
+        La Ruta
+    title: |
+      Región y Ruta
+    trail:
+      text_1: |
+        The Tarahumara living the Barrancas are historically well-known for their tireless walking and running.  As a result there have always been many forest paths that cover the Creel-to-Divisadero region connecting ranchos, roads, fields, and pueblos.   In addition, as Mexico has developed in recent years, there is also an extensive network of rough rural roads for motor vehicles (typically 4 wheel pickups) used by the locals for longer trips.  Close to Creel itself, there are also designated hiking, biking, and ATV trails, occasionally marked with arrow or other trail markers.
+      text_2: |
+        The Camino largely takes advantage of previous paths and roads used by the Tarahumara and other local residents.  It often goes by farm fields and isolated houses.  It often selects the paths best suited for hikers, rather than just for more practical purpose (such as choosing a more scenic path, rather than the most direct).  Depending on what is available in any specific area, the Camino uses rural roads, narrow single-track paths through the woods, the wide open course of pipelines, ATV or mountain bike tracks, and an occasional cross country “bush whack” with clear markers on trees.   It then connects these disparate paths into an overall path connecting important points on the way.  The hiker could easily start on a wide rural road, transition to a narrow path through the trees for a short time, then switch to a pipeline course, and back to a forest path. 
+      title: |
+        La Ruta de las Rutas
   vision:
     text: |
       La visión de la Camino del Cobre es crear una experiencía única para los visitantes a la región de la Barranca del Cobre por medio de una caminata al lado de la barranca experimentando la belleza de sus vistas, las maravillas de sus culturas indígenas, y la historía colonial y local.  En la misma tradición de los famosos senderos de Europa o los EE. UU. - como el Camino de Santiago en España - el Camino sería un sendero de centenares de kilometros - desde el salto de Basaseachic hasta Sinforosa, la barranca más profunda de todas.  Siguiendo los señales del Camino los excursionistas podrían crear sus propías rutas de 1, 2 (o más) días dependiente de su preferencía - empezando en el centro eco-turistico de Creel y usando la red de senderos para visitar los pueblos Raramuri o los sitios historicos de la minería mexicana o las maravillas naturales.  A la misma vez se reconoce el beneficio de su visita en la vida económica de la región Tarahumara, una de las más interestantes pero más pobres de México.
     title: |
       La Visión
+  waypoints:
+    title: |
+      Puntos de la Ruta
 

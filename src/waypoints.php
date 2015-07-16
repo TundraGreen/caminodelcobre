@@ -46,7 +46,7 @@ $stations = array(
 	<body>
 		<?php include_once('includes/header.php') ?>
 		<?php include_once('includes/navbar.php') ?>
-	  <h2>Waypoints</h2>
+	  <h2><?php print(i18n('waypoints.title', $lang)); ?></h2>
 	  <div id="waypoint-table">
 		<table>
 		  <tr>
