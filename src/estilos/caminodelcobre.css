@@ -185,6 +185,11 @@ h4 {
 /* --------- Region/Route -------- */
 /* --------- Segments ------------ */
 /* ------------------------------- */
+.full_width_photo {
+  width: 600px;
+  padding: 20px 15px 20px 15px;
+  text-align: center;
+}
 .half_width_photo {
   float: left;
   width: 325px;

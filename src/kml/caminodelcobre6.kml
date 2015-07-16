@@ -1,0 +1,850 @@
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+	<Document>
+		<name><![CDATA[Camino del Cobre]]></name>
+		<Style id="myWaypointStyle">
+      <IconStyle>
+        <Icon>
+          <href>http://www.easytrailsgps.com/wp-content/uploads/2012/05/waypoint.png</href>
+        </Icon>
+      </IconStyle>
+		</Style>
+
+    <Placemark>
+      <styleUrl>#myWaypointStyle</styleUrl>
+      <name><![CDATA[Creel train station]]></name>
+      <visibility>1</visibility>
+      <description><![CDATA[
+        <div id="desc-container" style="font-size: 12px; min-height: 100px; min-width: 350px">
+          <div id="desc-section">
+            Sequence number: 01
+          </div>
+          <div id="desc-summary" style="width: 100%; float:left;">
+            <table border="0" style="width: 100%; margin: 8px 0">
+              <tr>
+                <td style="font-weight: bold; width: 150px;">
+                  Coordinates:
+                </td>
+                <td style="width: 200px;">
+                  WGS 84<br/>
+                  27° 45' 15.77'' N<br/>
+                  -107° 38' 05.61'' W
+                </td>
+              </tr>
+              <tr>
+                <td style="font-weight: bold; width: 150px;">
+                  Elevation:
+                </td>
+                <td style="width: 200px;">
+                  2340 m
+                </td>
+              </tr>
+            </table>
+          </div>
+        </div>
+      ]]></description>
+      <Point>
+        <coordinates>-107.634893, 27.754380, 2340.</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <styleUrl>#myWaypointStyle</styleUrl>
+      <name><![CDATA[Highway bridge in Creel]]></name>
+      <visibility>1</visibility>
+      <description><![CDATA[
+        <div id="desc-container" style="font-size: 12px; min-height: 100px; min-width: 350px">
+          <div id="desc-section">
+            Sequence number: 02
+          </div>
+          <div id="desc-summary" style="width: 100%; float:left;">
+            <table border="0" style="width: 100%; margin: 8px 0">
+              <tr>
+                <td style="font-weight: bold; width: 150px;">
+                  Coordinates:
+                </td>
+                <td style="width: 200px;">
+                  WGS 84<br/>
+                  27° 44' 36.56'' N<br/>
+                  -107° 38' 36.75'' W
+                </td>
+              </tr>
+              <tr>
+                <td style="font-weight: bold; width: 150px;">
+                  Elevation:
+                </td>
+                <td style="width: 200px;">
+                  2324 m
+                </td>
+              </tr>
+            </table>
+          </div>
+        </div>
+      ]]></description>
+      <Point>
+        <coordinates>-107.643543, 27.743488, 2324.</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <styleUrl>#myWaypointStyle</styleUrl>
+      <name><![CDATA[Adobe house]]></name>
+      <visibility>1</visibility>
+      <description><![CDATA[
+        <div id="desc-container" style="font-size: 12px; min-height: 100px; min-width: 350px">
+          <div id="desc-section">
+            Sequence number: 03
+          </div>
+          <div id="desc-summary" style="width: 100%; float:left;">
+            <table border="0" style="width: 100%; margin: 8px 0">
+              <tr>
+                <td style="font-weight: bold; width: 150px;">
+                  Coordinates:
+                </td>
+                <td style="width: 200px;">
+                  WGS 84<br/>
+                  27° 44' 34.45'' N<br/>
+                  -107° 38' 50.33'' W
+                </td>
+              </tr>
+              <tr>
+                <td style="font-weight: bold; width: 150px;">
+                  Elevation:
+                </td>
+                <td style="width: 200px;">
+                  2340 m
+                </td>
+              </tr>
+            </table>
+          </div>
+        </div>
+      ]]></description>
+      <Point>
+        <coordinates>-107.647314, 27.742904, 2340.</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <styleUrl>#myWaypointStyle</styleUrl>
+      <name><![CDATA[Sanchez - Santa Elena]]></name>
+      <visibility>1</visibility>
+      <description><![CDATA[
+        <div id="desc-container" style="font-size: 12px; min-height: 100px; min-width: 350px">
+          <div id="desc-section">
+            Sequence number: 04
+          </div>
+          <div id="desc-summary" style="width: 100%; float:left;">
+            <table border="0" style="width: 100%; margin: 8px 0">
+              <tr>
+                <td style="font-weight: bold; width: 150px;">
+                  Coordinates:
+                </td>
+                <td style="width: 200px;">
+                  WGS 84<br/>
+                  27° 42' 59.49'' N<br/>
+                  -107° 40' 41.76'' W
+                </td>
+              </tr>
+              <tr>
+                <td style="font-weight: bold; width: 150px;">
+                  Elevation:
+                </td>
+                <td style="width: 200px;">
+                  2442 m
+                </td>
+              </tr>
+            </table>
+          </div>
+        </div>
+      ]]></description>
+      <Point>
+        <coordinates>-107.678267, 27.716525, 2442.</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <styleUrl>#myWaypointStyle</styleUrl>
+      <name><![CDATA[Recowata]]></name>
+      <visibility>1</visibility>
+      <description><![CDATA[
+        <div id="desc-container" style="font-size: 12px; min-height: 100px; min-width: 350px">
+          <div id="desc-section">
+            Sequence number: 05
+          </div>
+          <div id="desc-summary" style="width: 100%; float:left;">
+            <table border="0" style="width: 100%; margin: 8px 0">
+              <tr>
+                <td style="font-weight: bold; width: 150px;">
+                  Coordinates:
+                </td>
+                <td style="width: 200px;">
+                  WGS 84<br/>
+                  27° 42' 32.01'' N<br/>
+                  -107° 41' 03.63'' W
+                </td>
+              </tr>
+              <tr>
+                <td style="font-weight: bold; width: 150px;">
+                  Elevation:
+                </td>
+                <td style="width: 200px;">
+                  2450 m
+                </td>
+              </tr>
+            </table>
+          </div>
+        </div>
+      ]]></description>
+      <Point>
+        <coordinates>-107.684341, 27.708892, 2450.</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <styleUrl>#myWaypointStyle</styleUrl>
+      <name><![CDATA[Pipeline clear area]]></name>
+      <visibility>1</visibility>
+      <description><![CDATA[
+        <div id="desc-container" style="font-size: 12px; min-height: 100px; min-width: 350px">
+          <div id="desc-section">
+            Sequence number: 06
+          </div>
+          <div id="desc-summary" style="width: 100%; float:left;">
+            <table border="0" style="width: 100%; margin: 8px 0">
+              <tr>
+                <td style="font-weight: bold; width: 150px;">
+                  Coordinates:
+                </td>
+                <td style="width: 200px;">
+                  WGS 84<br/>
+                  27° 42' 08.77'' N<br/>
+                  -107° 41' 19.82'' W
+                </td>
+              </tr>
+              <tr>
+                <td style="font-weight: bold; width: 150px;">
+                  Elevation:
+                </td>
+                <td style="width: 200px;">
+                  2480 m
+                </td>
+              </tr>
+            </table>
+          </div>
+        </div>
+      ]]></description>
+      <Point>
+        <coordinates>-107.688838, 27.702436, 2480.</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <styleUrl>#myWaypointStyle</styleUrl>
+      <name><![CDATA[Pipeline - 77 crossing]]></name>
+      <visibility>1</visibility>
+      <description><![CDATA[
+        <div id="desc-container" style="font-size: 12px; min-height: 100px; min-width: 350px">
+          <div id="desc-section">
+            Sequence number: 07
+          </div>
+          <div id="desc-summary" style="width: 100%; float:left;">
+            <table border="0" style="width: 100%; margin: 8px 0">
+              <tr>
+                <td style="font-weight: bold; width: 150px;">
+                  Coordinates:
+                </td>
+                <td style="width: 200px;">
+                  WGS 84<br/>
+                  27° 41' 39.67'' N<br/>
+                  -107° 41' 44.24'' W
+                </td>
+              </tr>
+              <tr>
+                <td style="font-weight: bold; width: 150px;">
+                  Elevation:
+                </td>
+                <td style="width: 200px;">
+                  2451 m
+                </td>
+              </tr>
+            </table>
+          </div>
+        </div>
+      ]]></description>
+      <Point>
+        <coordinates>-107.695621, 27.694353, 2451.</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <styleUrl>#myWaypointStyle</styleUrl>
+      <name><![CDATA[Turn from pipeline]]></name>
+      <visibility>1</visibility>
+      <description><![CDATA[
+        <div id="desc-container" style="font-size: 12px; min-height: 100px; min-width: 350px">
+          <div id="desc-section">
+            Sequence number: 08
+          </div>
+          <div id="desc-summary" style="width: 100%; float:left;">
+            <table border="0" style="width: 100%; margin: 8px 0">
+              <tr>
+                <td style="font-weight: bold; width: 150px;">
+                  Coordinates:
+                </td>
+                <td style="width: 200px;">
+                  WGS 84<br/>
+                  27° 41' 46.26'' N<br/>
+                  -107° 42' 04.81'' W
+                </td>
+              </tr>
+              <tr>
+                <td style="font-weight: bold; width: 150px;">
+                  Elevation:
+                </td>
+                <td style="width: 200px;">
+                  2462 m
+                </td>
+              </tr>
+            </table>
+          </div>
+        </div>
+      ]]></description>
+      <Point>
+        <coordinates>-107.701335, 27.696182, 2462.</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <styleUrl>#myWaypointStyle</styleUrl>
+      <name><![CDATA[Path to 77 bridge]]></name>
+      <visibility>1</visibility>
+      <description><![CDATA[
+        <div id="desc-container" style="font-size: 12px; min-height: 100px; min-width: 350px">
+          <div id="desc-section">
+            Sequence number: 09
+          </div>
+          <div id="desc-summary" style="width: 100%; float:left;">
+            <table border="0" style="width: 100%; margin: 8px 0">
+              <tr>
+                <td style="font-weight: bold; width: 150px;">
+                  Coordinates:
+                </td>
+                <td style="width: 200px;">
+                  WGS 84<br/>
+                  27° 41' 31.91'' N<br/>
+                  -107° 42' 59.62'' W
+                </td>
+              </tr>
+              <tr>
+                <td style="font-weight: bold; width: 150px;">
+                  Elevation:
+                </td>
+                <td style="width: 200px;">
+                  2448 m
+                </td>
+              </tr>
+            </table>
+          </div>
+        </div>
+      ]]></description>
+      <Point>
+        <coordinates>-107.716560, 27.692196, 2448.</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <styleUrl>#myWaypointStyle</styleUrl>
+      <name><![CDATA[Highway 77 railroad bridge]]></name>
+      <visibility>1</visibility>
+      <description><![CDATA[
+        <div id="desc-container" style="font-size: 12px; min-height: 100px; min-width: 350px">
+          <div id="desc-section">
+            Sequence number: 10
+          </div>
+          <div id="desc-summary" style="width: 100%; float:left;">
+            <table border="0" style="width: 100%; margin: 8px 0">
+              <tr>
+                <td style="font-weight: bold; width: 150px;">
+                  Coordinates:
+                </td>
+                <td style="width: 200px;">
+                  WGS 84<br/>
+                  27° 41' 24.44'' N<br/>
+                  -107° 43' 12.43'' W
+                </td>
+              </tr>
+              <tr>
+                <td style="font-weight: bold; width: 150px;">
+                  Elevation:
+                </td>
+                <td style="width: 200px;">
+                  2442 m
+                </td>
+              </tr>
+            </table>
+          </div>
+        </div>
+      ]]></description>
+      <Point>
+        <coordinates>-107.720119, 27.690123, 2442.</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <styleUrl>#myWaypointStyle</styleUrl>
+      <name><![CDATA[San Elias]]></name>
+      <visibility>1</visibility>
+      <description><![CDATA[
+        <div id="desc-container" style="font-size: 12px; min-height: 100px; min-width: 350px">
+          <div id="desc-section">
+            Sequence number: 11
+          </div>
+          <div id="desc-summary" style="width: 100%; float:left;">
+            <table border="0" style="width: 100%; margin: 8px 0">
+              <tr>
+                <td style="font-weight: bold; width: 150px;">
+                  Coordinates:
+                </td>
+                <td style="width: 200px;">
+                  WGS 84<br/>
+                  27° 41' 14.63'' N<br/>
+                  -107° 43' 26.42'' W
+                </td>
+              </tr>
+              <tr>
+                <td style="font-weight: bold; width: 150px;">
+                  Elevation:
+                </td>
+                <td style="width: 200px;">
+                  2454 m
+                </td>
+              </tr>
+            </table>
+          </div>
+        </div>
+      ]]></description>
+      <Point>
+        <coordinates>-107.724006, 27.687397, 2454.</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <styleUrl>#myWaypointStyle</styleUrl>
+      <name><![CDATA[77 crossing to High Road]]></name>
+      <visibility>1</visibility>
+      <description><![CDATA[
+        <div id="desc-container" style="font-size: 12px; min-height: 100px; min-width: 350px">
+          <div id="desc-section">
+            Sequence number: 12
+          </div>
+          <div id="desc-summary" style="width: 100%; float:left;">
+            <table border="0" style="width: 100%; margin: 8px 0">
+              <tr>
+                <td style="font-weight: bold; width: 150px;">
+                  Coordinates:
+                </td>
+                <td style="width: 200px;">
+                  WGS 84<br/>
+                  27° 40' 52.02'' N<br/>
+                  -107° 43' 25.25'' W
+                </td>
+              </tr>
+              <tr>
+                <td style="font-weight: bold; width: 150px;">
+                  Elevation:
+                </td>
+                <td style="width: 200px;">
+                  2448 m
+                </td>
+              </tr>
+            </table>
+          </div>
+        </div>
+      ]]></description>
+      <Point>
+        <coordinates>-107.723681, 27.681117, 2448.</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <styleUrl>#myWaypointStyle</styleUrl>
+      <name><![CDATA[High Road North end]]></name>
+      <visibility>1</visibility>
+      <description><![CDATA[
+        <div id="desc-container" style="font-size: 12px; min-height: 100px; min-width: 350px">
+          <div id="desc-section">
+            Sequence number: 13
+          </div>
+          <div id="desc-summary" style="width: 100%; float:left;">
+            <table border="0" style="width: 100%; margin: 8px 0">
+              <tr>
+                <td style="font-weight: bold; width: 150px;">
+                  Coordinates:
+                </td>
+                <td style="width: 200px;">
+                  WGS 84<br/>
+                  27° 40' 44.90'' N<br/>
+                  -107° 43' 15.89'' W
+                </td>
+              </tr>
+              <tr>
+                <td style="font-weight: bold; width: 150px;">
+                  Elevation:
+                </td>
+                <td style="width: 200px;">
+                  2439 m
+                </td>
+              </tr>
+            </table>
+          </div>
+        </div>
+      ]]></description>
+      <Point>
+        <coordinates>-107.721080, 27.679138, 2439.</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <styleUrl>#myWaypointStyle</styleUrl>
+      <name><![CDATA[High Road Saddle]]></name>
+      <visibility>1</visibility>
+      <description><![CDATA[
+        <div id="desc-container" style="font-size: 12px; min-height: 100px; min-width: 350px">
+          <div id="desc-section">
+            Sequence number: 14
+          </div>
+          <div id="desc-summary" style="width: 100%; float:left;">
+            <table border="0" style="width: 100%; margin: 8px 0">
+              <tr>
+                <td style="font-weight: bold; width: 150px;">
+                  Coordinates:
+                </td>
+                <td style="width: 200px;">
+                  WGS 84<br/>
+                  27° 40' 10.03'' N<br/>
+                  -107° 42' 51.86'' W
+                </td>
+              </tr>
+              <tr>
+                <td style="font-weight: bold; width: 150px;">
+                  Elevation:
+                </td>
+                <td style="width: 200px;">
+                  2509 m
+                </td>
+              </tr>
+            </table>
+          </div>
+        </div>
+      ]]></description>
+      <Point>
+        <coordinates>-107.714405, 27.669453, 2509.</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <styleUrl>#myWaypointStyle</styleUrl>
+      <name><![CDATA[High Road railroad cross 1]]></name>
+      <visibility>1</visibility>
+      <description><![CDATA[
+        <div id="desc-container" style="font-size: 12px; min-height: 100px; min-width: 350px">
+          <div id="desc-section">
+            Sequence number: 15
+          </div>
+          <div id="desc-summary" style="width: 100%; float:left;">
+            <table border="0" style="width: 100%; margin: 8px 0">
+              <tr>
+                <td style="font-weight: bold; width: 150px;">
+                  Coordinates:
+                </td>
+                <td style="width: 200px;">
+                  WGS 84<br/>
+                  27° 39' 16.33'' N<br/>
+                  -107° 43' 22.71'' W
+                </td>
+              </tr>
+              <tr>
+                <td style="font-weight: bold; width: 150px;">
+                  Elevation:
+                </td>
+                <td style="width: 200px;">
+                  2379 m
+                </td>
+              </tr>
+            </table>
+          </div>
+        </div>
+      ]]></description>
+      <Point>
+        <coordinates>-107.722976, 27.654535, 2379.</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <styleUrl>#myWaypointStyle</styleUrl>
+      <name><![CDATA[Wrong fork High Road]]></name>
+      <visibility>1</visibility>
+      <description><![CDATA[
+        <div id="desc-container" style="font-size: 12px; min-height: 100px; min-width: 350px">
+          <div id="desc-section">
+            Sequence number: 16
+          </div>
+          <div id="desc-summary" style="width: 100%; float:left;">
+            <table border="0" style="width: 100%; margin: 8px 0">
+              <tr>
+                <td style="font-weight: bold; width: 150px;">
+                  Coordinates:
+                </td>
+                <td style="width: 200px;">
+                  WGS 84<br/>
+                  27° 39' 16.36'' N<br/>
+                  -107° 43' 28.91'' W
+                </td>
+              </tr>
+              <tr>
+                <td style="font-weight: bold; width: 150px;">
+                  Elevation:
+                </td>
+                <td style="width: 200px;">
+                  2403 m
+                </td>
+              </tr>
+            </table>
+          </div>
+        </div>
+      ]]></description>
+      <Point>
+        <coordinates>-107.724697, 27.654545, 2403.</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <styleUrl>#myWaypointStyle</styleUrl>
+      <name><![CDATA[Switchback start]]></name>
+      <visibility>1</visibility>
+      <description><![CDATA[
+        <div id="desc-container" style="font-size: 12px; min-height: 100px; min-width: 350px">
+          <div id="desc-section">
+            Sequence number: 17
+          </div>
+          <div id="desc-summary" style="width: 100%; float:left;">
+            <table border="0" style="width: 100%; margin: 8px 0">
+              <tr>
+                <td style="font-weight: bold; width: 150px;">
+                  Coordinates:
+                </td>
+                <td style="width: 200px;">
+                  WGS 84<br/>
+                  27° 39' 13.29'' N<br/>
+                  -107° 44' 07.06'' W
+                </td>
+              </tr>
+              <tr>
+                <td style="font-weight: bold; width: 150px;">
+                  Elevation:
+                </td>
+                <td style="width: 200px;">
+                  2248 m
+                </td>
+              </tr>
+            </table>
+          </div>
+        </div>
+      ]]></description>
+      <Point>
+        <coordinates>-107.735294, 27.653692, 2248.</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <styleUrl>#myWaypointStyle</styleUrl>
+      <name><![CDATA[Path to final hill]]></name>
+      <visibility>1</visibility>
+      <description><![CDATA[
+        <div id="desc-container" style="font-size: 12px; min-height: 100px; min-width: 350px">
+          <div id="desc-section">
+            Sequence number: 18
+          </div>
+          <div id="desc-summary" style="width: 100%; float:left;">
+            <table border="0" style="width: 100%; margin: 8px 0">
+              <tr>
+                <td style="font-weight: bold; width: 150px;">
+                  Coordinates:
+                </td>
+                <td style="width: 200px;">
+                  WGS 84<br/>
+                  27° 39' 05.05'' N<br/>
+                  -107° 44' 13.30'' W
+                </td>
+              </tr>
+              <tr>
+                <td style="font-weight: bold; width: 150px;">
+                  Elevation:
+                </td>
+                <td style="width: 200px;">
+                  2285 m
+                </td>
+              </tr>
+            </table>
+          </div>
+        </div>
+      ]]></description>
+      <Point>
+        <coordinates>-107.737028, 27.651403, 2285.</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <styleUrl>#myWaypointStyle</styleUrl>
+      <name><![CDATA[Upper loop crossing]]></name>
+      <visibility>1</visibility>
+      <description><![CDATA[
+        <div id="desc-container" style="font-size: 12px; min-height: 100px; min-width: 350px">
+          <div id="desc-section">
+            Sequence number: 19
+          </div>
+          <div id="desc-summary" style="width: 100%; float:left;">
+            <table border="0" style="width: 100%; margin: 8px 0">
+              <tr>
+                <td style="font-weight: bold; width: 150px;">
+                  Coordinates:
+                </td>
+                <td style="width: 200px;">
+                  WGS 84<br/>
+                  27° 39' 12.10'' N<br/>
+                  -107° 44' 17.90'' W
+                </td>
+              </tr>
+              <tr>
+                <td style="font-weight: bold; width: 150px;">
+                  Elevation:
+                </td>
+                <td style="width: 200px;">
+                  2325 m
+                </td>
+              </tr>
+            </table>
+          </div>
+        </div>
+      ]]></description>
+      <Point>
+        <coordinates>-107.738305, 27.653362, 2325.</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <styleUrl>#myWaypointStyle</styleUrl>
+      <name><![CDATA[Top of final hill]]></name>
+      <visibility>1</visibility>
+      <description><![CDATA[
+        <div id="desc-container" style="font-size: 12px; min-height: 100px; min-width: 350px">
+          <div id="desc-section">
+            Sequence number: 20
+          </div>
+          <div id="desc-summary" style="width: 100%; float:left;">
+            <table border="0" style="width: 100%; margin: 8px 0">
+              <tr>
+                <td style="font-weight: bold; width: 150px;">
+                  Coordinates:
+                </td>
+                <td style="width: 200px;">
+                  WGS 84<br/>
+                  27° 39' 18.45'' N<br/>
+                  -107° 44' 21.97'' W
+                </td>
+              </tr>
+              <tr>
+                <td style="font-weight: bold; width: 150px;">
+                  Elevation:
+                </td>
+                <td style="width: 200px;">
+                  2335 m
+                </td>
+              </tr>
+            </table>
+          </div>
+        </div>
+      ]]></description>
+      <Point>
+        <coordinates>-107.739437, 27.655126, 2335.</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <styleUrl>#myWaypointStyle</styleUrl>
+      <name><![CDATA[Side trip: loop tunnel]]></name>
+      <visibility>1</visibility>
+      <description><![CDATA[
+        <div id="desc-container" style="font-size: 12px; min-height: 100px; min-width: 350px">
+          <div id="desc-section">
+            Sequence number: 21
+          </div>
+          <div id="desc-summary" style="width: 100%; float:left;">
+            <table border="0" style="width: 100%; margin: 8px 0">
+              <tr>
+                <td style="font-weight: bold; width: 150px;">
+                  Coordinates:
+                </td>
+                <td style="width: 200px;">
+                  WGS 84<br/>
+                  27° 39' 21.73'' N<br/>
+                  -107° 44' 14.49'' W
+                </td>
+              </tr>
+              <tr>
+                <td style="font-weight: bold; width: 150px;">
+                  Elevation:
+                </td>
+                <td style="width: 200px;">
+                  2344 m
+                </td>
+              </tr>
+            </table>
+          </div>
+        </div>
+      ]]></description>
+      <Point>
+        <coordinates>-107.737357, 27.656037, 2344.</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <styleUrl>#myWaypointStyle</styleUrl>
+      <name><![CDATA[High Road last RR crossing]]></name>
+      <visibility>1</visibility>
+      <description><![CDATA[
+        <div id="desc-container" style="font-size: 12px; min-height: 100px; min-width: 350px">
+          <div id="desc-section">
+            Sequence number: 22
+          </div>
+          <div id="desc-summary" style="width: 100%; float:left;">
+            <table border="0" style="width: 100%; margin: 8px 0">
+              <tr>
+                <td style="font-weight: bold; width: 150px;">
+                  Coordinates:
+                </td>
+                <td style="width: 200px;">
+                  WGS 84<br/>
+                  27° 39' 17.37'' N<br/>
+                  -107° 44' 27.12'' W
+                </td>
+              </tr>
+              <tr>
+                <td style="font-weight: bold; width: 150px;">
+                  Elevation:
+                </td>
+                <td style="width: 200px;">
+                  2317 m
+                </td>
+              </tr>
+            </table>
+          </div>
+        </div>
+      ]]></description>
+      <Point>
+        <coordinates>-107.740867, 27.654826, 2317.</coordinates>
+      </Point>
+    </Placemark>
+
+	</Document>
+</kml>
+
