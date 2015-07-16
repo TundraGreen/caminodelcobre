@@ -26,31 +26,32 @@ This file is part of Camino del Cobre.
 	<li>
 	  <a href="waypoints.php?lang=<?php print($lang); ?>"><?php print(i18n('navbar.waypoints', $lang)); ?></a>
 	</li>
-	<li><?php print(i18n('navbar.guide', $lang)); ?>
+  <li>
+    <a href="guide.php?lang=<?php print($lang); ?>"><?php print(i18n('navbar.guide', $lang)); ?></a>
 	  <ul>
       <li>
-        <a href="segment-1.php?lang=<?php print($lang); ?>">Segment 1</a>
+        <a href="segment-1.php?lang=<?php print($lang); ?>"><?php print(i18n('navbar.segment_1', $lang)); ?></a>
       </li>
       <li>
-        <a href="segment-2.php?lang=<?php print($lang); ?>">Segment 2</a>
+        <a href="segment-2.php?lang=<?php print($lang); ?>"><?php print(i18n('navbar.segment_2', $lang)); ?></a>
       </li>
       <li>
-        <a href="segment-3.php?lang=<?php print($lang); ?>">Segment 3</a>
+        <a href="segment-3.php?lang=<?php print($lang); ?>"><?php print(i18n('navbar.segment_3', $lang)); ?></a>
       </li>
       <li>
-        <a href="segment-4.php?lang=<?php print($lang); ?>">Segment 4</a>
+        <a href="segment-4.php?lang=<?php print($lang); ?>"><?php print(i18n('navbar.segment_4', $lang)); ?></a>
       </li>
       <li>
-        <a href="segment-5.php?lang=<?php print($lang); ?>">Segment 5</a>
+        <a href="segment-5.php?lang=<?php print($lang); ?>"><?php print(i18n('navbar.segment_5', $lang)); ?></a>
       </li>
       <li>
-        <a href="segment-6.php?lang=<?php print($lang); ?>">Segment 6</a>
+        <a href="segment-6.php?lang=<?php print($lang); ?>"><?php print(i18n('navbar.segment_6', $lang)); ?></a>
       </li>
       <li>
-        <a href="segment-7.php?lang=<?php print($lang); ?>">Segment 7</a>
+        <a href="segment-7.php?lang=<?php print($lang); ?>"><?php print(i18n('navbar.segment_7', $lang)); ?></a>
       </li>
       <li>
-        <a href="suggested-day-hikes.php?lang=<?php print($lang); ?>">Suggested Routes</a>
+        <a href="suggested-routes.php?lang=<?php print($lang); ?>"><?php print(i18n('navbar.suggested_routes', $lang)); ?></a>
       </li>
     </ul>
 	</li>

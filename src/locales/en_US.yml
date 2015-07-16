@@ -1,4 +1,57 @@
 en_US:
+  guide:
+    intro: |
+      The following trail guide is designed to enable hikers to complete a ~25 kilometer (16 miles) hike connecting Creel and the Barranca del Cobre rim at Divisadero.  It currently stops at the crossing of the paved highway (Mexico 77) with the railroad ~20 kilometers south via the highway.  There are other shorter segments possible as well.
+    notes:
+      segment_1:
+        text: |
+          From Creel to the Old Road
+        title: |
+          Segment 1
+      segment_2:
+        text: |
+          From Old Road to Santa Elena
+        title: |
+          Segment 2
+      segment_3:
+        text: |
+          From Santa Elena to Recowata Turn-off
+        title: |
+          Segment 3
+      segment_4:
+        text: |
+          From Recowata Turn-off to the Pipeline
+        title: |
+          Segment 4
+      segment_5:
+        text: |
+          From the Pipeline to San Elias
+        title: |
+          Segment 5
+      segment_6:
+        text: |
+          From San Elias to the Old High Road
+        title: |
+          Segment 6
+      segment_7:
+        text: |
+          Old High Road to the Chepe railroad crossing
+        title: |
+          Segment 7
+      text_1: |
+        1. The guide is written from the perspective of a hiker leaving the train station in Creel traveling south.  However, the trail itself is designed to accommodate hikers walking in the northward direction (e.g., toward Creel) as well.  Trail markers are intentionally visible from both directions.  However, the Guide takes off from Creel as the center of tourism for the region and the primary terminus for the Chepe tourist train.  Hikers traveling north should be able to follow the path “in reverse:” e.g., “turn left” becomes “turn right,” “after the fork” becomes “before the fork,” etc.
+      text_2: |
+        2. The text Guide includes GPS waypoints (longitude, latitude, and elevation) that indicate important locations on the trail, such as key turns, landmarks, crossing points, or section endpoints,
+      text_3: |
+        3. To complement the text trail description, the Guide also includes a table of waypoints and a map depiction of those waypoints (Google Maps).  With the right GPS devices, hikers can track the path and confirm their location on the Camino using the way points if they want.
+      text_4: |
+        4. As appropriate, the Guide also includes photos of key turns, views, villages, markers, and other aspects of walking the Camino. 
+      text_5: |
+        5. The Guide is divided into Segments 1 to 7.  They vary in length from approximately 1 to 9 kilometerss, reflecting the exact location of places where hikers can access the Divisadero Highway for bus or other motor transport.  For hikers in good physical condition the entire 25 kilometer (16 miles) is possible in a single long day excursion.
+      title: |
+        Notes
+    title: |
+      Guide
   index:
     overview: |
       The Camino del Cobre (The Copper Canyon Trail) will be a long-distance trail that highlights the tourist wonders of the Copper Canyon region - nature, culture, history, and the opportunity for personal challenge.  Extending from the northern waterfalls to great southern canyons, the Trail will follow the rim of the world's largest canyon system - with chances to visit local villages and historical sites. When completed, the Trail will span a number of days in  its entirety.  Now hikers can follow the trail markers for their own route of 1,2 or more days, starting in the eco-tourist center of Creel, Chihuahua, Mexico.
@@ -26,6 +79,22 @@ en_US:
       Map
     region_route: |
       Region/Route
+    segment_1: |
+      Segment 1
+    segment_2: |
+      Segment 2
+    segment_3: |
+      Segment 3
+    segment_4: |
+      Segment 4
+    segment_5: |
+      Segment 5
+    segment_6: |
+      Segment 6
+    segment_7: |
+      Segment 7
+    suggested_routes: |
+      Suggested Routes
     vision: |
       Vision
     waypoints: |

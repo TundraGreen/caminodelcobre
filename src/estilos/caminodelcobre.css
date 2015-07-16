@@ -8,7 +8,7 @@ html, body {
   height: 100%;
   margin: 0px;
   padding: 0px;
-  border: black solid 1px;
+  border: blue solid 1px;
   z-index: 1;
 }
 
@@ -82,6 +82,13 @@ p {
 }
 #navbar li a:hover {
 	background-color: #8db3ff;
+}
+.navbar_non_link {
+	display: block;
+	padding: 5px 20px;
+	background-color: #5e8ce9;
+	color: #fff;
+	text-decoration: none;
 }
 
 /* ---------------------------- */
@@ -182,4 +189,14 @@ h4 {
   width: 325px;
   font-size: 0.9em;
   padding: 5px 5px 5px 5px;
+}
+
+/* ---------------------------- */
+/* --------- Guide -------- */
+/* ---------------------------- */
+.guide_first_indent {
+	padding: 0px 0px 10px 30px;
+}
+.guide_second_indent {
+	padding: 0px 0px 10px 90px;
 }
