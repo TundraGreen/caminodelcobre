@@ -28,30 +28,79 @@ This file is part of Camino del Cobre.
 		<?php include_once('includes/header.php') ?>
 		<?php include_once('includes/navbar.php') ?>
     <div class="vision_text_block">
-      <h3>La Visión</h3>
-      La visión de la Camino del Cobre es crear una experiencía única para los visitantes a la región de la Barranca del Cobre por medio de una caminata al lado de la barranca experimentando la belleza de sus vistas, las maravillas de sus culturas indígenas, y la historía colonial y local.  En la misma tradición de los famosos senderos de Europa o los EE. UU. - como el Camino de Santiago en España - el Camino sería un sendero de centenares de kilometros - desde el salto de Basaseachic hasta Sinforosa, la barranca más profunda de todas.  Siguiendo los señales del Camino los excursionistas podrían crear sus propías rutas de 1, 2 (o más) días dependiente de su preferencía - empezando en el centro eco-turistico de Creel y usando la red de senderos para visitar los pueblos Raramuri o los sitios historicos de la minería mexicana o las maravillas naturales.  A la misma vez se reconoce el beneficio de su visita en la vida económica de la región Tarahumara, una de las más interestantes pero más pobres de México.
+		  <h2><?php print(i18n('segment_1.title', $lang)); ?></h2>
+      <h3><?php print(i18n('segment_1.overview.title', $lang)); ?></h3>
+      <p><?php print(i18n('segment_1.overview.text', $lang)); ?></p>
+      <div class="half_width_photo floatLeft">
+        <img src="imagenes/Creel-Station.jpeg" width="300px" alt="Canyon Scene" /><br />
+        Creel Station
+      </div>
+      <div class="half_width_photo floatLeft">
+        <img src="imagenes/Creel-Trail-Marker.jpeg" width="300px" alt="Canyon Scene" /><br />
+        Creel Trail Marker
+      </div>
+      <div class="clear"></div>
+
+      <h3><?php print(i18n('segment_1.description.title', $lang)); ?></h3>
+      <p><?php print(i18n('segment_1.description.text_01', $lang)); ?></p>
+      <p><?php print(i18n('segment_1.description.text_02', $lang)); ?></p>
+      <p><?php print(i18n('segment_1.description.text_03', $lang)); ?></p>
+
+      <div class="third_width_photo">
+        <div>
+          <img src="imagenes/Highway-77-Bridge.jpeg" width="250px" alt="Canyon Scene" /><br />
+          Highway 77 Bridge
+        </div><br />
+        <div>
+          <img src="imagenes/Adobe-House.jpeg" width="250px" alt="Canyon Scene" /><br />
+          Adobe House
+        </div>
+      </div>
+
+      <div class="two_thirds_width_text">
+        <p><?php print(i18n('segment_1.description.text_04', $lang)); ?></p>
+        <p><?php print(i18n('segment_1.description.text_05', $lang)); ?></p>
+        <p><?php print(i18n('segment_1.description.text_06', $lang)); ?></p>
+      </div>
+      <div class="clear"></div>
+
+      <div class="two_thirds_width_text">
+        <p><?php print(i18n('segment_1.description.text_07', $lang)); ?></p>
+        <p><?php print(i18n('segment_1.description.text_08', $lang)); ?></p>
+        <p><?php print(i18n('segment_1.description.text_09', $lang)); ?></p>
+        <p><?php print(i18n('segment_1.description.text_10', $lang)); ?></p>
+      </div>
+
+      <div class="third_width_photo">
+        <div>
+          <img src="imagenes/Forest-Boulders.jpeg" width="250px" alt="Canyon Scene" /><br />
+          Forest Boulders
+        </div><br />
+        <div>
+          <img src="imagenes/Tarahumara-Farmers.jpeg" width="250px" alt="Canyon Scene" /><br />
+          Tarahumara Farmers
+        </div><br />
+        <div>
+          <img src="imagenes/Rock-Formations.jpeg" width="250px" alt="Canyon Scene" /><br />
+          Rock Formations
+        </div>
+      </div>
+      <div class="clear"></div>
+
+      <p><?php print(i18n('segment_1.description.text_11', $lang)); ?></p>
+      <p>
+        <?php print(i18n('segment_1.description.text_12', $lang)); ?>
+        <a href="segment-2.php?lang=<?php print($lang); ?>"><?php print(i18n('navbar.segment_2', $lang)); ?></a>
+      </p>
+      <div class="previous_next">
+        <div class="floatRight">
+          <a href="segment-2.php?lang=<?php print($lang); ?>"><?php print(i18n('segment.next', $lang)); ?></a>
+        </div>
+        <div class="clear"></div>
+      </div>
     </div>
-    <div class="vision_photo_block">
-      <img src="imagenes/Basaseachic.jpeg" width="200px" alt="Canyon Scene" /><br />
-      Basaseachic
-    </div>
-    <div class="vision_photo_block">
-      <img src="imagenes/RegionBarrancas.jpeg" width="200px" alt="Canyon Scene" /><br />
-      Region de las Barrancas
-    </div>
-    <div class="vision_photo_block">
-      <img src="imagenes/Sinforosa.jpeg" width="200px" alt="Canyon Scene" /><br />
-      Sinforosa
-    </div>
-    <div class="clear"></div>
-    <div class="vision_text_block">
-      <h3>Vision</h3>
-      The vision of the Camino del Cobre (The Copper Canyon Trail) is to create a unique experience for visitors to Copper Canyon with a hike along the rim of the canyon, experiencing the beauty of its vistas, the wonders of the local indigenous culture, and its colonial history.  In the tradition of the famous trails of Europe and America - like the Santiago Trail in Spain - the Camino will be a trail of hundreds of miles = from the Basaseachic Waterfall to Sinforosa Canyon, the deepest of all.  Following the Camino's trail signs, hikers will be able to create their own routes of 1, 2 or more days depending on their own preference - starting out in the eco-tourist center of Creel and using the trail network to visit nearby Raramuri (Tarahumara) villages or historic sites from the heyday of Mexican silver mining or the many natural wonders of the region.  As the same time they can enjoy the knowledge that their visit is making a contribution to the economic well-being of the Tarahumara region, one of the most interesting but poorest regions in all Mexico.
-    </div>
+
     <div class="clear"></div>
 		<?php include_once('includes/footer.php') ?>
 	</body>
 </html>
-
-
-

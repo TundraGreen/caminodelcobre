@@ -175,9 +175,10 @@ h4 {
   padding: 5px 5px 5px 5px;
 }
 
-/* ---------------------------- */
+/* ------------------------------- */
 /* --------- Region/Route -------- */
-/* ---------------------------- */
+/* --------- Segments ------------ */
+/* ------------------------------- */
 .half_width_photo {
   float: left;
   width: 325px;
@@ -187,6 +188,22 @@ h4 {
 .half_width_text {
   float: left;
   width: 325px;
+  font-size: 0.9em;
+  padding: 5px 5px 5px 5px;
+}
+.third_width_photo {
+  float: left;
+  width: 270px;
+  padding: 20px 15px 20px 15px;
+  text-align: center;
+}
+.two_thirds_width_text {
+  float: left;
+  width: 400px;
+  font-size: 0.9em;
+  padding: 5px 5px 5px 5px;
+}
+.previous_next {
   font-size: 0.9em;
   padding: 5px 5px 5px 5px;
 }

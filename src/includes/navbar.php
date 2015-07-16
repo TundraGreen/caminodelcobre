@@ -15,7 +15,11 @@ This file is part of Camino del Cobre.
 	<li>
 	  <a href="vision.php?lang=<?php print($lang); ?>"><?php print(i18n('navbar.vision', $lang)); ?></a>
 	</li>
-	<li><a href="region-route.php?lang=<?php print($lang); ?>"><?php print(i18n('navbar.region_route', $lang)); ?></a>
+	<li>
+	  <a href="camino.php?lang=<?php print($lang); ?>"><?php print(i18n('navbar.camino', $lang)); ?></a>
+	</li>
+	<li>
+	  <a href="region-route.php?lang=<?php print($lang); ?>"><?php print(i18n('navbar.region_route', $lang)); ?></a>
 	</li>
 	<li>
 	  <a href="logistics.php?lang=<?php print($lang); ?>"><?php print(i18n('navbar.logistics', $lang)); ?></a>

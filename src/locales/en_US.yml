@@ -1,4 +1,25 @@
 en_US:
+  camino:
+    camino:
+      text_1: |
+        The Camino is still in its early phase of development.  In the future it will extend from the northern barrancas with their scenic waterfalls, along the canyon rims, and ultimately to the deep canyons and the intensely Tarahumara culture of the south.  At this time, however, the Camino is focused in the tourist center of Creel.
+      text_2: |
+        The principal station on the famous Chihuahua Pacific ("Chepe") railroad line through the Copper Canyon region, Creel is in the middle of the entire Barrancas del Cobre area.  It offers good access to explore both north and south from the rim to the High Country.  It has well-developed facilities and experienced individuals to provide outstanding recreation in biking, horseback riding, adventuring, hiking, 4 wheelers, and guided touring.  For this reason the initial section of the Camino starts in Creel with the final destination of the famous vistas of Divisadero.   In later years additional sections will be gradually added to the Camino to complete its long-distance vision.
+      title: |
+        Camino del Cobre
+    creel:
+      text_1: |
+        The Camino is intended to be enjoyed in smaller parts (like other famous Trails), rather than in a single long effort.  The initial part begins in Creel and extends toward the rim vistas of ​Divisadero in segments of varying lengths, depending on the hiker’s preference and ability.  The first segments available in 2015 go 25 kilometers via the trail (20 kilometers via the Creel-Divisadero highway) toward the barrancas near Divisadero.  With a number of convenient places to stop and return to Creel by vehicle (or the Chepe train), the trail offers a good opportunity to enjoy the High Country pine forest with views of the distant barrancas.
+      text_2: |
+        More information about the Copper Canyon region and hiking the Camino itself is provided in the
+      text_3: |
+        and
+      text_4: |
+        sections.  Click to learn more.
+      title: |
+        2015 - 16: From Creel toward Divisadero
+    title: |
+      Camino del Cobre
   guide:
     intro: |
       The following trail guide is designed to enable hikers to complete a ~25 kilometer (16 miles) hike connecting Creel and the Barranca del Cobre rim at Divisadero.  It currently stops at the crossing of the paved highway (Mexico 77) with the railroad ~20 kilometers south via the highway.  There are other shorter segments possible as well.
@@ -69,6 +90,8 @@ en_US:
     title: |
       Map
   navbar:
+    camino: |
+      Camino
     guide: |
       Guide
     home: |
@@ -130,6 +153,47 @@ en_US:
         The Camino largely takes advantage of previous paths and roads used by the Tarahumara and other local residents.  It often goes by farm fields and isolated houses.  It often selects the paths best suited for hikers, rather than just for more practical purpose (such as choosing a more scenic path, rather than the most direct).  Depending on what is available in any specific area, the Camino uses rural roads, narrow single-track paths through the woods, the wide open course of pipelines, ATV or mountain bike tracks, and an occasional cross country “bush whack” with clear markers on trees.   It then connects these disparate paths into an overall path connecting important points on the way.  The hiker could easily start on a wide rural road, transition to a narrow path through the trees for a short time, then switch to a pipeline course, and back to a forest path. 
       title: |
         The Trail of Trails
+  segment:
+    next: |
+      Next segment
+    previous: |
+      Previous segment
+  segment_1:
+    description:
+      text_01: |
+        The trail heads south (in the direction marked toward Los Mochis indicated on the train station), starting immediately after leaving the station (27.75438, 107.634893, elevation 2340 m),
+      text_02: |
+        A green and red trail marker is painted on the rock wall opposite the station across the tracks. There is similar green and red trail signage painted on the wall going south from the station and later on posts and buildings through the rail yard.  There is a concrete sidewalk on the east side of the tracks for 200 meters from the station past the central plaza.
+      text_03: |
+        After the town center, several unpaved paths run parallel to the main tracks.  The most suitable trail varies from one side of the tracks to another, and hikers can choose their preferred path.  The tracks themselves also vary between single tracks and double tracks for 300 meters until a “rail yard” widens out with multiple tracks, returning to a single track at ~600 meters.
+      text_04: |
+        ~750 meters south of the station, the trail bends to the west (right) and passes under a white highway bridge for the principal highway into Creel (Mexico 77). (27.743488, 107.643543, elevation 2340 m).
+      text_05: |
+        It continues another 300 meters along a road that parallels the railroad tracks with houses and small shops.  It then crosses the tracks next to the large rocks of the mesa and bends left along the tracks as they make a large turn to the left (south).  For ~100 meters the trail is 5 meters below the tracks.  Midway along the turn of the tracks the trail turns hard right (west) along an unpaved rural road.  On the right are farms fields and pastures with houses several hundred meters from the trail. The trail is on the south side of a flat farming valley ~1 km long.  (The Lion Caves (Cuevas de los Leones) is on the north side along a side road,) ~150 meters after the right turn the trail forks left (crossing a small waters course) and climbs gradually on the south side past more rural homes.  
+        
+      text_06: |
+        As of 2015, there is an unfinished adobe house on the right side of the trail as it begins its climb on the left. (27.742904, 107.647314, elevation 2340 m).
+      text_07: |
+        After ~100 meters the trail enters the trees as it climbs to the top of the mesa above Creel.  There are views to the right (north) over the valley and mesas.  Following a series of forest paths and switchbacks the trail reaches the top of the mesa after 20 minutes.  The trail emerges from the trees to turn right (west northwest) onto a rural road that runs above the rural valley.  The trail is generally flat with trees on the right above the escarpment and mixed fields and trees on the left.  The trail passes through open woods terrain with trail markers on trees, rocks in the road, and on large boulders next to the road.   The direction is generally west northwest.  In this section there are many rural roads and smaller paths in all directions.  Attention to stay on the right trail may be necessary.
+      text_08: |
+        After ~1.5 km in open forest the trail turns more to the west and enters denser woodlands, sometimes following fence lines enclosing farm fields on the left.  ~3 km from Creel (40 minutes), after crossing a small water course, the trail turns sharply to the west.  It follows rural roads and fence lines with farm fields (sometimes with farm houses and animals and local Tarahumara farmers) on the left.
+      text_09: |
+        In this section there are also many small paths and roads that cross or run parallel to the trail.  After ~1 kms the trail turns hard to the right from a road onto a forest path that descends gradually and crosses another small water course. It climbs gradually through open forest until it meets a farm field on the left and follows the fence line until turning left (again along fence line) for 200 meters.
+      text_10: |
+        On the right large rock formations and a bare gravel pit are visible 100+ meters from the trail. There are many cris-crossing paths in this area. The pit is ~3.5 kms from Creel via the trail.  On the far (west) side of the pit (~200 meters from the trail) is the old road from Creel to Divisadero.  Hikers wanting to return to Creel have the option of crossing the pit, turning right on the old road, and walking back to town.
+      text_11: |
+        Midway along the fence line the trail bends slightly to the right into the trees (remaining to the east of the gravel pit).  It descends slightly into a water course, rising on the other side to pass through a rural gate and 20 meters beyond into a large field at its northwest corner. The trail passes 100 meters in the west side if the field next to dense woods on the right.  A second mesa climbs steeply in the right. At the southwest corner it passes through another rural gate and turns sharply right (west).  After ~100 meters the trails climbs steeply (~40 meter gain in 400 meters) to the top of the second mesa.  The area is heavily forested in pine with madrone (red barked broad-leaf tree).  After reaching the top of the mesa the trail bends gently to the right until reaching the old road from Creel to Divisadero (unpaved and rough).
+      text_12: |
+        Hikers wanting to return to Creel at this point can turn right onto the old road and walk along it for ~5 kms.  However, the Camino turns left at this junction and continues to
+      title: |
+        Trail description
+    overview:
+      text: |
+        This section takes hikers from the Creel train station into the forest outside of town.  After passing through a residential area to the south, it separates from the railroad tracks and climbs into the forest on the mesas surrounding the town.  Once on the mesa, it passes through a mixture of farm fields and forest, sometimes on a rural road and sometimes on a single-track forest path.  After a second climb up another mesa, it ends at the old road between Creel and Divisadero ~4 km from Creel.
+      title: |
+        Overview
+    title: |
+      Segment 1: From Creel to the Old Road
   vision:
     text: |
       The vision of the Camino del Cobre (The Copper Canyon Trail) is to create a unique experience for visitors to Copper Canyon with a hike along the rim of the canyon, experiencing the beauty of its vistas, the wonders of the local indigenous culture, and its colonial history.  In the tradition of the famous trails of Europe and America - like the Santiago Trail in Spain - the Camino will be a trail of hundreds of miles = from the Basaseachic Waterfall to Sinforosa Canyon, the deepest of all.  Following the Camino's trail signs, hikers will be able to create their own routes of 1, 2 or more days depending on their own preference - starting out in the eco-tourist center of Creel and using the trail network to visit nearby Raramuri (Tarahumara) villages or historic sites from the heyday of Mexican silver mining or the many natural wonders of the region.  As the same time they can enjoy the knowledge that their visit is making a contribution to the economic well-being of the Tarahumara region, one of the most interesting but poorest regions in all Mexico.
