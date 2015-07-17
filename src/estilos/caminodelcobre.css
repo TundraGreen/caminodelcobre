@@ -149,7 +149,7 @@ h4 {
 /* ---------------------------- */
 .vision_text_block {
 	border: 1px solid blue;
-	width: 750px;
+	width: 820px;
 	padding: 10px 20px 20px 20px;
 	margin: 2px 2px 2px 2px;
 	line-height: 1.5em;
@@ -196,17 +196,22 @@ h4 {
   padding: 20px 15px 20px 15px;
   text-align: center;
 }
+.third_width_photo {
+  float: left;
+  width: 270px;
+  padding: 20px 15px 20px 15px;
+  text-align: center;
+}
 .half_width_text {
   float: left;
   width: 325px;
   font-size: 0.9em;
   padding: 5px 5px 5px 5px;
 }
-.third_width_photo {
+.third_width_text {
   float: left;
-  width: 270px;
-  padding: 20px 15px 20px 15px;
-  text-align: center;
+  width: 200px;
+  padding: 5px 5px 5px 5px;
 }
 .two_thirds_width_text {
   float: left;

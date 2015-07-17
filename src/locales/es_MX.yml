@@ -159,12 +159,12 @@ es_MX:
       title: |
         Descripción de la ruta
     next: |
-      El segmento siguiente
+      La etapa siguiente
     overview:
       title: |
         Información general
     previous: |
-      El segmento anterior
+      La etapa anterior
   segment_1:
     description:
       text_01: |
@@ -277,6 +277,42 @@ es_MX:
         The walking path is often over exposed rough rocky terrain with only low vegetation and few trees. However, there are also short sections within the pine forest (which is generally to the left of the trail) through large boulder fields. There are several water courses or gullies or rolling terrain to cross with a final descent of ~50 meters in the last 500 meters.
     title: |
       Etapa 4: De la Carretera a Recowata al Gasoducto
+  segment_5:
+    description:
+      text_01: |
+        After leaving the cleared pipeline area, the trail again follows the course of the gas line up a small hill and then generally flat for 600 meters.  Trail markers often are painted on large rocks in the path.  At the start both the tracks (on the right) and the road (on the left) run near the trail in cut-out courses ~5 - 10 meters below the trail.  The railroad then bends farther away from the trail to the right (turning northwest).
+      text_02: |
+        At 600 meters the trail comes to the top of a hill and turns sharply to the right away from the pipeline. The highway is visible from this highpoint to the front, and there are views to the left over rolling barranca country.  After the sharp turn the trail turns back to the left, descending slightly through the trees.  It then climbs steeply (up 10 meters in 50 meters) a short hill through the forest.  From the hill top there are more views to the left from large boulders on the rim.
+      text_03: |
+        The trail crosses low vegetation to the left and joins a defined single track path through the woods, gradually descending and bending left. The path is through the pine and madrone forest.  After ~200 meters it bends gently to the right while continuing to descend.  The railroad is ~1/2 km to the right at this point.  As the trail approaches the dispersed community of El Ojito, there are a number of paths and roads connecting the Tarahumara families who often live near the rocks scattered throughout the area.  Care to follow the Camino markers (primarily on trees) may be necessary.
+      text_04: |
+        After ~1 km the trail reaches the bottom of the El Ojito valley the trail crosses the valley in sight of various farm fields along fences.  At the corner of one such farm (~150 meters into the valley), the trail turns right onto a rural road and climbs gradually along a network of rural roads to where it approaches the railroad (after 1/2 km).  The road is wide enough for vehicles and passes through the pine forest with frequent shady sections.  Care to follow the Camino markers on both trees and rocks may be necessary.
+      text_05: |
+        Near the close approach of the railroad (amid a large boulder field), a small field and Tarahumara dwellings are visible on the left.  The trail continues through the trees generally flat for 300 meters until leaving the road and bending right onto a narrow single track path through the forest.  Care to follow the Camino onto this narrow path may be necessary.  Within ~30 meters the path crosses a water course before continuing flat through the trees.  Another ~300 meters further on, the trail turns right onto a wider path / road and descends slightly while later bending left.
+      text_06: |
+        After ~250 meters the Divisadero highway becomes visible on the left.  In addition, the railroad is also getting closer to the trail from the right.  The trail leaves the road turning right onto a narrow path that passes through low bushes toward the highway as well as the railroad.
+      text_07: |
+        After ~100 meters the path crosses the railroad at the point where the tracks pass under the highway (a 10 meter high stone and steel bridge). (27.690123, 107.720119, elevation 2442 meters). It again passes through slow vegetation while gradually climbing ~10 meters in the trees along a defined path across a barbed wire fence.  ~100 meters past the fence the path bends left to merge with a rural road. The trail continues 150 meters along the road through the forest to the community of San Elias.​
+      text_08: |
+        San Elias is a small Tarahumara community with a number of buildings scattered across an open area of fields and houses.  It is just on the right (west) side of the Creel-Divisadero highway. The trail enters the village by turning right onto the highway access road next to a distinctive green and white 15 meter high water tower (27.687397, 107.724006, elevation 2453 meters).  Further along the access road is a small white church and many other buildings.
+    overview:
+      text: |
+        This section of the Camino goes ~3 km southwest from the crossing point of the gas pipeline and the small community of San Elias.  Much of the trail is a pleasant walk through pine forest near the community of El Ojito located on the Creel-Divisadero highway.  The trail lies between the highway (east) and the railroad (west).  Although often not in sight of the highway or railroad, it is sufficiently near that train and road traffic can be heard.  A highlight of the section is crossing the railroad at the point where the railroad itself crosses under the Highway 77 bridge.
+    title: |
+      Etapa 5: Del Gasoducto a San Elias
+  segment_6:
+    description:
+      text_01: |
+        From the water tower as the trail enters San Elias,, the Camino takes a left fork off the access road and continues past several school buildings on the right. Then it turns left on a village road through a gate into a more open farming and residential area on both left and right.
+      text_02: |
+        After 250 meters the road passes through another gate and further through the trees to another clearing with several houses.  Immediately before the clear area, the trail turns sharply left on a track road that descends gradually toward the highway, ending only 10 meters away and then then turning parallel to it, crossing under a barbed wire fence.  The vegetation in this portion is low scattered bushes. The trail climbs slowly into some trees until reaching a small clearing on the side of the highway. This is the crossing point to the east side of Highway 77. (27.681117, 107.723681, elevation 2448 meters)
+      text_03: |
+        ​​At the clearing the trail turns sharply left to cross the highway and enters the pine forest.  It climbs through the trees bending right to the top of the small hill.  From the top there are views over the El Cajon canyon to the west and over other Tarahumara houses of the San Elias community to the east.  The trail goes to the left of the hill summit across a low barbed wire fence and then down steeply (and right) through open low brush vegetation.  At the bottom of the descent (and then to the left) there is an open gate.  The trail goes through the gate and once again descends steeply for 30 meters across an open clearing.  The trail passes through the clearing and then climbs abruptly to the start of the old high road from Creel to Divisadero.  The Camino is the road that climbs  on the right up from the open area. (27.679138, 107.721080, elevation 2439 meters)
+    overview:
+      text: |
+        This short (slightly >1 km) section connects the pueblo of San Elias with the turn-off to the old high road from Creel to Divisadero.  It generally follows the route of the current highway.  By contrast, the railroad (which the trail crossed in the prior section 5) has turned to the east to avoid the El Cajon canyon and is increasingly distant from the trail for the next ~5 kms.
+    title: |
+      Etapa 6: De San Elias a la Carretera Alto Viejo
   vision:
     text: |
       La visión de la Camino del Cobre es crear una experiencía única para los visitantes a la región de la Barranca del Cobre por medio de una caminata al lado de la barranca experimentando la belleza de sus vistas, las maravillas de sus culturas indígenas, y la historía colonial y local.  En la misma tradición de los famosos senderos de Europa o los EE. UU. - como el Camino de Santiago en España - el Camino sería un sendero de centenares de kilometros - desde el salto de Basaseachic hasta Sinforosa, la barranca más profunda de todas.  Siguiendo los señales del Camino los excursionistas podrían crear sus propías rutas de 1, 2 (o más) días dependiente de su preferencía - empezando en el centro eco-turistico de Creel y usando la red de senderos para visitar los pueblos Raramuri o los sitios historicos de la minería mexicana o las maravillas naturales.  A la misma vez se reconoce el beneficio de su visita en la vida económica de la región Tarahumara, una de las más interestantes pero más pobres de México.
