@@ -11,7 +11,8 @@ This file is part of Camino del Cobre.
 <!DOCTYPE html>
 <html>
 	<head>
-		<meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta name="viewport" content="width=device-width; height=device-height;
+      maximum-scale=1.4; initial-scale=1.0; user-scalable=yes"/>
 		<meta charset="utf-8">
 		<title>
       <?php print(i18n('segment_2.title', $lang)); ?>
@@ -19,12 +20,10 @@ This file is part of Camino del Cobre.
 		<link href="estilos/master.css" rel="stylesheet" type="text/css" />
 		<link href="estilos/caminodelcobre.css" rel="stylesheet" type="text/css" />
 		<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Raleway">
-		<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDs2Fim0SK8tW23TjUALTd1V_K8pHmcps4">
-    </script>
 		<script src="javascript/caminodelcobre.js"></script>
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript"></script>
 	</head>
-	<body onclick="stopSwap()" onload="init()">
+	<body>
 		<?php include_once('includes/header.php') ?>
 		<?php include_once('includes/navbar.php') ?>
     <div class="vision_text_block">

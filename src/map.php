@@ -11,7 +11,8 @@ This file is part of Camino del Cobre.
 <!DOCTYPE html>
 <html>
 	<head>
-		<meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta name="viewport" content="width=device-width; height=device-height;
+      maximum-scale=1.4; initial-scale=1.0; user-scalable=yes"/>
 		<meta charset="utf-8">
 		<title>
       <?php print(i18n('map.title', $lang)); ?>
