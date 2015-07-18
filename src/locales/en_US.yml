@@ -9,7 +9,7 @@ en_US:
         Camino del Cobre
     creel:
       text_1: |
-        The Camino is intended to be enjoyed in smaller parts (like other famous Trails), rather than in a single long effort.  The initial part begins in Creel and extends toward the rim vistas of ​Divisadero in segments of varying lengths, depending on the hiker’s preference and ability.  The first segments available in 2015 go 25 kilometers via the trail (20 kilometers via the Creel-Divisadero highway) toward the barrancas near Divisadero.  With a number of convenient places to stop and return to Creel by vehicle (or the Chepe train), the trail offers a good opportunity to enjoy the High Country pine forest with views of the distant barrancas.
+        The Camino is intended to be enjoyed in many ways.  Some visitors may want to undertake a single long continuous effort while others may prefer to experience it by means of a series of smaller excursions.  As of 2015 the initial parts begin in Creel and extend toward the rim vistas of ​Divisadero in segments of varying lengths, depending on the hiker’s preference and ability.  The first segments go 25 kilometers via the trail (20 kilometers via the Creel-Divisadero highway) toward the barrancas near Divisadero.  With a number of convenient places to stop and return to Creel by vehicle (or the Chepe train), the trail offers a good opportunity to enjoy the High Country pine forest with views of the distant barrancas.
       text_2: |
         More information about the Copper Canyon region and hiking the Camino itself is provided in the
       text_3: |
@@ -84,8 +84,47 @@ en_US:
     title: |
       The Copper Canyon Trail
   logistics:
+    maps:
+      text_01: |
+        The Camino region is a rugged and relatively less explored area. The detail trail and topographic maps often purchased for use in other countries are not available.
+      text_02: |
+        However, for an overall perspective, hikers may want to buy a topographic and road map of the area south of Creel. It omits the final 2 kilometers into Creel itself but provides valuable information for the remaining 95% of the Camino . The map is a product of the Mexican geographical service called INEGI (for its initials in Spanish). The section depicted is titled San Jose de Guacayvo with the ID (number _____.
+      text_03: |
+        The map is good for giving an overview of the relief of the area (arroyos, summits, and the like). However, its information about trails, roads, power lines, and houses is in many cases out of date or unreliable. It is for sale in various shops in Creel.
+      title: |
+        Maps
+    segments_transport:
+      text_01: |
+        The Camino is for hikers who want to enjoy walking outdoors. However, in practical terms, many hikers may want to spend some portion of a day hiking and the rest of the day at some other recreational activity. Therefore, the Camino is designed to be experienced in discrete, and somewhat independent, segments (similar to Trails in other countries). At convenient points along the Camino the hiker can leave the trail, walk ~50 meters to a junction with Highway 77, and return to Creel via some form of motor transportation. Alternatively, the hiker may take a vehicle from Creel to an access point, and return to town walking on the Camino.
+      text_02: |
+        The most convenient vehicle transport is with one of the many transportation companies in Creel. In many cases it is possible to arrange direct transport either to or from an access point for a reasonable cost.
+      text_03: |
+        Alternatively, some hikers may prefer to use buses. Bus transportation is a very common throughout Mexico. The Creel and entire Barrancas region has a well-developed system of bus transportation. There are many buses that regularly travel along the main Creel-to-Divisadero highway. Using buses for some portion of a day’s hiking is feasible.
+      text_04: |
+        There are 3 leading bus companies that serve the highway: Rápidos Cauhtémoc,,its affiliate Transportes Chihuahuenses, and Noroeste. Their offices and departure points are located in Creel on the same road as the train station (on the west side of the tracks). Between Creel and San Rafael (a village just south of Divisadero) their official stops along the highway are in the pueblos of Santa Elena, San Elias, and Pitorreal. In several locations there are also permanent bus stop structures along the highway such as at the rancho of Nacayvo.
+      text_05: |
+        However, as is common in Mexico, bus drivers will stop and let passengers off anywhere on the route they want (subject to a safe and convenient location). Similarly, bus drivers will stop to pick up passengers who “flag them down” anywhere on the highway (also in safe locations).
+      text_06: |
+        Bus costs from Creel(2015) range from 20 pesos ( the pueblos closest to Creel) to 50 pesos (Divisadero).
+      text_07: |
+        Rapidos and Chihuahuenses run every 2 hours from 8:30 a.m. until 18:30. Noreste has buses every 4 hours starting at 10:30
+      title: |
+        Trail Segments and Motor Transport
     title: |
       Logistics
+    trail_markers:
+      text_01: |
+        The Camino is indicated by simple green and red trail markers roughly 5 X 10 centimeters (2 X 4 inches) painted primarily on trees or rocks. The markers are generally horizontal bars. In certain situations the markers are also found on telephone poles, fence posts, concrete walls, buildings, even the concrete ties of the railroad – anywhere they are easily visible and helpful to the hiker who doesn’t know the route.
+      text_02: |
+        The markers are generally 30 - 40 meters apart. In cases where the trail is difficult to follow, or very important, the markers are more frequent – sometimes as close as 5 meters or less. On some paths that are easy to follow (for example, a long straight road with no intersecting paths), the markers are farther apart. Their purpose is primarily to provide reassurance that the hiker is indeed on the correct path.
+      text_03: |
+        From one marker it should be possible to see the next marker along the trail. If not immediately visible, hikers should walk forward following their previous direction (e.g., straight) while looking for the next marker on nearby trees or rocks. It should be visible within 15 meters.
+      text_04: |
+        In addition to the principal markers showing the correct path, the Camino also shows a large red “X” on trails that are NOT correct. These are typically found at intersections where there might be some uncertainty about which path to take.
+      text_05: |
+        Moreover, to show where there are turns or gentler “bends” in the path, the trail markers show the oncoming turn, either sharply or in a gradual “Y” curve.
+      title: |
+        Trail Markers
   map:
     title: |
       Map
@@ -140,7 +179,7 @@ en_US:
       text_3: |
         In certain locations, the Camino also follows the course of pipelines carrying water and natural gas between Creel and certain rim villages (Divisadero, Arepanoguchi, San Rafael).  The pipeline course is also close to the highway (primarily) and railroad tracks.  These sections are somewhat more “up and down” than those nearer the railroad.  However, the pipelines also tend to avoid the extremely steep changes possible in such rugged country.
       text_4: |
-        By taking advantage of these existing routes, the Camino generally offers comfortable walking in rolling terrain without the extra-rigorous demands of a high-altitude (8000 ft) hike.  In addition to this physical aspect, the proximity of the road (and railroad) offers hikers the security of knowing that there are alternative ways to return to developed areas, if they want to stop or if they face a medical or other emergency.
+        By taking advantage of these existing routes, the Camino generally offers comfortable walking in rolling terrain without the extra-rigorous demands of a high-altitude (2000+ m) hike.  In addition to this physical aspect, the proximity of the road (and railroad) offers hikers the security of knowing that there are alternative ways to return to developed areas, if they want to stop or if they face a medical or other emergency.
         
       title: |
         The Route

@@ -2,14 +2,14 @@ es_MX:
   camino:
     camino:
       text_1: |
-        The Camino is still in its early phase of development.  In the future it will extend from the northern barrancas with their scenic waterfalls, along the canyon rims, and ultimately to the deep canyons and the intensely Tarahumara culture of the south.  At this time, however, the Camino is focused in the tourist center of Creel. 
+        El Camino está todavía en proceso de desarrollarse, en el futuro va a extenderse desde las barrancas norteñas con sus cascadas hermosas, a lo largo de los bordes de los cañones, hasta las barrancas profundas y la cultural intensamente Tarahumara del sur.  Sin embargo, en este momento, el Camino está enfocado en el centro turístico de Creel, Chihuahua. 
       text_2: |
-        The principal station on the famous Chihuahua Pacific ("Chepe") railroad line through the Copper Canyon region, Creel is in the middle of the entire Barrancas del Cobre area.  It offers good access to explore both north and south from the rim to the High Country.  It has well-developed facilities and experienced individuals to provide outstanding recreation in biking, horseback riding, adventuring, hiking, 4 wheelers, and guided touring.  For this reason the initial section of the Camino starts in Creel with the final destination of the famous vistas of Divisadero.   In later years additional sections will be gradually added to the Camino to complete its long-distance vision.
+        Creel es la estación principal del Ferrocarril Chihuahua Pacífico (conocido como "El Chepe" por sus letras CHP) en la zona de las Barrancas del Cobre.  Se queda verdaderamente en el corazón de la Región, desde Creel se puede explorar fácilmente las partes al norte y al sur, desde el borde hasta la Tierra Alta, conociendo sus atractivos naturales y sus pueblos indigenas.  Tiene una infraestructura turística bien desarrollada y las personas capacitadas en todas las actividades recreativas como el ciclismo, paseos en caballo, aventurismo, caminatas, cuadrimotos (los ATVs), y paseos con guía.  Por eso la sección inicial del Camino empieza en Creel con el destino final de las vistas famosas de Divisadero, en los años siguientes otras secciones se van a integrarse con el Camino para realizar su visión de un sendero de larga distancia.
       title: |
         Camino del Cobre
     creel:
       text_1: |
-        The Camino is intended to be enjoyed in smaller parts (like other famous Trails), rather than in a single long effort.  The initial part begins in Creel and extends toward the rim vistas of ​Divisadero in segments of varying lengths, depending on the hiker’s preference and ability.  The first segments available in 2015 go 25 kilometers via the trail (20 kilometers via the Creel-Divisadero highway) toward the barrancas near Divisadero.  With a number of convenient places to stop and return to Creel by vehicle (or the Chepe train), the trail offers a good opportunity to enjoy the High Country pine forest with views of the distant barrancas.
+        La intención actual es que los caminantes puedan disfrutar el Camino en muchas formas.  Algunos puedan desear un solo esfuerzo largo y continuo; otras personas  por medio de una serie de excursiones más cortos.  En 2015 las partes iniciales comienzan en Creel y siguen hacia el sur (Divisadero) por unos segmentos de largo variable, dependiente de la preferencia y la capacidad del caminante mismo, el primer segmento disponible se extiende20 kilómetros por el Camino hacia el borde de la barranca en Divisadero (aproximadamente 25 kilómetros por la carretera pavimentada).  Con muchos lugares convenientes para parar y regresar a Creel por vehículo (o el ferrocarril) el Camino ofrece al excursionista una oportunidad excelente para disfrutar el bosque de la Tierra Alta con muchas vistas de las barrancas lejanas.
       text_2: |
         More information about the Cobre region and hiking the Camino itself is provided in the
       text_3: |
@@ -17,7 +17,7 @@ es_MX:
       text_4: |
         sections.  Click to learn more.
       title: |
-        2015 - 16: De Creel a Divisadero
+        2015 - 16: Desde Creel a Divisadero
     title: |
       Camino del Cobre
   guide:
@@ -85,8 +85,47 @@ es_MX:
     title: |
       Camino del Cobre
   logistics:
+    maps:
+      text_01: |
+        logistics.maps.text_01
+      text_02: |
+        logistics.maps.text_02
+      text_03: |
+        logistics.maps.text_03
+      title: |
+        Mapas
+    segments_transport:
+      text_01: |
+        logistics.segments_transport.text_01
+      text_02: |
+        logistics.segments_transport.text_02
+      text_03: |
+        logistics.segments_transport.text_03
+      text_04: |
+        logistics.segments_transport.text_04
+      text_05: |
+        logistics.segments_transport.text_05
+      text_06: |
+        logistics.segments_transport.text_06
+      text_07: |
+        logistics.segments_transport.text_07
+      title: |
+        Etapas de la Ruta y Camiones
     title: |
       Logistica
+    trail_markers:
+      text_01: |
+        logistics.trail_markers.text_01
+      text_02: |
+        logistics.trail_markers.text_02
+      text_03: |
+        logistics.trail_markers.text_03
+      text_04: |
+        logistics.trail_markers.text_04
+      text_05: |
+        logistics.trail_markers.text_05
+      title: |
+        Señales de la Ruta
   map:
     title: |
       Mapa
@@ -126,22 +165,22 @@ es_MX:
   region_route:
     high_country:
       text_1: |
-        The High Country region between Creel and the rim (Divisadero) is generally rugged, rolling terrain lying between 2,100 to 2,400 meters (roughly 7000 and 8000 feet) in elevation.  In many cases the terrain is that of a ”mesa” (Spanish for “table”) and quite flat for many kilometers.  However, there are also many arroyos (small canyons carved by water) cutting across the mesa.  However, the elevation change between the top of the mesa and the bottom is generally less than 200 meters.
+        La Sierra Alta entre Creel y el borde del canon (en Divisadero) es una región accidentada y ondulada que se encuentre entre 2,100 y 2,400 metros de altitud, en muchas áreas el relieve está como una mesa, es decir, bastante plano por muchos kilómetros.  Sin embargo, también hay unos arroyos (barrancos secos) que cruzan la mesa, en estos casos la desnivel entre el fondo de los arroyos y la cima de la mesa está solamente raras veces más de 200 metros..
       text_2: |
-        Close to Creel views are primarily those of forested ridges and arroyos.  Further south, the vistas widen out to the barrancas and river canyons.
+        Cerca de Creel las vistas están mayormente de las crestas emboscadas, más al sur (cerca de Divisadero) ellas se ensanchan hasta las barrancas y cañones.
       text_3: |
-        The region is well forested primarily with Ponderosa pine.  There are also stands of coniferous cedars and junipers and deciduous trees such as oak and madrone (a low, distinctively red-barked tree).  However, despite the presence of the many water courses, there is little water on the surface except during the rainy season.
+        La region está bien emboscada primeramente con los pinos Ponderosa, aunque también hay los cedros y juníperos y otros árboles de hoja caduca como los robles o las madronas (un árbol bajo con una corteza roja), sin embargo, a pesar de la existencia de muchos arroyos hay poco agua en la superficie de la tierra salvo en la temporada de lluvias.
       title: |
-        El Campo Alto
+        La Tierra Alta
     route:
       text_1: |
-        Due to the rugged and undeveloped terrain of the Creel region, the Camino generally follows the Chepe railroad route southward toward Divisadero.  By its nature, the railroad cannot climb or descend rapidly.  Its tracks are limited to a 3% grade.  This route enables hikers generally to avoid steep elevation changes associated with simply going cross-country on a direct line.  Instead, the Camino follows a gently rolling, often flat path, despite the rough country around it.
+        Debido al relieve accidentado de la región de Creel, el Camino generalmente sigue la ruta del tren Chepe hacia el sur (a Divisadero).  El tren no puede subir ni bajar rápidamente, limitado a un gradiente de 3 grados al máximo.  Por eso los caminantes del Camino pueden evitar los cambios de altitud muy empinados normalmente experimentados por una ruta más directo, en su lugar el Camino está suavemente ondulado – en muchas veces casi llano – a pesar de la topografía accidentada alrededor.
       text_2: |
-        In addition, the trail also follows the modern Creel-to-Divisadero highway (Mexico 77).  This paved highway often is also very close to the railroad line.  In many areas the Camino path is very close to either the highway or the tracks (as close as 5 meters).   In most cases hikers are within easy hearing range of highway vehicles or the trains.  However, at no time, does the Camino trail overlap directly with either the highway or the tracks.  In limited cases, of course, the trail separates at greater distance from the two modern routes (up to several kilometers in the El Cajón canyon area).
+        Además el Camino sigue la carretera moderna entre Creel y Divisadero (México 77), que también está cerca del ferrocarril, por eso en muchas áreas el sendero del Camino está casi al lado del ferrocarril o la carretera (a veces no más de los 5 metros de distancia).  Normalmente los excursionistas pueden fácilmente oír los vehículos en la carretera o o el tren, pero nunca coincide el Camino exactamente con la carretera ni los carriles.  Raras veces el Camino se separa más lejos de las dos rutas modernas (por ejemplo cerca del arroyo El Cajón)
       text_3: |
         In certain locations, the Camino also follows the course of pipelines carrying water and natural gas between Creel and certain rim villages (Divisadero, Arepanoguchi, San Rafael).  The pipeline course is also close to the highway (primarily) and railroad tracks.  These sections are somewhat more “up and down” than those nearer the railroad.  However, the pipelines also tend to avoid the extremely steep changes possible in such rugged country.
       text_4: |
-        By taking advantage of these existing routes, the Camino generally offers comfortable walking in rolling terrain without the extra-rigorous demands of a high-altitude (8000 ft) hike.  In addition to this physical aspect, the proximity of the road (and railroad) offers hikers the security of knowing that there are alternative ways to return to developed areas, if they want to stop or if they face a medical or other emergency.
+        By taking advantage of these existing routes, the Camino generally offers comfortable walking in rolling terrain without the extra-rigorous demands of a high-altitude (2000+ m) hike.  In addition to this physical aspect, the proximity of the road (and railroad) offers hikers the security of knowing that there are alternative ways to return to developed areas, if they want to stop or if they face a medical or other emergency.
         
       title: |
         La Ruta
@@ -149,11 +188,11 @@ es_MX:
       Región y Ruta
     trail:
       text_1: |
-        The Tarahumara living the Barrancas are historically well-known for their tireless walking and running.  As a result there have always been many forest paths that cover the Creel-to-Divisadero region connecting ranchos, roads, fields, and pueblos.   In addition, as Mexico has developed in recent years, there is also an extensive network of rough rural roads for motor vehicles (typically 4 wheel pickups) used by the locals for longer trips.  Close to Creel itself, there are also designated hiking, biking, and ATV trails, occasionally marked with arrow or other trail markers.
+        Los Tarahumaras que viven en las barrancas está bien famosos por su capacidad de caminar y correr sin parar, por lo tanto ha siempre habido muchísimos senderos en la región entre Creel y Divisadero que conectan los ranchos, las granjas, los campos, y los pueblos.  Además en los años más recientes, como consecuencia del desarrollo de México, hay también una red extensiva de caminos rurales básicos para los vehículos motorizados (con frecuencia los camionetas pick-up) usados por los lugareños para sus viajes más largos.  En los cercanos de Creel (el centro regional de turismo) hay otras veredas para el ciclismo, los paseos de caballo, y los cuadrimotos, en unos casos indicados por una flecha u otras señales.
       text_2: |
         The Camino largely takes advantage of previous paths and roads used by the Tarahumara and other local residents.  It often goes by farm fields and isolated houses.  It often selects the paths best suited for hikers, rather than just for more practical purpose (such as choosing a more scenic path, rather than the most direct).  Depending on what is available in any specific area, the Camino uses rural roads, narrow single-track paths through the woods, the wide open course of pipelines, ATV or mountain bike tracks, and an occasional cross country “bush whack” with clear markers on trees.   It then connects these disparate paths into an overall path connecting important points on the way.  The hiker could easily start on a wide rural road, transition to a narrow path through the trees for a short time, then switch to a pipeline course, and back to a forest path. 
       title: |
-        La Ruta de las Rutas
+        La Vereda de las Veredas
   segment:
     description:
       title: |
