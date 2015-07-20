@@ -17,7 +17,7 @@ es_MX:
       text_4: |
         sections.  Click to learn more.
       title: |
-        2015 - 16: Desde Creel a Divisadero
+        2015 - 16: Desde Creel hacia Divisadero
     title: |
       Camino del Cobre
   guide:
@@ -87,45 +87,45 @@ es_MX:
   logistics:
     maps:
       text_01: |
-        logistics.maps.text_01
+        La región del Camino es un área bastante accidentada y menos explorada, los buenos mapas (tanto topográficos como turísticos) no están disponibles como en los países más desarrollados como Europa o los EEUU.
       text_02: |
-        logistics.maps.text_02
+        No obstante, para una perspectiva general de la zona, los caminantes pueden comprar un mapa topográfico y de carreteras del área al sur de Creel.  (Este omite los 2 – 3 kilómetros justamente al sur de Creel mismo, pero esos kilómetros finales son de importancia limitada.)  Es obra del Instituto Nacional de Estadística y Geografía (INEGI), la sección llamada San Jose de Guacayvo, número 123456. 
       text_03: |
-        logistics.maps.text_03
+        Provee datos de valor sobre el relieve de la región (arroyos, montañas, ríos, et cetera) y la ubicación del ferrocarril y la carreteras principal, sin embargo en muchos casos su información acerca de las veredas, los caminos pequeños, las casas, et cetera no está actualizada, parece que no se pueda confiar en ella totalmente.  Se vende en varias tiendas en Creel.
       title: |
         Mapas
     segments_transport:
       text_01: |
-        logistics.segments_transport.text_01
+        El Camino es para las personas que sobre todo aman caminar en la naturaleza, sin embargo muchas personas podrían preferir caminar por una parte del día y disfrutar otra actividad recreativa por la otra parte.  Por lo tanto el Camino está dividido en algunos segmentos distintos e independientes (en una forma parecida a los caminos en otros países).  En ciertos lugares convenientes a lo largo del Camino el senderista puede salir del Camino mismo, caminar aproximadamente 50 metros a un cruce con la Carretera 77, y regresar a Creel por vehículo; alternativamente se puede usar el transporte desde Creel hasta un punto de acceso y regresar a Creel a pie por el Camino.
       text_02: |
-        logistics.segments_transport.text_02
+        Claro que el transporte más conveniente es un vehículo particular con una de las compañías de transporte en Creel, en muchos casos se puede organizar transporte directo desde o hacia Creel al costo razonable.
       text_03: |
-        logistics.segments_transport.text_03
+        Como alternativa al uso de transporte privado algunos caminantes podrían preferir usar los autobuses.  El transporte por autobus está muy común a través de México, y la región de las Barrancas tiene una red de transporte público bien desarrollado.  Hay muchos buses que pasan diariamente a lo largo de la carretera Creel – Divisadero con frecuencia.  Está fácil aprovechar los autobuses para caminar por una parte del Camino.
       text_04: |
-        logistics.segments_transport.text_04
+        Hay 3 compañías de autobuses que sirven la carretera Creel – Divisadero (México 77): Rápidos Cuauhtémoc, su afiliada Transportes Chihuahuenses, y Noroeste, sus oficinas se quedan en Creel en el mismo camino como la estación del ferrocarril (al lado del oeste de los carriles).  Sus paradas entre Creel y San Rafael (un pueblo al sur de Divisadero) son los pueblos de Santa Elena, San Elias, y Pitorreal, además en otros lugares en la carretera como Nacayvo hay otras construcciones permamentes que sirven como paradas de autobús.  Sin embargo, como en todo México, los conductores paran en cualquier lugar seguro para que los pasajeros puedan subir o bajar según su demanda.
       text_05: |
-        logistics.segments_transport.text_05
+        Sin embargo, como en todo México, los conductores paran en cualquier lugar seguro para que los pasajeros puedan subir o bajar según su demanda.
       text_06: |
-        logistics.segments_transport.text_06
+        La tarifa de los autobuses desde Creel varía entre 20 pesos (destinos más cercanos) y 50 pesos (más alejados como Divisadero) (precios de 2015).
       text_07: |
-        logistics.segments_transport.text_07
+        Los buses de Rápidos Cuauhtémoc y Chihuahenses salen cada 2 horas entre 08:30 y 18:30, los de Noroeste cada 4 horas a partir de las 10:30 (horario de 2015).
       title: |
-        Etapas de la Ruta y Camiones
+        Segmentos del Camino y el Transporte Motorizado
     title: |
       Logistica
     trail_markers:
       text_01: |
-        logistics.trail_markers.text_01
+        El rumbo del Camino está indicado por las señales sencillas: bandas horizontales de color verde y rojo, aproximadamente 5 X 10 centímetros de tamaño, pintadas mayormente en los árboles o las rocas pero también (dependiente del lugar específico) en los postes de teléfono, los paredes de cimiento, los edificios, los postes de las cercas, aún los carriles del ferrocarril – en cualquier lugar donde están visibles fácilmente y útiles para los caminantes que no conocen la ruta.
       text_02: |
-        logistics.trail_markers.text_02
+        Generalmente las señales están 30 – 40 metros de distancia de una a otra, sin embargo, donde esté difícil o muy importante encontrar el sendero correcto, ellas están más frecuentes – a veces no más de 5 metros de distancia.  En las partes más fáciles (por ejemplo un camino derecho y amplio sin otros senderos que cruzan) las señales están más alejadas, en estos casos el objeto es primeramente proveer más tranquilidad que el caminante esté verdaderamente usando la senda correcta.
       text_03: |
-        logistics.trail_markers.text_03
+        Normalmente desde una señal se puede ver la siguiente, si no visible inmediatamente los senderistas deberían caminar por adelante siguiendo su rumbo anterior (es decir, derecho) buscando la próxima en un árbol o una roca cercana.
       text_04: |
-        logistics.trail_markers.text_04
+        Además de las señales principales hay otro marcador que muestra el sendero NO correcto: una “X” grande roja, se encuentren solamente en las encrucijadas donde quizás haya duda sobre el sendero apropiado (por ejemplo, un cruce donde hay dos senderos de tamaño parecido).
       text_05: |
-        logistics.trail_markers.text_05
+        Adicionalmente, para indicar las vueltas perpendiculares o más suaves las señales muestran la vuelta como tal en la forma “L” o “Y.”
       title: |
-        Señales de la Ruta
+        Las Señales del Camino
   map:
     title: |
       Mapa
@@ -165,7 +165,7 @@ es_MX:
   region_route:
     high_country:
       text_1: |
-        La Sierra Alta entre Creel y el borde del canon (en Divisadero) es una región accidentada y ondulada que se encuentre entre 2,100 y 2,400 metros de altitud, en muchas áreas el relieve está como una mesa, es decir, bastante plano por muchos kilómetros.  Sin embargo, también hay unos arroyos (barrancos secos) que cruzan la mesa, en estos casos la desnivel entre el fondo de los arroyos y la cima de la mesa está solamente raras veces más de 200 metros..
+        La Tierra Alta entre Creel y el borde del canon (en Divisadero) es una región accidentada y ondulada que se encuentre entre 2,100 y 2,400 metros de altitud, en muchas áreas el relieve está como una mesa, es decir, bastante plano por muchos kilómetros.  Sin embargo, también hay unos arroyos (barrancos secos) que cruzan la mesa, en estos casos la desnivel entre el fondo de los arroyos y la cima de la mesa está solamente raras veces más de 200 metros..
       text_2: |
         Cerca de Creel las vistas están mayormente de las crestas emboscadas, más al sur (cerca de Divisadero) ellas se ensanchan hasta las barrancas y cañones.
       text_3: |
@@ -178,9 +178,9 @@ es_MX:
       text_2: |
         Además el Camino sigue la carretera moderna entre Creel y Divisadero (México 77), que también está cerca del ferrocarril, por eso en muchas áreas el sendero del Camino está casi al lado del ferrocarril o la carretera (a veces no más de los 5 metros de distancia).  Normalmente los excursionistas pueden fácilmente oír los vehículos en la carretera o o el tren, pero nunca coincide el Camino exactamente con la carretera ni los carriles.  Raras veces el Camino se separa más lejos de las dos rutas modernas (por ejemplo cerca del arroyo El Cajón)
       text_3: |
-        In certain locations, the Camino also follows the course of pipelines carrying water and natural gas between Creel and certain rim villages (Divisadero, Arepanoguchi, San Rafael).  The pipeline course is also close to the highway (primarily) and railroad tracks.  These sections are somewhat more “up and down” than those nearer the railroad.  However, the pipelines also tend to avoid the extremely steep changes possible in such rugged country.
+        En ciertos lugares el Camino también sigue el rumbo de los ductos de agua o gaz natural entre Creel y los pueblos por encima de la Barranca (como ejemplos, los pueblos de San Rafael, Divisadero, o Arepanuchi).  A veces el ducto mismo está cerca de la carretera 77 (primeramente) o el ferrocarril, aunque el curso de del ducto tiene los cambios de elevación un poco más grandes que los demás.
       text_4: |
-        By taking advantage of these existing routes, the Camino generally offers comfortable walking in rolling terrain without the extra-rigorous demands of a high-altitude (2000+ m) hike.  In addition to this physical aspect, the proximity of the road (and railroad) offers hikers the security of knowing that there are alternative ways to return to developed areas, if they want to stop or if they face a medical or other emergency.
+        Como resultado de esta característica del ferrocarril y la carretera, el Camino es una caminata bastante fácil y agradable sin las subidas y bajadas muy inclinadas y las exigencias físicas de una caminata de hasta 2500 metros de altura, además la proximidad de la carretera ofrece la seguridad de saber que – en caso de emergencia o solamente otra decisión de terminar la caminata  - hay una ruta alternativa de regreso a los lugares más poblados.
         
       title: |
         La Ruta
@@ -382,32 +382,32 @@ es_MX:
   suggested_routes:
     part_01:
       text_01: |
-        As of 2015 the entire marked Camino extends from Creel 20 kms (by highway) to the railroad crossing somewhat north of the pueblo of Pitorreal.  The trail itself is somewhat longer (~25 kms) due to its turns and curves.  Some hikers in good physical condition may choose to walk the entire distance in a single day.  Others may choose shorter sections along this path as preferred, depending on physical condition, the difficulty of the trail, or other factors.  The Camino will be enjoyable in any way.
+        En 2015 la parte del Camino indicada por señales se extiende desde Creel hasta el cruce del ferrocarril un poco al norte del pueblo de Pitorreal (20 kilómetros por Carretera 77), el Camino mismo por el bosque, los senderos, et cetera está un poco más largo (25 kilómetros) debido a sus curvas y vueltas.  Cada senderista puedo eligir su propia caminata individual a lo largo del Camino, dependiente de su condición física, la dificultad del sendero, y otros factores, se puede disfrutar el Camino de cualquier distancia o característica.
       text_02: |
-        However, understanding the characteristics of each segment suggests certain suggested routes that may appeal to more hikers than others.  In general, these suggestions can be experienced in either direction, e.g., from Creel  (and returning by bus) or to Creel (after taking a bus to the trailhead).  In some cases several of the suggested hikes can be connected together for a longer experience.
+        Sin embargo, un conocimiento más detallado de cada segmento (de los 7 segmentos) sugiera una rutas recomendadas que puede estar más atractivas que otras.  En lo general se puede experimentar estas rutas en cualquier rumbo, es decir, desde Creel (y regresando por autobús a Creel), o hacia Creel (después de tomar el autobús al punto inicial de la caminata), además algunas de las rutas mencionadas se pueden combinar en una experiencia más larga.
       title: |
-        Etapas Sugeridas (2015)
+        Segmentos Sugeridos (2015)
     part_02:
       text_01: |
-        This hike of ~7.5 kms (one way) enables the hiker to quickly get into the pine forest surrounding Creel with nice views over the town itself.  It also passes through nice sections in the trees over easy rolling terrain.  It is very close to the railroad and highway for ~ 1 / 2 of the path.  Santa Elena is an official bus stop for the Rápidos Cauhtémoc bus company.
+        Esta excursión de 7.5 kilómetros (solo ida) permite al senderista llegar rápidamente en el bosque alrededor de Creel, también presenta buenas vistas sobre el pueblo mismo y sus valles cercanos.  Pasa a través de unas áreas agradables en los árboles con un relieve fácil y suave, permanece muy cerca del ferrocarril y la carretera (Mex 77) por la mitad de la excursión.  Al fin el camino hacia Santa Elena es una parada oficial para los autobuses de la compañía Rápidos Cuauhtémoc donde se puede fácilmente aprovechar el transporte público para el acceso al Camino.
       title: |
-        Cerca Creel (Etapas 1 y 2) De Creel a Estación Sanchez / Parada Santa Elena
+        Cerca de Creel (Segmentos 1 y 2) Desde Creel hasta la Parada Santa Elena / Estación Sanchez 
     part_03:
       text_01: |
-        This hike of ~11 kms (one way) starts in the nice pueblo of San Elias where it may be possible to get an impression of local Tarahumara life.  San Elias is an official bus stop for the Rápidos Cauhtémoc bus company.
+        Esta caminata de casi 11 kilómetros (solo ida) empieza en el pueblo agradable de San Elias donde se puede conseguir un apreciación mejor de la vida diaria de los Tarahumara locales, además San Elias en una parada oficial para la compañía Rápidos Cuauhtémoc y posibilitar acceso fácil al Camino.
       text_02: |
-        It also features several locations with nice views over barranca country to the west and south.  It is very easy to follow for most of its length since it follows the wide old road and a pipeline.  Roughly 2.5 kms from the south end, the trail offers a 250 meter side trip to the 360 degree ”loop” of the train as it crosses over itself on its path up the Sierra.
+        En cuanto al Camino mismo hay algunos lugares con vistas sobre las barrancas al oeste y sur.  Está muy fácil seguirlo por su largo entero porque sigue el camino viejo Creel – Divisadero y un ducto de agua.  Aproximadamente 2.5 kilómetros antes el fin al sur, el sendero ofrece una “ruta extra” (side trip) hacia el punto donde el tren Chepe hace una vuelta de 360 grados en su subida en la Sierra, es una oportunidad casi única de ver el tren así.
       text_03: |
-        On the other hand, from its high point, the trail descends into an arroyo.  This arroyo trail is pleasant with views of typical Barrancas country rock formations.  However, the arroyo portion requires a short but demanding climb over a final hill before ending at the railroad crossing.
+        Por otro lado, desde su punto más alto, el Camino baja en un arroyo de 200 metros (que está bastante agradable al lado de un rio pequeño con árboles y vistas de las rocas), pero esta parte al fondo del arroyo recesita una subida corta pero exigente de la colina antes de terminarse al cruce.
       title: |
-        La Carretera Alto Viejo (Etapas 6 y 7) De San Elias al Crucero de Ferrocarril del Sur
+        El Camino Alto Viejo (Segmentos 6 y 7) Desde San Elias hacia el Cruce de Ferrocarril
     part_04:
       text_01: |
-        There is a nice~2.5 km walk traveling north toward Creel in the forest in Segment 5.  Soon after leaving San Elias going north toward Creel, hikers come to the location where the Camino crosses the railroad precisely at the point where it passes under Highway 77.  There is a impressive bridge at this point. Thereafter, the trail transitions to a wide rural road through more open forest.  Then, after passing through a small valley (El Ojito) with farm fields, the trail climbs gently to a pleasant shady single-track path in the trees on soft pine needle footing with views to the east.  At the end of the forest hikers can leave the Camino and walk to the nearby highway to catch a vehicle onward.
+        Hay una caminata corta (solo 2. 5 kilómetros) pero buena pasando al norte desde San Elias hacia Creel por Segmento 5.  Poco después de salir de San Elias (acceso por Carretera 77), los senderistas llegan al punto donde el Camino cruza el ferrocarril precisamente donde el ferrocarril mismo pasa por debajo de la carretera, hay un puente de piedra impresionante en el lugar.  Luego la vereda cambia en un camino amplio a través el bosque más abierto, después de cruzar una valle pequeña (el rancho de El Ojito) con sus campos agrícolas, el Camino sube suavemente en un sendero sombreado entre los pinos, hay vistas al este.  Al fin de la excursión en el bosque los senderistas pueden salir del Camino y caminar a la Carretera 77 cercana para tomar un vehículo más adelante.
       title: |
-        Atras del Ojito (Etapa 5) De San Elias al Norte por el Bosque
+        Atras de El Ojito (Segmento 5) Desde San Elias al Norte a traves del Bosque de Pinos
     title: |
-      Sugerencias de Rutas de Caminatas de un Día
+      Sugerencias de Rutas para las Caminatas de un Día
   vision:
     text: |
       La visión de la Camino del Cobre es crear una experiencía única para los visitantes a la región de la Barranca del Cobre por medio de una caminata al lado de la barranca experimentando la belleza de sus vistas, las maravillas de sus culturas indígenas, y la historía colonial y local.  En la misma tradición de los famosos senderos de Europa o los EE. UU. - como el Camino de Santiago en España - el Camino sería un sendero de centenares de kilometros - desde el salto de Basaseachic hasta Sinforosa, la barranca más profunda de todas.  Siguiendo los señales del Camino los excursionistas podrían crear sus propías rutas de 1, 2 (o más) días dependiente de su preferencía - empezando en el centro eco-turistico de Creel y usando la red de senderos para visitar los pueblos Raramuri o los sitios historicos de la minería mexicana o las maravillas naturales.  A la misma vez se reconoce el beneficio de su visita en la vida económica de la región Tarahumara, una de las más interestantes pero más pobres de México.

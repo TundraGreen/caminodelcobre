@@ -52,6 +52,8 @@ This file is part of Camino del Cobre.
         <img src="imagenes/Marker-Turn.jpeg" width="150px" alt="Canyon Scene" /><br />
         Turn
       </div>
+      <div class="clear"></div>
+
       <p><?php print(i18n('logistics.trail_markers.text_01', $lang)); ?></p>
       <p><?php print(i18n('logistics.trail_markers.text_02', $lang)); ?></p>
       <p><?php print(i18n('logistics.trail_markers.text_03', $lang)); ?></p>
