@@ -11,11 +11,11 @@ es_MX:
       text_1: |
         La intención actual es que los caminantes puedan disfrutar el Camino en muchas formas.  Algunos puedan desear un solo esfuerzo largo y continuo; otras personas  por medio de una serie de excursiones más cortos.  En 2015 las partes iniciales comienzan en Creel y siguen hacia el sur (Divisadero) por unos segmentos de largo variable, dependiente de la preferencia y la capacidad del caminante mismo, el primer segmento disponible se extiende20 kilómetros por el Camino hacia el borde de la barranca en Divisadero (aproximadamente 25 kilómetros por la carretera pavimentada).  Con muchos lugares convenientes para parar y regresar a Creel por vehículo (o el ferrocarril) el Camino ofrece al excursionista una oportunidad excelente para disfrutar el bosque de la Tierra Alta con muchas vistas de las barrancas lejanas.
       text_2: |
-        More information about the Cobre region and hiking the Camino itself is provided in the
+        Se puede consequir más información sobre la región de las Barrancas del Cobre y las caminatas en el Camino en 
       text_3: |
         y
       text_4: |
-        sections.  Click to learn more.
+        secciones.  Cliquear para aprender mas.
       title: |
         2015 - 16: Desde Creel hacia Divisadero
     title: |
@@ -26,49 +26,49 @@ es_MX:
     notes:
       segment_1:
         text: |
-          De Creel a Carretera Viejo
+          Desde Creel hasta la Carretera Antigua
         title: |
           Etapa 1
       segment_2:
         text: |
-          De Carretera Viejo a Santa Elena
+          Desde la Carretera Antigua hasta Santa Elena
         title: |
           Etapa 2
       segment_3:
         text: |
-          De Santa Elena a Esquina de Recowata
+          Desde Santa Elena hasta la Salida a Recowata
         title: |
           Etapa 3
       segment_4:
         text: |
-          De Esquina de Recowata al Tubo
+          Desde la Salida a Recowata hasta el Ducto
         title: |
           Etapa 4
       segment_5:
         text: |
-          De Tubo a San Elias
+          Desde el Ducto hasta San Elias
         title: |
           Etapa 5
       segment_6:
         text: |
-          De San Elias a la Carretera Viejo Alto
+          Desde San Elias hasta la Carretera Antigua Alta
         title: |
           Etapa 6
       segment_7:
         text: |
-          De Carretera Viejo Alto al Crucero del Chepe
+          Desde la Carretera Antigua Alta al Crucero del Chepe
         title: |
           Etapa 7
       text_1: |
-        1. The guide is written from the perspective of a hiker leaving the train station in Creel traveling south.  However, the trail itself is designed to accommodate hikers walking in the northward direction (e.g., toward Creel) as well.  Trail markers are intentionally visible from both directions.  However, the Guide takes off from Creel as the center of tourism for the region and the primary terminus for the Chepe tourist train.  Hikers traveling north should be able to follow the path “in reverse:” e.g., “turn left” becomes “turn right,” “after the fork” becomes “before the fork,” etc.
+        1. La perspectiva de este Guía es del senderista que sale de la estación del tren en Creel hacia al sur, se supone que la mayoría de los visitantes en la región vayan a usar Creel como el centro de sus actividades (además del punto de acceso por tren).  Sin embargo se puede experimentar el Camino en ambos sentidos (es decir, al norte (hacia Creel) igual como al sur (hacia Divisadero).  Además las señales están visibles de ambas direcciones.  Por supuesto se necesita ajustar los comentarios del Guía dependiente del sentido de la caminata: por ejemplo, “dar la vuelta a la derecha” se cambia a “dar la vuelta a la izquierda;” "antes la curva" se cambia a "después la curva," et cetera.
       text_2: |
-        2. The text Guide includes GPS waypoints (longitude, latitude, and elevation) that indicate important locations on the trail, such as key turns, landmarks, crossing points, or section endpoints,
+        2. Los comentarios del Guía incluyen los puntos GPS (“waypoints” en inglés) para localizar los puntos importantes del Camino, tal como las vueltas claves, los cruces, los sitios turísticos, o los fines de cada etapa, los datos incluidos son latitud, longitud y elevación (metros sobre el nivel del mar).
       text_3: |
-        3. To complement the text trail description, the Guide also includes a table of waypoints and a map depiction of those waypoints (Google Maps).  With the right GPS devices, hikers can track the path and confirm their location on the Camino using the way points if they want.
+        3. Además, hay un mapa de la ruta (por medio de Google Maps) que presenta los puntos GPS en una forma visual, se puede ver los puntos y cliquearlos para obtener más información.
       text_4: |
-        4. As appropriate, the Guide also includes photos of key turns, views, villages, markers, and other aspects of walking the Camino.
+        4. El Guía también muestra unas fotos de las vueltas, vistas, veredas, sitios, señales, et cetera para ayudar al senderista a entender el Camino mejor antes de empezar su caminata..
       text_5: |
-        5. The Guide is divided into Segments 1 to 7.  They vary in length from approximately 1 to 9 kilometerss, reflecting the exact location of places where hikers can access the Divisadero Highway for bus or other motor transport.  For hikers in good physical condition the entire 25 kilometer (16 miles) is possible in a single long day excursion.
+        5. El Guía se divide en 7 secciones, iguales a las 7 etapas del Camino, que varían en su largo desde ~1 kilómetro hasta 9 kilómetros.  Los comienzos y los fines de cada etapa reflejan los puntos de acceso al Camino de la Carretera 77 por autobús u otro vehículo.  Para los senderistas de buena condición física se puede recorrer el Camino entero de 25 kilómetros en un solo día largo. 
       title: |
         Notas
     title: |
@@ -78,8 +78,7 @@ es_MX:
       El Camino del Cobre es un sendero de larga distancía que destaca todas las maravillas de la region de la Barranca del Cobre - las bellezas del bosque, la historia colonial, la cultura indígena, el desafío personal de una caminata en la naturaleza.  El Camino ofrece el visitante la oportunidad de experimentar las barrancas del Sur, las cascadas del Norte, los pueblos raramuri, y las vistas desde el lado del sistema de barrancas más grande en el planeta. En este momento, los excursionistas podrían crear sus proprias rutas empezando en el centro eco'turistico de Creel, Chihuahua. 
     participation:
       text: |
-        El Camino del Cobre es un sendero de larga distancía que destaca todas las maravillas de la region de la Barranca del Cobre - las bellezas del bosque, la historia colonial, la cultura indígena, el desafío personal de una caminata en la naturaleza.  El Camino ofrece el visitante la oportunidad de experimentar las barrancas del Sur, las cascadas del Norte, los pueblos raramuri, y las vistas desde el lado del sistema de barrancas más grande en el planeta. En este momento, los excursionistas podrían crear sus proprias rutas empezando en el centro eco'turistico de Creel, Chi. 
-        El Camino del Cobre está en la estapa inicial de su desarrollo, habra todavía muchos desafíos en el futuro.  Beneficiara mucho por la participacion y los esfuerzos de las personas y las organizaciones comprometidas al bienestar de la gente Tarahumara y toda region de las Barrancas.
+        El Camino del Cobre está en la estapa inicial de su desarrollo, habra todavía muchos desafíos en el futuro.  Ganará mucho por la participación y los esfuerzos de las personas y las organizaciones comprometidas al bienestar de la gente Tarahumara y toda region de las Barrancas.
       title: |
         Participación
     title: |
@@ -102,7 +101,7 @@ es_MX:
       text_03: |
         Como alternativa al uso de transporte privado algunos caminantes podrían preferir usar los autobuses.  El transporte por autobus está muy común a través de México, y la región de las Barrancas tiene una red de transporte público bien desarrollado.  Hay muchos buses que pasan diariamente a lo largo de la carretera Creel – Divisadero con frecuencia.  Está fácil aprovechar los autobuses para caminar por una parte del Camino.
       text_04: |
-        Hay 3 compañías de autobuses que sirven la carretera Creel – Divisadero (México 77): Rápidos Cuauhtémoc, su afiliada Transportes Chihuahuenses, y Noroeste, sus oficinas se quedan en Creel en el mismo camino como la estación del ferrocarril (al lado del oeste de los carriles).  Sus paradas entre Creel y San Rafael (un pueblo al sur de Divisadero) son los pueblos de Santa Elena, San Elias, y Pitorreal, además en otros lugares en la carretera como Nacayvo hay otras construcciones permamentes que sirven como paradas de autobús.  Sin embargo, como en todo México, los conductores paran en cualquier lugar seguro para que los pasajeros puedan subir o bajar según su demanda.
+        Hay tres compañías de autobuses que sirven la carretera Creel – Divisadero (México 77): Rápidos Cuauhtémoc, su afiliada Transportes Chihuahuenses, y Noroeste, sus oficinas se quedan en Creel en el mismo camino como la estación del tren (al lado del oeste de los carriles).  Sus paradas entre Creel y San Rafael (un pueblo al sur de Divisadero) son los pueblos de Santa Elena, San Elias, y Pitorreal, además en otros lugares en la carretera como Nacayvo hay otras construcciones permamentes que sirven como paradas de autobús.  Sin embargo, como en todo México, los conductores paran en cualquier lugar seguro para que los pasajeros puedan subir o bajar según su demanda.
       text_05: |
         Sin embargo, como en todo México, los conductores paran en cualquier lugar seguro para que los pasajeros puedan subir o bajar según su demanda.
       text_06: |
@@ -110,12 +109,12 @@ es_MX:
       text_07: |
         Los buses de Rápidos Cuauhtémoc y Chihuahenses salen cada 2 horas entre 08:30 y 18:30, los de Noroeste cada 4 horas a partir de las 10:30 (horario de 2015).
       title: |
-        Segmentos del Camino y el Transporte Motorizado
+        Etapas del Camino y el Transporte Motorizado
     title: |
       Logistica
     trail_markers:
       text_01: |
-        El rumbo del Camino está indicado por las señales sencillas: bandas horizontales de color verde y rojo, aproximadamente 5 X 10 centímetros de tamaño, pintadas mayormente en los árboles o las rocas pero también (dependiente del lugar específico) en los postes de teléfono, los paredes de cimiento, los edificios, los postes de las cercas, aún los carriles del ferrocarril – en cualquier lugar donde están visibles fácilmente y útiles para los caminantes que no conocen la ruta.
+        El Camino está indicado por las señales sencillas: bandas horizontales de color verde y rojo, aproximadamente 5 X 10 centímetros de tamaño, pintadas mayormente en los árboles o las rocas pero también (dependiente del lugar específico) en los postes de teléfono, los paredes de cimiento, los edificios, los postes de las cercas, aún los carriles del ferrocarril – en cualquier lugar donde están visibles fácilmente y útiles para los caminantes que no conocen la ruta.
       text_02: |
         Generalmente las señales están 30 – 40 metros de distancia de una a otra, sin embargo, donde esté difícil o muy importante encontrar el sendero correcto, ellas están más frecuentes – a veces no más de 5 metros de distancia.  En las partes más fáciles (por ejemplo un camino derecho y amplio sin otros senderos que cruzan) las señales están más alejadas, en estos casos el objeto es primeramente proveer más tranquilidad que el caminante esté verdaderamente usando la senda correcta.
       text_03: |
@@ -188,7 +187,7 @@ es_MX:
       Región y Ruta
     trail:
       text_1: |
-        Los Tarahumaras que viven en las barrancas está bien famosos por su capacidad de caminar y correr sin parar, por lo tanto ha siempre habido muchísimos senderos en la región entre Creel y Divisadero que conectan los ranchos, las granjas, los campos, y los pueblos.  Además en los años más recientes, como consecuencia del desarrollo de México, hay también una red extensiva de caminos rurales básicos para los vehículos motorizados (con frecuencia los camionetas pick-up) usados por los lugareños para sus viajes más largos.  En los cercanos de Creel (el centro regional de turismo) hay otras veredas para el ciclismo, los paseos de caballo, y los cuadrimotos, en unos casos indicados por una flecha u otras señales.
+        Los Tarahumaras que viven en las barrancas están bien famosos por su capacidad de caminar y correr sin parar, por lo tanto ha siempre habido muchísimos senderos en la región entre Creel y Divisadero que conectan los ranchos, las granjas, los campos, y los pueblos.  Además en los años más recientes, como consecuencia del desarrollo de México, hay también una red extensiva de caminos rurales básicos para los vehículos motorizados (con frecuencia los camionetas pick-up) usados por los lugareños para sus viajes más largos.  En los alrededores de Creel (el centro regional de turismo) hay otras veredas para el ciclismo, los paseos de caballo, y los cuadrimotos, en unos casos indicados por una flecha u otras señales.
       text_2: |
         The Camino largely takes advantage of previous paths and roads used by the Tarahumara and other local residents.  It often goes by farm fields and isolated houses.  It often selects the paths best suited for hikers, rather than just for more practical purpose (such as choosing a more scenic path, rather than the most direct).  Depending on what is available in any specific area, the Camino uses rural roads, narrow single-track paths through the woods, the wide open course of pipelines, ATV or mountain bike tracks, and an occasional cross country “bush whack” with clear markers on trees.   It then connects these disparate paths into an overall path connecting important points on the way.  The hiker could easily start on a wide rural road, transition to a narrow path through the trees for a short time, then switch to a pipeline course, and back to a forest path. 
       title: |
@@ -198,42 +197,42 @@ es_MX:
       title: |
         Descripción de la ruta
     next: |
-      La etapa siguiente
+      Etapa siguiente
     overview:
       title: |
         Información general
     previous: |
-      La etapa anterior
+      Etapa anterior
   segment_1:
     description:
       text_01: |
-        The trail heads south (in the direction marked toward Los Mochis indicated on the train station), starting immediately after leaving the station (27.75438, 107.634893, elevation 2340 m),
+        Descripción del Camino;  El Camino sale de Creel hacia al sur pasando con rumbo a Los Mochis (según la placa de información en la estación), el sendero empieza inmediatamente después de salir de la estación (27.75438, 107.634893, elevación 2340 m).
       text_02: |
-        A green and red trail marker is painted on the rock wall opposite the station across the tracks. There is similar green and red trail signage painted on the wall going south from the station and later on posts and buildings through the rail yard.  There is a concrete sidewalk on the east side of the tracks for 200 meters from the station past the central plaza.
+        Una señal de bandas verdes y rojas está en la pared de piedra en frente de la estación, hay más de tales señales pintadas en ese muro al sur de la estación y luego en varios postes, edificios, et cetera a lo largo de los carriles.  Una banqueta de cimiento está al lado (este) de los carriles por 200 metros después de la plaza municipal (lado izquierda).
       text_03: |
-        After the town center, several unpaved paths run parallel to the main tracks.  The most suitable trail varies from one side of the tracks to another, and hikers can choose their preferred path.  The tracks themselves also vary between single tracks and double tracks for 300 meters until a “rail yard” widens out with multiple tracks, returning to a single track at ~600 meters.
+        Después del centro del pueblo, algunos senderos no pavimentados van paralelos a las vías principales, el sendero más adecuado varía desde un lado al otro dependiente de la preferencia de cada senderista.  Los carriles mismos también se cambian – a veces un solo carril, a veces los carriles dobles – por 300 metros hasta que un almacén de ferrocarril se amplia con carriles múltiples, luego a 600 metros regresa a una sola vía.
       text_04: |
-        ~750 meters south of the station, the trail bends to the west (right) and passes under a white highway bridge for the principal highway into Creel (Mexico 77). (27.743488, 107.643543, elevation 2340 m).
+        ~ 750 metros al sur de la estación el Camino gira al oeste (a la derecha) y pasa por debajo de un puente blanco de la carretera entrando Creel (Mexico 77). (27.743488, 107.643543, elevación 2340 m).
       text_05: |
-        It continues another 300 meters along a road that parallels the railroad tracks with houses and small shops.  It then crosses the tracks next to the large rocks of the mesa and bends left along the tracks as they make a large turn to the left (south).  For ~100 meters the trail is 5 meters below the tracks.  Midway along the turn of the tracks the trail turns hard right (west) along an unpaved rural road.  On the right are farms fields and pastures with houses several hundred meters from the trail. The trail is on the south side of a flat farming valley ~1 km long.  (The Lion Caves (Cuevas de los Leones) is on the north side along a side road,) ~150 meters after the right turn the trail forks left (crossing a small waters course) and climbs gradually on the south side past more rural homes.  
+        sigue 300 metros más adelante por otro camino que va paralelo a los carriles férreos con unas casas y tiendas pequeñas.  Cruza las vías al lado de las rocas grandes de la mesa y curva a la izquierda mientras que el tren por su parte hace una vuelta grande a la izquierda (al sur).  Por ~100 metros el Camino se queda 5 metros por debajo del ferrocarril.  En la mitad de las vías el Camino da una vuelta pronunciada a la derecha (al oeste) en un camino rural de terracería, a la derecha hay una granjas, pastos, y casas 200 metros desde el camino.  En este lugar el Camino está al sur de una valle granjera bonita por ~1 kilómetro de largo.  (Nota que las Cuevas de los Leones está al lado al norte.  ~150 metros después de la vuelta, el camino hace una “Y” (cruzando un nachuelo pequeño) y sube gradualmente al lado sureño.  
         
       text_06: |
-        As of 2015, there is an unfinished adobe house on the right side of the trail as it begins its climb on the left. (27.742904, 107.647314, elevation 2340 m).
+        En año 2015 hay una casa de adobe no terminada al lado derecho de la vereda mientras que el Camino empieza su subida a la izquierda (27.742904, 107.647314, elevación 2340 m).
       text_07: |
-        After ~100 meters the trail enters the trees as it climbs to the top of the mesa above Creel.  There are views to the right (north) over the valley and mesas.  Following a series of forest paths and switchbacks the trail reaches the top of the mesa after 20 minutes.  The trail emerges from the trees to turn right (west northwest) onto a rural road that runs above the rural valley.  The trail is generally flat with trees on the right above the escarpment and mixed fields and trees on the left.  The trail passes through open woods terrain with trail markers on trees, rocks in the road, and on large boulders next to the road.   The direction is generally west northwest.  In this section there are many rural roads and smaller paths in all directions.  Attention to stay on the right trail may be necessary.
+        Después de ~100 metros el sendero entra el bosque para subir a la cima de la primera mesa cerca de Creel, hay vistas al norte (a la derecha) sobre la valle y otras colinas.  Siguiendo una serie de sendas forestales, el Camino alcance la cima de la mesa en 20 minutos, luego sale de los árboles y da la vuelta a la derecha (oeste) en un camino rural que pasa por encima de la valle.  En este parte la vereda está llana con árboles a la derecha por encima de la escarpa y con unos campos y el bosque abierto a la izquierda.  Pasa a través del bosque con las señales en los árboles, las rocas en la tierra, y las rocas enormes al lado del sendero.  El rumbo del Camino está generalmente al oeste – noroeste.  Hay muchos caminos rurales y muchos senderos más pequeños por todos lados y en todos rumbos, por eso debería tener cuidado para seguir en la vereda correcta.
       text_08: |
-        After ~1.5 km in open forest the trail turns more to the west and enters denser woodlands, sometimes following fence lines enclosing farm fields on the left.  ~3 km from Creel (40 minutes), after crossing a small water course, the trail turns sharply to the west.  It follows rural roads and fence lines with farm fields (sometimes with farm houses and animals and local Tarahumara farmers) on the left.
+        Después de ~1.5 kilómetros en el bosque abierto el sendero gira más al oeste y entra el bosque más denso, a veces siguiendo (a la izquierda) las cercas de los campos granjeros. ~3 kilómetros de Creel (40 minutos), después de cruzar un curso de agua pequeño, el sendero da una vuelta pronunciada al oeste (izquierda), luego sigue una serie de caminos rurales y postes de cercas al lado de los campos, a veces hay casas y animales y granjeros Tarahumara a la izquierda.
       text_09: |
-        In this section there are also many small paths and roads that cross or run parallel to the trail.  After ~1 kms the trail turns hard to the right from a road onto a forest path that descends gradually and crosses another small water course. It climbs gradually through open forest until it meets a farm field on the left and follows the fence line until turning left (again along fence line) for 200 meters.
+        En esta sección también hay muchísimos senderos pequeños y caminos rurales que cruzan o van paralelos al Camino, hay que tener cuidado para asegurar la senda correcta.  Después de ~1 kilómetro el Camino da la vuelta cerrada (90 grados) en un sendero forestal que baja suavemente y cruza otro curso de agua (normalmente seco), luego sube a través de un bosque abierto hasta que llegue a un campo a la izquierda y sigue su cerca a la derecha, después de 200 metros (al rincón del campo) gira a la izquierda al lado de la cerca.
       text_10: |
-        On the right large rock formations and a bare gravel pit are visible 100+ meters from the trail. There are many cris-crossing paths in this area. The pit is ~3.5 kms from Creel via the trail.  On the far (west) side of the pit (~200 meters from the trail) is the old road from Creel to Divisadero.  Hikers wanting to return to Creel have the option of crossing the pit, turning right on the old road, and walking back to town.
+        A la derecha (100 metros) hay unas formaciones rocosas impresionantes y un yacimiento de grava grande, además muchas sendas rurales que cruzan por todas partes.  Al lado al oeste del yacimiento (150 metros del Camino) se encuentre el camino antiguo que enlazaba Creel y Divisadero, los senderistas que prefieren regresar a Creel pueden cruzar el yacimiento, girar a la derecha, y caminar 3.5 kilómetros al pueblo por la carretera antigua.
       text_11: |
-        Midway along the fence line the trail bends slightly to the right into the trees (remaining to the east of the gravel pit).  It descends slightly into a water course, rising on the other side to pass through a rural gate and 20 meters beyond into a large field at its northwest corner. The trail passes 100 meters in the west side if the field next to dense woods on the right.  A second mesa climbs steeply in the right. At the southwest corner it passes through another rural gate and turns sharply right (west).  After ~100 meters the trails climbs steeply (~40 meter gain in 400 meters) to the top of the second mesa.  The area is heavily forested in pine with madrone (red barked broad-leaf tree).  After reaching the top of the mesa the trail bends gently to the right until reaching the old road from Creel to Divisadero (unpaved and rough).
+        A la mitad de la cerca el Camino gira un poco a la derecha en los árboles (aunque al este del yacimiento), baja un poco en un curso de agua, sube por otro lado del curso para llegar a una puerta y (20 metros más adelante) a un campo grande.  El Camino sigue el lado occidental del campo 100 metros, una segunda mesa emboscada sube a la derecha.  Después de pasar una segunda puerta en el rincón del campo, el Camino gira a la derecha y sube abruptamente (~30 metros en 400 metros) a la cima de la segunda mesa, el bosque alrededor es de pinos y madronas.  Después de llegar a la cima la vereda gira suavemente a la derecha hasta que llegue de nuevo a la carretera antigua de terracería (Creel – Divisadero).
       text_12: |
-        Hikers wanting to return to Creel at this point can turn right onto the old road and walk along it for ~5 kms.  However, the Camino turns left at this junction and continues to
+        Los excursionistas que quieren regresar a Creel desde este punto pueden hacerlo por girar a la derecha y caminar ~5 kilómetros, sin embargo el Camino mismo gira a la izquierda para continuar (ver Etapa 2)
     overview:
       text: |
-        This section takes hikers from the Creel train station into the forest outside of town.  After passing through a residential area to the south, it separates from the railroad tracks and climbs into the forest on the mesas surrounding the town.  Once on the mesa, it passes through a mixture of farm fields and forest, sometimes on a rural road and sometimes on a single-track forest path.  After a second climb up another mesa, it ends at the old road between Creel and Divisadero ~4 km from Creel.
+        Resumen: En esta etapa los senderistas salen de Creel (la estación del tren) y rápidamente llegar en el bosque afuera del pueblo.  Después de atravesar un área residencial al sur del pueblo, el Camino se separa del ferrocarril y sube hasta el bosque en las mesas alrededor.  Luego pasa por muchos bosques y campos granjeros, a veces por unos caminos rurales, otras veces por senderos angostos entre los árboles.  Después de una segunda subida, termina en la carretera antigua entre Creel y Divisadero (aproximadamente 4 kilómetros de Creel).
     title: |
       Etapa 1: De Creel a la Carretera Viejo
   segment_2:
