@@ -6,19 +6,21 @@ This file is part of Camino del Cobre.
 
 */
 
-?>
-
-<?php
-if (isset($_REQUEST['lang'])) {
-  $lang = $_REQUEST['lang'];
+session_start();
+if (isset($_GET['lang'])) {
+  $lang = $_GET['lang'];
+  setcookie('lang', $lang);
+}
+else if(isset($_COOKIE['lang'])) {
+  $lang = $_COOKIE['lang'];
 }
 else {
   $lang = 'en_US';
 }
+date_default_timezone_set('America/Mexico_City');
 
 
 include_once "Spyc.php";
-date_default_timezone_set('America/Mexico_City');
 
 function i18n($prompt, $lang) {
 

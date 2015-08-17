@@ -19,7 +19,7 @@ This file is part of Camino del Cobre.
     </title>
     <link href="estilos/master.css" rel="stylesheet" type="text/css" />
     <link href="estilos/caminodelcobre.css" rel="stylesheet" type="text/css" />
-    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Raleway">
+    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Raleway" />
     <script src="javascript/caminodelcobre.js"></script>
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript"></script>
   </head>

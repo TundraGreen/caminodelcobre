@@ -46,6 +46,7 @@ p {
 	margin: 5px 10px 10px 0px;
 	padding:  10px 10px 10px 0px;
 	height: 1em;
+	width: 100%;
 }
 #navbar li {
 	list-style: none;
@@ -60,7 +61,7 @@ p {
 }
 #navbar li ul {
 	display: none;
-	width: 10em; /* Width to help Opera out */
+/*	width: 10em;  Width to help Opera out */
 	background-color: #69f;
 }
 #navbar li:hover ul {
