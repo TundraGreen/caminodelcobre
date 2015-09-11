@@ -42,54 +42,66 @@ p {
 /* ---------------------------- */
 /* ----- Nav bar styling ------ */
 /* ---------------------------- */
-#navbar {
+.navbar {
 	margin: 5px 10px 10px 0px;
 	padding:  10px 10px 10px 0px;
 	height: 1em;
 	width: 100%;
 }
-#navbar li {
+.navbar li {
 	list-style: none;
 	float: left;
 }
-#navbar li a {
+.navbar li._inactive a {
+	list-style: none;
+	float: left;
+	color: #ffff00;
+	background-color: #69f;
+}
+.navbar li._inactive a:hover {
+	list-style: none;
+	float: left;
+	color: #ffff00;
+	background-color: #69f;
+}
+.navbar li a {
 	display: block;
 	padding: 5px 20px;
 	background-color: #5e8ce9;
 	color: #fff;
 	text-decoration: none;
 }
-#navbar li .guide {
+.navbar li .guide {
 	display: block;
 	padding: 5px 20px;
 	background-color: #5e8ce9;
 	color: #fff;
 	text-decoration: none;
 }
-#navbar li ul {
+.navbar li ul {
 	display: none;
 /*	width: 10em;  Width to help Opera out */
 	background-color: #69f;
 }
-#navbar li:hover ul {
+.navbar li:hover ul {
 	display: block;
 	position: absolute;
 	margin: 0;
 	padding: 0;
 	z-index: 100;
 }
-#navbar li:hover li {
+.navbar li:hover li {
 	float: none;
 }
-#navbar li:hover li a {
+.navbar li:hover li a {
 	background-color: #69f;
 	border-bottom: 1px solid #fff;
 	color: #000;
 }
-#navbar li li a:hover {
+.navbar li li a:hover {
 	background-color: #8db3ff;
 }
-#navbar li a:hover {
+.navbar li a:hover {
 	background-color: #8db3ff;
 }
 .navbar_non_link {
@@ -99,7 +111,6 @@ p {
 	color: #fff;
 	text-decoration: none;
 }
-
 /* ---------------------------- */
 /* ---- Footer styling -------- */
 /* ---------------------------- */
