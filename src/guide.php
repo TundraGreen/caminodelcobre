@@ -39,31 +39,31 @@ This file is part of Camino del Cobre.
       </div>
       <div class="guide_second_indent">
         <p>
-          <a href="segment-1.php"><?php print(i18n('guide.notes.segment_1.title', $lang)); ?></a>:
+          <a href="segment-1.php?lang=<?php print($lang); ?>"><?php print(i18n('guide.notes.segment_1.title', $lang)); ?></a>:
           <?php print(i18n('guide.notes.segment_1.text', $lang)); ?>
         </p>
         <p>
-          <a href="segment-2.php"><?php print(i18n('guide.notes.segment_2.title', $lang)); ?></a>:
+          <a href="segment-2.php?lang=<?php print($lang); ?>"><?php print(i18n('guide.notes.segment_2.title', $lang)); ?></a>:
           <?php print(i18n('guide.notes.segment_2.text', $lang)); ?>
         </p>
         <p>
-          <a href="segment-3.php"><?php print(i18n('guide.notes.segment_3.title', $lang)); ?></a>:
+          <a href="segment-3.php?lang=<?php print($lang); ?>"><?php print(i18n('guide.notes.segment_3.title', $lang)); ?></a>:
           <?php print(i18n('guide.notes.segment_3.text', $lang)); ?>
         </p>
         <p>
-          <a href="segment-4.php"><?php print(i18n('guide.notes.segment_4.title', $lang)); ?></a>:
+          <a href="segment-4.php?lang=<?php print($lang); ?>"><?php print(i18n('guide.notes.segment_4.title', $lang)); ?></a>:
           <?php print(i18n('guide.notes.segment_4.text', $lang)); ?>
         </p>
         <p>
-          <a href="segment-5.php"><?php print(i18n('guide.notes.segment_5.title', $lang)); ?></a>:
+          <a href="segment-5.php?lang=<?php print($lang); ?>"><?php print(i18n('guide.notes.segment_5.title', $lang)); ?></a>:
           <?php print(i18n('guide.notes.segment_5.text', $lang)); ?>
         </p>
         <p>
-          <a href="segment-6.php"><?php print(i18n('guide.notes.segment_6.title', $lang)); ?></a>:
+          <a href="segment-6.php?lang=<?php print($lang); ?>"><?php print(i18n('guide.notes.segment_6.title', $lang)); ?></a>:
           <?php print(i18n('guide.notes.segment_6.text', $lang)); ?>
         </p>
         <p>
-          <a href="segment-7.php"><?php print(i18n('guide.notes.segment_7.title', $lang)); ?></a>:
+          <a href="segment-7.php?lang=<?php print($lang); ?>"><?php print(i18n('guide.notes.segment_7.title', $lang)); ?></a>:
           <?php print(i18n('guide.notes.segment_7.text', $lang)); ?>
         </p>
       </div>

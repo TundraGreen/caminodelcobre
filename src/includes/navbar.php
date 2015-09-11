@@ -31,8 +31,11 @@ This file is part of Camino del Cobre.
 	  <a href="waypoints.php?lang=<?php print($lang); ?>"><?php print(i18n('navbar.waypoints', $lang)); ?></a>
 	</li>
   <li>
-    <a href="guide.php?lang=<?php print($lang); ?>"><?php print(i18n('navbar.guide', $lang)); ?></a>
+    <div class="guide"><?php print(i18n('navbar.guide', $lang)); ?></div>
 	  <ul>
+      <li>
+        <a href="guide.php?lang=<?php print($lang); ?>"><?php print(i18n('navbar.guide', $lang)); ?></a>
+      </li>
       <li>
         <a href="segment-1.php?lang=<?php print($lang); ?>"><?php print(i18n('navbar.segment_1', $lang)); ?></a>
       </li>

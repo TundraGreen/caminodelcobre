@@ -59,6 +59,13 @@ p {
 	color: #fff;
 	text-decoration: none;
 }
+#navbar li .guide {
+	display: block;
+	padding: 5px 20px;
+	background-color: #5e8ce9;
+	color: #fff;
+	text-decoration: none;
+}
 #navbar li ul {
 	display: none;
 /*	width: 10em;  Width to help Opera out */
