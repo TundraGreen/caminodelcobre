@@ -1,12 +1,10 @@
-<?php
+<?php session_start();
 /*
 © 2015 William H. Prescott. All Rights Reserved.
 
 This file is part of Camino del Cobre.
 
 */
-
-session_start();
 if (isset($_GET['lang'])) {
   $lang = $_GET['lang'];
   setcookie('lang', $lang);

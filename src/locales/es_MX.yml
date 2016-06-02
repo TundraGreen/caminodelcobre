@@ -84,6 +84,19 @@ es_MX:
     title: |
       Camino del Cobre
   logistics:
+    chepe:
+      text_01: |
+        Las personas pensando en pasear en el Camino del Cobre debería considerar tomar el Ferrocarril Chihuahua –Pacífico a Creel y luego más allá hasta la Barranca del Cobre misma.  El Tren es uno de las experiencias turísticas más conocidas en México famosa por sus puentes, sus túneles, y sus vistas impresionantes.  Por sus siglas en español (CHP) también se llama “El Chepe.”
+      text_02: |
+        Cada día el tren hace su viaje de 650 kilómetros entre Chihuahua (Ciudad) y Los Mochis en la costa del Pacífico de México, en su mitad occidental el tren pasa directamente a través de la Barranca del Cobre misma.  Hace una parada especial para ver la parte más profunda de la barranca en el puesto de Divisadero, u otra parada en el centro turístico de Creel (45 kilómetros al noreste).
+      text_03: |
+        Los pasajeros tienen la opción de 2 clases diferentes de servicio, mientras si haya un servicio económico para los residentes de la región la mayoría de los viajeros son turistas o mexicanos o extranjeros.  Porque el Camino del Cobre empieza directamente en frente de la estación del tren en Creel, el Chepe podría ser una buena opción de transporte para los senderistas del Camino.
+      text_04: |
+        Para más información sobre el Chepe, las tarifas, el horario, las paradas, y las reservaciones, clique abajo o busque el Internet.
+      titl: |
+        logistics.chepe.titl
+      title: |
+        El Ferrocarril Chihuahua al Pacífico (El Chepe)
     maps:
       text_01: |
         La región del Camino es un área bastante accidentada y menos explorada, los buenos mapas (tanto topográficos como turísticos) no están disponibles como en los países más desarrollados como Europa o los EEUU.
@@ -93,6 +106,38 @@ es_MX:
         Provee datos de valor sobre el relieve de la región (arroyos, montañas, ríos, et cetera) y la ubicación del ferrocarril y la carreteras principal, sin embargo en muchos casos su información acerca de las veredas, los caminos pequeños, las casas, et cetera no está actualizada, parece que no se pueda confiar en ella totalmente.  Se vende en varias tiendas en Creel.
       title: |
         Mapas
+    outfitters:
+      text_01: |
+        Todo tipo de senderista puede disfrutar el Camino: las personas que les gusta organizar y realizar su caminata por su mismo, o las que prefieren aprovechar los servicios de guías o “outfitters” que ofrecen ayuda de cualquier tipo en la logística de una excursión en las Barrancas (por ejemplo, una guía local, la comida, las carpas alquiladas, las mochilas, etc.)    Estas empresas también pueden proveer el transporte entre Creel y varios lugares a lo largo del Camino, además ellas dan consejo valioso sobre las oportunidades de caminata, unos lugares de cuidado, el tiempo, u otros factores importantes para el senderista.
+      text_02: |
+        Creel – como el centro de turismo regional – abastece al senderista de varias empresas deportivas / “outfitters” con mucha experiencia y buena calidad, ofrecen una variedad de servicios y modas recreativas incluyendo caminatas, ciclismo de montaña, aventurismo, paseo en caballo, o los tours en autobús de los atractivos regionales.  Para una lista de estas compañías preparada por el periódico USA Today, clique abajo o busque en el Internet. 
+      text_03: |
+        En muchos casos se puede contactar a estas empresas via el Internet, no se necesita llegar a Creel para finalizar sus servicios.
+      title: |
+        Companias Deportivas / Outfitters
+    security:
+      text_01: |
+        La seguridad física y personal de los visitantes a la región de las Barrancas es un asunto clave para muchas personas pensando en cómo divertirse en la región.  A través de los años recientes había mucha atención en los medios de comunicación sobre la violencia y el crimen en México, muchos de los incidentes violentes se vinculan con los conflictos sobre las drogas o entre los carteles narcotraficantes que dominan el comercio de drogas.  En otros casos se tratan de los actos delictivos de menos gravedad – como los carteristas o el robo – en las ciudades grandes de México donde se afligieren los turistas mientras que visitan los sitios turísticos del país. 
+      text_02: |
+        Afortunadamente la región de las Barrancas está bien retirada de las áreas urbanas o de las drogas que generan la mayoría de esas noticias.  De hecho Creel se encuentre 260 kilómetros desde Chihuahua, la ciudad grande más cerca de la región, y 240 kilómetros aún más desde el cruce fronterizo más cerca de los EE.EE. (Ojinaga) donde las drogas abundan.  Mientras la infraestructura de transporte turístico está bastante buena, los criminales no tienen un acceso fácil y rápido a la región.
+      text_03: |
+        Como dice el Departamento del Estado de los EE.UU en su aviso para viajeros en México (para el año de 2015); “En general los centros vacacionales y los destinos turísticos no experimentan los niveles de violencia y del crimen relacionado con las drogas que se ven en la región fronteriza o en las áreas en las rutas principales del narcotráfico.” (5 de mayo de 2015)
+      text_04: |
+        Hay otras razones que la región de las Barrancas del Cobre está más segura para sus visitantes.  Como un área rural rodeada por los bosques y la naturaleza donde vive la gente un vida más tradicional y tranquila, la región está libre de muchos de los problemas sociales de las ciudades apretadas o las áreas de la frontera, además hay un enfoque por parte de la policía local y otros órganos gubernamentales y las empresas privadas en el mantenimiento de la seguridad.  Más importante la gente residente también se da cuenta de la importancia de la seguridad para fomentar y preservar el turismo y para controlar la actividad criminal.
+      text_05: |
+        Para más información sobre el crimen y la seguridad en México, clique abajo o busque el Internet
+      text_06: |
+        Claro que no hay ninguna área en México o en cualquier país donde se puede garantizar la seguridad cien por ciento, los accidentes y el crimen sí se puede ocurrir en cualquier lugar sin aviso previo.  Por eso los visitantes pensando en pasear por el Camino debería tomar las precauciones normales en otros lugares o situaciones no conocidas, hay mucho consejo disponible en el Internet sobre estas medidas sencillas para incrementar la seguridad en cualquier país o zona rural.  Para más información cliquee abajo o busque en el Internet
+      text_07: |
+        Sin embargo, los visitantes a la región de las Barrancas y del Camino deberían seguir consciente de unas reglas sencillas especialmente pertinentes a la región, entre ellas las siguientes:
+      text_08: |
+        1. Avise a alguien (en su hotel, con la compañía de “outfitter,” o la oficina de turismo) de sus planes generales de viajar o caminar (donde y cuando).  La región de las Barrancas es muy grande, no hay mucha población.  Si pasa una emergencia, las autoridades o los grupos de rescate pueden saber dónde empezar a buscar.
+      text_09: |
+        2. Busque el consejo de los lugareños o residentes locales si haya unas áreas o tiempos donde o cuando el peligro de crimen puede estar más alto (por ejemple, unas áreas conocidas con alta actividad de drogas).
+      text_10: |
+        3. Acérquese a los lugareños – los Tarahumara u otros – que encuentre en el Camino con una actitud abierta y amigable; no con una manera sospechosa e intimidatoria, en muchos casos el comportamiento de ellos va a estar igualmente abierto y amigable como el suyo.
+      title: |
+        Seguridad
     segments_transport:
       text_01: |
         El Camino es para las personas que sobre todo aman caminar en la naturaleza, sin embargo muchas personas podrían preferir caminar por una parte del día y disfrutar otra actividad recreativa por la otra parte.  Por lo tanto el Camino está dividido en algunos segmentos distintos e independientes (en una forma parecida a los caminos en otros países).  En ciertos lugares convenientes a lo largo del Camino el senderista puede salir del Camino mismo, caminar aproximadamente 50 metros a un cruce con la Carretera 77, y regresar a Creel por vehículo; alternativamente se puede usar el transporte desde Creel hasta un punto de acceso y regresar a Creel a pie por el Camino.
@@ -110,6 +155,11 @@ es_MX:
         Los buses de Rápidos Cuauhtémoc y Chihuahenses salen cada 2 horas entre 08:30 y 18:30, los de Noroeste cada 4 horas a partir de las 10:30 (horario de 2015).
       title: |
         Etapas del Camino y el Transporte Motorizado
+    supplies:
+      text_01: |
+        Creel ofrece una buena infraestructura para apoyar el turismo y a los senderistas.  Hay muchas tiendas de abarrotes y otras tiendas para comparar las cosas necesarias para una excursión en el Camino (tal como la comida, el equipo básico para campar (botas, carpas, impermeables, etc.), o las medicinas básicas).
+      title: |
+        Abastacimiento / Provisiones
     title: |
       Logistica
     trail_markers:
@@ -125,6 +175,19 @@ es_MX:
         Adicionalmente, para indicar las vueltas perpendiculares o más suaves las señales muestran la vuelta como tal en la forma “L” o “Y.”
       title: |
         Las Señales del Camino
+    weather:
+      text_01: |
+        Debido a la amplia variación de altitud en la región de las Barrancas (hasta 1800 metros) hay un gran variedad de clima o tiempo.  En lo general el fondo de los cañones es hasta 10 grados (Celsius) más cálido que el borde, por ejemplo en verano cuando la temperatura en el borde (tal como Creel) sea cálida, la temperatura en el fondo del arroyo (tal como Batopilas o Urique) sería muy caliente (hasta 40 – 45 grados Celsius).
+      text_02: |
+        En general, el borde de las barrancas donde la mayoría de los visitantes prefieren quedarse tiene un clima moderado parecido a las áreas de altitud igual en la parte suroeste de los EE.EE. (los estados de Nuevo Mexico o Arizona) o Europa del sur (España, Italia o Grecia).  Los meses del verano estaría cálidos o calientes (30 grados Celsius), las primaveras y otoños estarían agradables (15 – 25 grados), y los inviernos pueden estar fríos.  En los meses de diciembre hasta febrero las temperaturas se bajan aún menos de 0 grados a veces por la noche aunque los días soleados típicamente se calientan.
+      text_03: |
+        La región de las Barrancas tiene su temporada de lluvias en verano, es decir llueve casi diariamente entre los meses de junio y agosto con cantidades menores en mayo y septiembre.   A menudo esas lluvias estarían intensas pero breves, por eso se llaman “tropicales monzónales.”  Debido a la humedad en el aire en verano, los fondos estarían bastante húmedos además que calientes.  En los otros meses del año la precipitación no está frecuente.
+      text_04: |
+        La mayoría de visitantes cree que el tiempo para visitar está mejor en la primavera, el verano, o el otono.  El invierno esta demasiado frio para muchos.
+      text_05: |
+        Para más información sobre el clima de la región and cuando visitar, clique abajo o busque el Internet.
+      title: |
+        El Tiempo
   map:
     title: |
       Mapa
@@ -183,6 +246,21 @@ es_MX:
         
       title: |
         La Ruta
+    tarahumara:
+      text_01: |
+        Un placer único de explorar la región de las Barrancas es la oportunidad de encontrar a los Tarahumara (también llamados los Rarámuri en su propio idioma), son uno de los tribus indígenas más interesantes en el país.  Hoy en día hay aproximadamente 100,000 Tarahumara que viven en el área de las Barrancas desde en Norte de Creel hasta el Sur cerca del pueblo de Guachochi, se han radicado en la Sierra Madre por siglos, por eso con frecuencia se llama esta zona montañosa la “Sierra Tarahumara.”  Debido a el número de personas y su aislamiento en una zona de mala infraestructura de comunicación muchos de ellos todavía hablan su idioma materna en casa (aunque también hablan español en la escuela o en el comercio). 
+      text_02: |
+        Muchos Tarahumara se han mudado a los pueblos de la región (tal como Creel) donde se puede verlos caminando en las calles, comprando en las tiendas, o vendiendo sus artículos a los turistas en las plazas, frecuentemente (sobre todo en el caso de las mujeres) siguen llevando su ropa tradicional tal como las faldas o los rebozos de colores brillantes.  
+      text_03: |
+        Mientras algunos Tarahumara mantienen sus creencias y prácticas tradicionales, hoy en día muchos pertenecen a la Iglesia Católica.  Muchos pueblos tienen sus iglesias pequeñas para servir a sus practicantes, incluyendo algunas construidas como misiones hace 300 años (por ejemplo, en el pueblecito mayormente Tarahumara de Sisoguichi 20 kilómetros al norte de Creel).
+      text_04: |
+        A través de los años recientes la vida moderna de México ha impactado mucho a los Tarahumara, no obstante la mayoría de ellos todavía vive su vida tradicional en la tierra; tienen sus propias casas pequeñas de madera en el bosque y cuidan sus granjas (primeramente el maíz) o a sus animales frecuentemente aprovechando los útiles antiguos tal como los arados de caballo o nada más que una azada sencilla.
+      text_05: |
+        Los Tarahumara están famosos por su capacidad de correr de larga distancia.  De hecho, según se dice, el nombre Rarámuri refiere a “correr a pie.”  Vivir en la tierra elevada (más de 2000 metro de altitud) les da la ventaja de una capacidad pulmonar extraordinaria, además debido a las largas distancias entre sus casas, granjas, y pueblos ha habida una tradición larga de correr por todas partes de su región viajando muchos kilómetros descalzos sobre el relieve accidentado y pedregoso. 
+      text_06: |
+        Hay una cantidad notable de información sobre los Tarahumara en el Internet.  Para más información clique abajo or busque el Internet.
+      title: |
+        Tarahumara
     title: |
       Región y Ruta
     trail:
@@ -192,6 +270,17 @@ es_MX:
         The Camino largely takes advantage of previous paths and roads used by the Tarahumara and other local residents.  It often goes by farm fields and isolated houses.  It often selects the paths best suited for hikers, rather than just for more practical purpose (such as choosing a more scenic path, rather than the most direct).  Depending on what is available in any specific area, the Camino uses rural roads, narrow single-track paths through the woods, the wide open course of pipelines, ATV or mountain bike tracks, and an occasional cross country “bush whack” with clear markers on trees.   It then connects these disparate paths into an overall path connecting important points on the way.  The hiker could easily start on a wide rural road, transition to a narrow path through the trees for a short time, then switch to a pipeline course, and back to a forest path. 
       title: |
         La Vereda de las Veredas
+    wildlife:
+      text_01: |
+        Hay una gran diversidad de fauna silvestre en el área de las Barrancas, debido a la gran variación de altitud desde el borde de las barrancas (hasta 2400 metros) hasta el fondo de los cañones (550 metros), si hay una amplia diversidad de hábitat y condiciones ambientales para las plantas y los animales.  En los fondos áridos y calientes de los cañones hay todas las especias del desierto – los cactus, las palmas, los iguanas o lagartos, culebras, y parecidos.  
+      text_02: |
+        Sin embargo, en las áreas más frescas en las montañas Sierra Madre los mamíferos son más parecidos a los animales de las “zonas templadas” en los EE.UU. o en Europa – tal como el oso negro, el venado de cola blanca, el arcillo, el conejo o liebre, aún el puma (león americano).  Desafortunadamente, debido a la caza de muchos años con la habitación humana el número de estos animales más grandes está muy limitado.
+      text_03: |
+        La mejor oportunidad de observar a la fauna silvestre es las aves.  Aproximadamente 300 especias de aves viven en la región, 24 de las cuales viven solamente en el área de las Barrancas, por ejemplo el guacamayo militar o el loro de pico pesado.  Para las especias más tropicales se recomienda una excursión – a pie o con un tour – hacía las partes inferiores en los cañones. 
+      text_04: |
+        Hay mucha información sobre el ambiente y la vida silvestre en la región de las Barrancas disponible en el Internet.  Para los datos más básicos acerca de la región incluyendo su flora y fauna, clique abajo o busque en el Internet.
+      title: |
+        Fauna Silvestre
   segment:
     description:
       title: |

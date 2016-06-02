@@ -84,6 +84,21 @@ en_US:
     title: |
       Camino del Cobre
   logistics:
+    chepe:
+      text_01: |
+        Visitors thinking of walking the Camino del Cobre may want to consider taking the Chihuahua Pacific Train to Creel and then on to the Copper Canyon itself.  The train is one of the most well-known tourist experiences in Mexico, famous for its tunnels, bridges, and impressive canyon vistas.  Because of its initials in Spanish (“CH” and “P”), it is often known as “El Chepe.”   
+        
+      text_02: |
+        Every day the train makes a 650 kilometer (400 mile) journey between Chihuahua City and Los Mochis on the Mexican Pacific coast.  In its western half the journey travels right through the Copper Canyon country (including the Barranca del Cobre itself).  It makes a special stop to view the Barranca at Divisadero and another stop at the tourist center of Creel (45 kilometers, or 25 miles away).  
+        
+      text_03: |
+        Passengers have the choice of two different classes of service.  While there is an economical service oriented toward local residents, many of the passengers on the Chepe train are tourists, both Mexican and foreign.  Because the Camino del Cobre starts right at the train station in Creel, it may be a good transportation option for Camino hikers. 
+      text_04: |
+        For more detailed information about the Chepe, fares, time schedules, stops, and reservations, click below, or search the Internet.
+      titl: |
+        logistics.chepe.titl
+      title: |
+        The Chihuahua Pacific Train (El Chepe)
     maps:
       text_01: |
         The Camino region is a rugged and relatively less explored area. The detail trail and topographic maps often purchased for use in other countries are not available.
@@ -93,6 +108,39 @@ en_US:
         The map is good for giving an overview of the relief of the area (arroyos, summits, and the like). However, its information about trails, roads, power lines, and houses is in many cases out of date or unreliable. It is for sale in various shops in Creel.
       title: |
         Maps
+    outfitters:
+      text_01: |
+        The Camino del Cobre is designed for all types of visitors: those who are comfortable with hiking on their own, as well those who prefer to use the services of guides or outfitters who can assist in the logistics of hiking in the outdoors of Copper Canyon (food, tents, etc.).  These companies may also be able to provide transportation to hiking locations or simply knowledgeable advice on hiking opportunities.
+      text_02: |
+        As a developed tourist area, Creel offers a number of experienced and well-qualified outfitters.  They offer a wide variety of services and recreation opportunities, including hiking, mountain biking, adventuring, or simple sightseeing coach tours.  For a list compiled by a well-known newspaper, click below.  Or search the Internet.
+      text_03: |
+        In many cases these companies may be contacted via the Internet, making it unnecessary to come to Creel to arrange for their services.
+      title: |
+        Outfitters
+    security:
+      text_01: |
+        The safety and security of visitors to Copper Canyon country is an issue for many people thinking about enjoying the region’s attractions.  Over the years there have been many media stories about violence and crime in Mexico.  Many of these incidents are based on conflicts over drugs and the “cartels” that participate in drugs.  Other stories deal with less serious crimes such as pick-pocketing or robberies in Mexico’s cities where visitors are victimized while seeing the country’s well-known tourist sites.
+      text_02: |
+        Fortunately, the Copper Canyon region is very far from the drug or urban areas that generate the vast majority of such stories.  It is 260 kilometers (160 miles) from Chihuahua, the nearest large city, and another 240 kilometers (150 miles) to the closest border station with the US (Ojinaga) where drugs are more common.  While transportation for tourists is good, criminals do not have fast and easy access to the area.  
+      text_03: |
+        As stated by the U.S. Department of State in its 2015 travel advisory for Mexico, “Resort areas and tourist destinations in Mexico generally do not see the levels of drug-related violence and crime that are reported in the border region or in areas along major trafficking routes.”  (Dated May 5, 2015).
+      text_04: |
+        There are other reasons why Copper Canyon is seen as safe for visitors.  As a rural area surrounded by forests and nature where people live a more traditional way of life, the region is free from many of the social problems in the crowded cities or border areas.  In addition, as a tourist area, there is strong concern by law enforcement and other government agencies and local businesses to maintain a safe environment.  More importantly, local people recognize that a safety and security are important to maintain the health of tourism and help to control criminal activity.  
+      text_05: |
+        For more information about crime and safety in Mexico , click below or search the Internet.
+        
+      text_06: |
+        Of course, no area anywhere in Mexico or in any country can be guaranteed to be completely safe.  Accidents and crime can happen anywhere without warning.  As a result, visitors thinking about walking the Camino del Cobre should take the usual precautions when in an unfamiliar area or situation.  There is significant advice available on the Internet about these simple security measures in any country or rural situation.  For more information, click below or search the Internet
+      text_07: |
+        However, visitors to the Copper Canyon and the Camino should be particularly aware of a few simple rules especially relevant to the region:
+      text_08: |
+        1. Tell someone (at your hotel, outfitter, or tourist office) of your general plans for traveling or hiking (where and when you will go).  Copper Canyon country is large.  Not many people live there.  If an emergency should arise, then the authorities or rescue parties can know where to look for you.
+      text_09: |
+        2. Seek advice from local residents if there are any areas or times where there might be a crime concern.  
+      text_10: |
+        3. Be friendly and open with local residents – whether Tarahumara or other - you may meet on the Camino.  Don’t approach them with a threatening or suspicious manner.  In most cases they will be just as friendly and open in return.
+      title: |
+        Safety and Security
     segments_transport:
       text_01: |
         The Camino is for hikers who want to enjoy walking outdoors. However, in practical terms, many hikers may want to spend some portion of a day hiking and the rest of the day at some other recreational activity. Therefore, the Camino is designed to be experienced in discrete, and somewhat independent, segments (similar to Trails in other countries). At convenient points along the Camino the hiker can leave the trail, walk ~50 meters to a junction with Highway 77, and return to Creel via some form of motor transportation. Alternatively, the hiker may take a vehicle from Creel to an access point, and return to town walking on the Camino.
@@ -110,6 +158,11 @@ en_US:
         Rapidos and Chihuahuenses run every 2 hours from 8:30 a.m. until 18:30. Noreste has buses every 4 hours starting at 10:30
       title: |
         Trail Segments and Motor Transport
+    supplies:
+      text_01: |
+        Creel has a well-developed infrastructure to support tourism and hikers wanting to experience the Camino.  There are a number of grocery and other stores to buy necessary supplies for a hike, including food, basic hiking equipment (raingear, for example)
+      title: |
+        Supplies
     title: |
       Logistics
     trail_markers:
@@ -125,6 +178,19 @@ en_US:
         Moreover, to show where there are turns or gentler “bends” in the path, the trail markers show the oncoming turn, either sharply or in a gradual “Y” curve.
       title: |
         Trail Markers
+    weather:
+      text_01: |
+        Due to the wide range of elevations in Copper Canyon country (up to 1500 meters [5000 feet] of altitude difference), there is a wide variety of weather and climatic conditions.  In general, the canyon bottoms will be up to 10+ degrees Celsius (~20 degrees Fahrenheit) warmer or hotter than the rim.  For example, in the summer when the temperature at the rim at Creel can be warm, the temperatures In the canyon bottom (such as Batopilas or Urique) can be very hot (up to 40 degrees Celsius or 100 degrees Fahrenheit).
+      text_02: |
+        In general, the canyon rims where most visitors will want to will have a moderate climate similar to areas of equivalent altitude in the Southwestern U.S. (New Mexico and Arizona) or southern Europe.  Summer months will be warm to hot (30 Celsius or 85 Fahrenheit.  Spring and fall will be pleasant at 15 to 20 degrees Celsius (60 to 70 Fahrenheit, and winters can occasionally be cold.  Freezing temperatures are occasionally experienced at night from December to February while days typically warm above freezing.
+      text_03: |
+        The Copper Canyon region of Mexico experiences a summer rain pattern.  That is, it rains frequently between the months of June and August with lesser amounts in May and September.  Often these rains will be intense but brief, a pattern sometimes called “tropical monsoon.”   As a result of this atmospheric moisture in summer, the canyon bottoms can be very humid in addition to high temperature.  In other times of year, precipitation (rain or snow) is infrequent.  
+      text_04: |
+        Most visitors find that the weather is best for visiting the Copper Canyon in the spring, summer, or autumn.  The winter is too cold for many.
+      text_05: |
+        For more information about Copper Canyon weather and when to visit, click below or search the Internet.
+      title: |
+        Weather
   map:
     title: |
       Map
@@ -183,6 +249,21 @@ en_US:
         
       title: |
         The Route
+    tarahumara:
+      text_01: |
+        One of the most enjoyable aspects of exploring the Copper Canyon region is the opportunity to encounter the Tarahumara people, often also called the Rarámuri.  They are one of Mexico’s native or indigenous tribes and lived in the Sierra Madre for centuries.  There are approximately 100,000 Tarahumara living in Copper Canyon area from north of Creel extending south toward the town of Guachochi.  Due to their relative isolation and poor communication infrastructure, many still speak their indigenous language in the home (in addition to Spanish used in schools and commerce).
+      text_02: |
+        Many Tarahumara have moved to the towns of the region (such as Creel), where they can be seen on the streets, in the shops, and on the plazas.  In many cases, particularly for the Tarahumara women, they continue to wear their traditional dress, often skirts and shawls of bright colors.  
+      text_03: |
+        While some Tarahumara still believe in their traditional religious practices, many now belong to the Catholic Church.  Many villages have small churches to serve their members, including some built as missions 300 years ago (for example, in the largely Tarahumara town of Sisoguichi 20 kilometers north of Creel).  
+      text_04: |
+        Over the years, modern Mexican life has increasingly affected the Tarahumara.  Nonetheless, the majority of Tarahumara still live a more traditional life style on the land.  They often have small homes in the forest and tend their fields (primarily corn or maize) or livestock, often using simple farming methods such as horse-drawn plows.  
+      text_05: |
+        The Tarahumara are famous for their running ability.  In fact, according to some, the name Rarámuri refers to running on foot.  Living at high altitudes (over 2000 meters, or 7000 feet) gives them the advantage of well-developed lung capacity.  In addition, due to the long distances to cover between their homes, farms, and villages, there has been a long tradition of running between villages, often traveling many kilometers over the rock terrain barefoot.
+      text_06: |
+        A significant amount of information about the Tarahumara is available online.  For more information, click below or search the Internet.
+      title: |
+        Tarahumara
     title: |
       Region and route
     trail:
@@ -192,6 +273,17 @@ en_US:
         The Camino largely takes advantage of previous paths and roads used by the Tarahumara and other local residents.  It often goes by farm fields and isolated houses.  It often selects the paths best suited for hikers, rather than just for more practical purpose (such as choosing a more scenic path, rather than the most direct).  Depending on what is available in any specific area, the Camino uses rural roads, narrow single-track paths through the woods, the wide open course of pipelines, ATV or mountain bike tracks, and an occasional cross country “bush whack” with clear markers on trees.   It then connects these disparate paths into an overall path connecting important points on the way.  The hiker could easily start on a wide rural road, transition to a narrow path through the trees for a short time, then switch to a pipeline course, and back to a forest path. 
       title: |
         The Trail of Trails
+    wildlife:
+      text_01: |
+        There is a great diversity of wildlife in the greater Copper Canyon area.  Due to the significant elevation range from the rim of the canyon (2400 meters, or 8000 ft) to the bottom of the canyons (550 meters, or 1800 feet), there is a wide diversity of habitat and environment for both plants and animals.  In the hot and arid canyon depths the desert species of plants and animals thrive – cactus, lizards, snakes, and the like.  
+      text_02: |
+        However, in the cooler areas in the Sierra Madre mountain mammals are more similar to “temperate zone” wildlife familiar in the U.S. or Europe – such as deer (white-tailed) , black bear, small rodents like squirrels, rabbits, and even the puma (mountain lion).  However, due to hunting over the many years of human habitation, the numbers of these larger mammals is limited.
+      text_03: |
+        The best opportunity for wildlife viewing is birdlife.  Roughly 300 species of birds live in the region.  24 of these species are limited just to the Copper Canyon area, including the military macaw and the thick-billed parrot.  For more tropical species, an excursion – either on foot or by coach - to the lower parts of the canyons  may be necessary.
+      text_04: |
+        There is significant information about the environment and wildlife available on the Internet.  For basic information on the region including its flora and fauna, click below, or search the Internet.
+      title: |
+        Wildlife
   segment:
     description:
       title: |
