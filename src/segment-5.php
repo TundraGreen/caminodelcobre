@@ -20,12 +20,14 @@ This file is part of Camino del Cobre.
 		<link href="estilos/master.css" rel="stylesheet" type="text/css" />
 		<link href="estilos/caminodelcobre.css" rel="stylesheet" type="text/css" />
 		<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Raleway">
+		<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDs2Fim0SK8tW23TjUALTd1V_K8pHmcps4">
+    </script>
 		<script src="javascript/caminodelcobre.js"></script>
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript"></script>
 	</head>
 	<body>
 		<?php include_once('includes/header.php') ?>
 		<?php include_once('includes/navbar.php') ?>
+	  <div id='section_05_map' class='section_map'></div>
     <div class="vision_text_block">
 		  <h2><?php print(i18n('segment_5.title', $lang)); ?></h2>
       <h3><?php print(i18n('segment.overview.title', $lang)); ?></h3>
