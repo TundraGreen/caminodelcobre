@@ -6,7 +6,8 @@ html, body {
   font-family: Raleway;
 }
 #map-canvas {
-  height: 100%;
+  width: 860px;
+  height: 500px;
   margin: 0px;
   padding: 0px;
   border: blue solid 1px;

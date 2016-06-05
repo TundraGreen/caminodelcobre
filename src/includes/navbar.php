@@ -73,6 +73,26 @@ This file is part of Camino del Cobre.
       <li>
         <a href="segment-7.php?lang=<?php print($lang); ?>"><?php print(i18n('navbar.segment_7', $lang)); ?></a>
       </li>
+			<?php $state = strpos($_SERVER['PHP_SELF'],'segment-8') === false ? '' : '_inactive' ; ?>
+      <li>
+        <a href="segment-8.php?lang=<?php print($lang); ?>"><?php print(i18n('navbar.segment_8', $lang)); ?></a>
+      </li>
+			<?php $state = strpos($_SERVER['PHP_SELF'],'segment-9') === false ? '' : '_inactive' ; ?>
+      <li>
+        <a href="segment-9.php?lang=<?php print($lang); ?>"><?php print(i18n('navbar.segment_9', $lang)); ?></a>
+      </li>
+			<?php $state = strpos($_SERVER['PHP_SELF'],'segment-10') === false ? '' : '_inactive' ; ?>
+      <li>
+        <a href="segment-10.php?lang=<?php print($lang); ?>"><?php print(i18n('navbar.segment_10', $lang)); ?></a>
+      </li>
+			<?php $state = strpos($_SERVER['PHP_SELF'],'segment-11') === false ? '' : '_inactive' ; ?>
+      <li>
+        <a href="segment-11.php?lang=<?php print($lang); ?>"><?php print(i18n('navbar.segment_11', $lang)); ?></a>
+      </li>
+			<?php $state = strpos($_SERVER['PHP_SELF'],'segment-12') === false ? '' : '_inactive' ; ?>
+      <li>
+        <a href="segment-12.php?lang=<?php print($lang); ?>"><?php print(i18n('navbar.segment_12', $lang)); ?></a>
+      </li>
 			<?php $state = strpos($_SERVER['PHP_SELF'],'suggested-routes') === false ? '' : '_inactive' ; ?>
       <li>
         <a href="suggested-routes.php?lang=<?php print($lang); ?>"><?php print(i18n('navbar.suggested_routes', $lang)); ?></a>

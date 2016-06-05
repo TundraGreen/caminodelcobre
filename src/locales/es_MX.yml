@@ -73,6 +73,9 @@ es_MX:
         Notas
     title: |
       Guia
+  incident_commander:
+    response_summary: |
+      incident_commander.response_summary
   index:
     overview: |
       El Camino del Cobre es un sendero de larga distancía que destaca todas las maravillas de la region de la Barranca del Cobre - las bellezas del bosque, la historia colonial, la cultura indígena, el desafío personal de una caminata en la naturaleza.  El Camino ofrece el visitante la oportunidad de experimentar las barrancas del Sur, las cascadas del Norte, los pueblos raramuri, y las vistas desde el lado del sistema de barrancas más grande en el planeta. En este momento, los excursionistas podrían crear sus proprias rutas empezando en el centro eco'turistico de Creel, Chihuahua. 
@@ -206,6 +209,12 @@ es_MX:
       Región/Ruta
     segment_1: |
       Etapa 1
+    segment_10: |
+      Etapa 10
+    segment_11: |
+      Etapa 11
+    segment_12: |
+      Etapa 12
     segment_2: |
       Etapa 2
     segment_3: |
@@ -218,6 +227,10 @@ es_MX:
       Etapa 6
     segment_7: |
       Etapa 7
+    segment_8: |
+      Etapa 8
+    segment_9: |
+      Etapa 9
     suggested_routes: |
       Sugerencias para Rutas
     vision: |
@@ -324,6 +337,15 @@ es_MX:
         Resumen: En esta etapa los senderistas salen de Creel (la estación del tren) y rápidamente llegar en el bosque afuera del pueblo.  Después de atravesar un área residencial al sur del pueblo, el Camino se separa del ferrocarril y sube hasta el bosque en las mesas alrededor.  Luego pasa por muchos bosques y campos granjeros, a veces por unos caminos rurales, otras veces por senderos angostos entre los árboles.  Después de una segunda subida, termina en la carretera antigua entre Creel y Divisadero (aproximadamente 4 kilómetros de Creel).
     title: |
       Etapa 1: Desde Creel hasta la Carretera Antigua
+  segment_10:
+    title: |
+      Etapa 10: Desde Nacaybo Norte to Nacaybo Sur
+  segment_11:
+    title: |
+      Etapa 11: Desde Nacaybo Sur a Cerro Alto
+  segment_12:
+    title: |
+      Etapa 12: Desde Cerro Alto a Divisadero
   segment_2:
     description:
       text_01: |
@@ -472,6 +494,12 @@ es_MX:
         Esta etapa de ~9 kilómetros sigue la carretera antigua alta entre Creel y Divisadero para evitar la bajada empinada en el Cañón El Cajón (~300 metros de profundidad y 6 kilómetros de longitud) usada por la carretera moderna pavimentada, también sigue el curso del ducto de agua por una distancia larga solamente separándose en la parte final.  En contraste con la Carretera 77 actual, la primera parte de esta etapa se queda relativamente alta mientras traviesa esta región de la Sierra proveyendo las vistas sobre las barrancas al sur en la distancia.  La parte media baja hasta el ferrocarril y sigue los cursos de los ríos en el bosque antes de subir de nuevo a la mesa en los finales 2.5 kilómetros.  Un punto notable de la etapa – no precisamente del Camino mismo pero como una desviación extra (“side trip”) - es ver el punto a lo largo del ferrocarril donde el tren hace un giro de 360 grados en su subida y cruza su propia ruta.
     title: |
       Etapa 7: Desde la Carretera Antigua Alta hasta el Crucero del Chepe
+  segment_8:
+    title: |
+      Etapa 8: Desde el Crucero del Chepe hasta Pitorreal
+  segment_9:
+    title: |
+      Etapa 9: Desde Pitorreal a Nacaybo Norte
   suggested_routes:
     part_01:
       text_01: |

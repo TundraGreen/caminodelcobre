@@ -73,6 +73,9 @@ en_US:
         Notes
     title: |
       Guide
+  incident_commander:
+    response_summary: |
+      incident_commander.response_summary
   index:
     overview: |
       The Camino del Cobre (The Copper Canyon Trail) will be a long-distance trail that highlights the tourist wonders of the Copper Canyon region - nature, culture, history, and the opportunity for personal challenge.  Extending from the northern waterfalls to great southern canyons, the Trail will follow the rim of the world's largest canyon system - with chances to visit local villages and historical sites. When completed, the Trail will span a number of days in  its entirety.  Now hikers can follow the trail markers for their own route of 1,2 or more days, starting in the eco-tourist center of Creel, Chihuahua, Mexico.
@@ -209,6 +212,12 @@ en_US:
       Region/Route
     segment_1: |
       Segment 1
+    segment_10: |
+      Segment 10
+    segment_11: |
+      Segment 11
+    segment_12: |
+      Segment 12
     segment_2: |
       Segment 2
     segment_3: |
@@ -221,6 +230,10 @@ en_US:
       Segment 6
     segment_7: |
       Segment 7
+    segment_8: |
+      Segment 8
+    segment_9: |
+      Segment 9
     suggested_routes: |
       Suggested Routes
     vision: |
@@ -327,6 +340,15 @@ en_US:
         This section takes hikers from the Creel train station into the forest outside of town.  After passing through a residential area to the south, it separates from the railroad tracks and climbs into the forest on the mesas surrounding the town.  Once on the mesa, it passes through a mixture of farm fields and forest, sometimes on a rural road and sometimes on a single-track forest path.  After a second climb up another mesa, it ends at the old road between Creel and Divisadero ~4 km from Creel.
     title: |
       Segment 1: From Creel to the Old Road
+  segment_10:
+    title: |
+      Segment 10: From Nacaybo North to Nacaybo South
+  segment_11:
+    title: |
+      Segment 11: From Nacaybo South to Cerro Alto
+  segment_12:
+    title: |
+      Segment 12: From Cerro Alto to Divisadero
   segment_2:
     description:
       text_01: |
@@ -470,6 +492,12 @@ en_US:
         This section of ~9 kilometers uses the old high road between Creel and Divisadero to avoid the steep descent into El Cajon canyon (200 meters deep and 6 km long) taken by the paved highway.  It also follows the course of a water pipeline for a substantial distance, only separating for the final portion.  In contrast to Highway 77, the first part of the old road remains relatively high as it traverses this part of the Sierra offering views over the canyons in the distance.  The middle part drops down to the railroad and follows stream beds in the forest, only climbing back to the ridge / mesa in the final 2.5 kms.  A highlight possible from the Camino - not on the Camino itself but as a side trip - is to see the point on the railroad where the train makes a 360 degree "loop" in its climb and passes / under (depending on direction) over its own route.
     title: |
       Segment 7: From the Old High Road to Chepe railroad crossing
+  segment_8:
+    title: |
+      Segment 8: From Chepe railroad crossing to Pitorreal
+  segment_9:
+    title: |
+      Segment 9: From Pitorreal to Nacaybo North
   suggested_routes:
     part_01:
       text_01: |
