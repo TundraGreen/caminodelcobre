@@ -7,15 +7,16 @@ var ctaLayer;
 
 /* ------------------------ map page -------------------------------------*/
 function initialize() {
-  var Recowata = new google.maps.LatLng(27.708892,-107.684341);
+  var ElCrucero = new google.maps.LatLng(27.654876,-107.742908);
   var mapOptions = {
-    zoom: 3,
-    center: Recowata
+    zoom: 11,
+    center: ElCrucero
   }
   var map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
   for (var iy=0; iy<sections.length; iy++) {
     ctaLayer = new google.maps.KmlLayer({
-      url: "http://theprescotts.com/will/kml/CaminoDelCobre/" + codes[iy] + "_Section_" + sections[iy] + ".kml"
+      url: "http://theprescotts.com/will/kml/CaminoDelCobre/" + codes[iy] + "_Section_" + sections[iy] + ".kml",
+      preserveViewport: true
     });
     ctaLayer.setMap(map);
   }
