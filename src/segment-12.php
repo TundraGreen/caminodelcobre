@@ -27,6 +27,7 @@ This file is part of Camino del Cobre.
 	<body>
 		<?php include_once('includes/header.php') ?>
 		<?php include_once('includes/navbar.php') ?>
+		<h2><?php print(i18n('segment_12.title', $lang)); ?></h2>
 		<table class="segment_data_table">
 		  <tr>
 		    <td><?php print(i18n('segment_data.length', $lang)); ?></td><td>3.75 km</td>
@@ -41,7 +42,6 @@ This file is part of Camino del Cobre.
 	  <div id='section_12a_map' class='section_map'></div>
 	  <div id='section_12b_map' class='section_map'></div>
     <div class="vision_text_block">
-		  <h2><?php print(i18n('segment_12.title', $lang)); ?></h2>
     </div>
 
     <div class="clear"></div>
