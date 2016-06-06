@@ -498,6 +498,13 @@ en_US:
   segment_9:
     title: |
       Segment 9: From Pitorreal to Nacaybo North
+  segment_data:
+    length: |
+      Segment length
+    max_elevation: |
+      Maximum elevation
+    min_elevation: |
+      Minimum elevation
   suggested_routes:
     part_01:
       text_01: |

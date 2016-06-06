@@ -500,6 +500,13 @@ es_MX:
   segment_9:
     title: |
       Etapa 9: Desde Pitorreal a Nacaybo Norte
+  segment_data:
+    length: |
+      Longitud de etapa
+    max_elevation: |
+      Nivel máximo
+    min_elevation: |
+      Nivel minimo
   suggested_routes:
     part_01:
       text_01: |

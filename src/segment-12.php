@@ -27,6 +27,17 @@ This file is part of Camino del Cobre.
 	<body>
 		<?php include_once('includes/header.php') ?>
 		<?php include_once('includes/navbar.php') ?>
+		<table class="segment_data_table">
+		  <tr>
+		    <td><?php print(i18n('segment_data.length', $lang)); ?></td><td>3.75 km</td>
+		  </tr>
+		  <tr>
+		    <td><?php print(i18n('segment_data.max_elevation', $lang)); ?></td><td>2483 m</td>
+		  </tr>
+		  <tr>
+		    <td><?php print(i18n('segment_data.min_elevation', $lang)); ?></td><td>2237 m</td>
+		  </tr>
+		</table>
 	  <div id='section_12a_map' class='section_map'></div>
 	  <div id='section_12b_map' class='section_map'></div>
     <div class="vision_text_block">

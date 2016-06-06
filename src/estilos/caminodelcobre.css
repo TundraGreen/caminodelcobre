@@ -21,6 +21,12 @@ html, body {
   border: blue solid 1px;
   z-index: 1;
 }
+.segment_data_table {
+  font-size: 0.8em;
+}
+.segment_data_table td{
+  padding: 0px 5px 0px 0px;
+}
 
 h1 {
     padding: 20px 20px 20px 20px;
