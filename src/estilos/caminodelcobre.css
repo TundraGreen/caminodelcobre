@@ -267,3 +267,12 @@ h4 {
 .guide_second_indent {
 	padding: 0px 0px 10px 90px;
 }
+.float_left {
+  float: left;
+}
+.float_right {
+  float: right;
+}
+.float_clear {
+  clear: both;
+}

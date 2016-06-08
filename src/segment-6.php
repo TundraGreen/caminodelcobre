@@ -1,11 +1,16 @@
 <?php
 /*
-© 2015 William H. Prescott. All Rights Reserved.
-
+©2015-2016 William H. Prescott. All Rights Reserved.
 This file is part of Camino del Cobre.
-
 */
 
+  include_once('includes/language.php');
+
+  $length = 1.29;
+  $maxElevation = 2462;
+  $minElevation = 2442;
+  $xml = simplexml_load_file("kml/CaminoDelCobre/0090_Section_06.gpx") or die("Error: Cannot create object");
+  $elev_json = json_encode((array) $xml[0]->trk->trkseg);
 ?>
 <?php include_once('includes/language.php') ?>
 <!DOCTYPE html>
@@ -24,30 +29,32 @@ This file is part of Camino del Cobre.
     </script>
     <script src="javascript/caminodelcobre.js"></script>
   </head>
-  <body>
+  <body onload="draw()">
     <?php include_once('includes/header.php') ?>
     <?php include_once('includes/navbar.php') ?>
     <h2><?php print(i18n('segment_6.title', $lang)); ?></h2>
-    <table class="segment_data_table">
-      <tr>
-        <td><?php print(i18n('segment_data.length', $lang)); ?></td><td>1.29 km</td>
-      </tr>
-      <tr>
-        <td><?php print(i18n('segment_data.max_elevation', $lang)); ?></td><td>2462 m</td>
-      </tr>
-      <tr>
-        <td><?php print(i18n('segment_data.min_elevation', $lang)); ?></td><td>2442 m</td>
-      </tr>
-    </table>
+    <div class='float_left'>
+      <canvas id="canvas" width="502" height="208"></canvas>
+    </div>
+    <div class='float_left'>
+      <table class="segment_data_table">
+        <tr>
+          <td><?php print(i18n('segment_data.length', $lang)); ?></td>
+          <td><span id='segment_length'><?php print($length); ?></span> km</td>
+        </tr>
+        <tr>
+          <td><?php print(i18n('segment_data.max_elevation', $lang)); ?></td>
+          <td><span id='max_elevation'><?php print($maxElevation); ?></span> m</td>
+        </tr>
+        <tr>
+          <td><?php print(i18n('segment_data.min_elevation', $lang)); ?></td>
+          <td><span id='min_elevation'><?php print($minElevation); ?></span> m</td>
+        </tr>
+      </table>
+    </div>
+    <div class='float_clear'></div>
+    <div id='elev_data' hidden><?php print($elev_json); ?></div>
     <div id='section_06_map' class='section_map'></div>
-    <div class="vision_text_block">
-      <h3><?php print(i18n('segment.overview.title', $lang)); ?></h3>
-      <p><?php print(i18n('segment_6.overview.text', $lang)); ?></p>
-
-      <h3><?php print(i18n('segment.description.title', $lang)); ?></h3>
-      <div class="third_width_photo">
-        <div>
-          <img src="imagenes/San-Elias-School.jpeg" width="200px" alt="Canyon Scene" /><br />
           San Elias School
         </div>
       </div>

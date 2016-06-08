@@ -135,6 +135,56 @@ function tpSetTimeout () {
 	}
 }
 
+/* ---------------------------------------------------------- */
+/* --------        Elevation plot            ---------------- */
+function draw() {
+  var canvas = document.getElementById("canvas");
+  if (null==canvas || !canvas.getContext) return;
+
+  var axes={}, ctx=canvas.getContext("2d");
+  axes.x0 = .5;  // x0 pixels from left to x=0
+  axes.y0 = .5 + 200; // y0 pixels from top to y=0
+  axes.xScale = 500/10;                 // 500 pixels for 10 km
+  axes.yScale = 200/500;                // 100 pixels for 2100 to 2600 m
+
+  showAxes(ctx,axes);
+  plotElevations(ctx, axes);
+  
+}
+function plotElevations(ctx, axes) {
+  var xx, yy, x0=axes.x0, y0=axes.y0, dataScale;
+  var length = document.getElementById("segment_length").innerText;
+  var elevMin = document.getElementById("min_elevation").innerText;
+  var elevMax = document.getElementById("max_elevation").innerText;
+  var data = JSON.parse(document.getElementById("elev_data").innerText);
+//  dumpProperties(length,'length');
+  var dataCount = data.trkpt.length;
+//  console.log(dataCount+' dataCount');
+  var xScale = length/dataCount * axes.xScale;
+  var yScale = axes.yScale;
+  ctx.beginPath();
+  ctx.lineWidth = 1;
+  ctx.strokeStyle = "rgb(11,153,11)";
+  for (var i=0; i<dataCount; i++) {
+    xx = parseInt(i * xScale);
+    yy = parseInt((data.trkpt[i].ele - 2100.) * yScale);
+    if (i == 0) ctx.moveTo(x0+xx, y0-yy);
+    else        ctx.lineTo(x0+xx, y0-yy);
+  }
+  ctx.stroke();
+}
+function showAxes(ctx,axes) {
+ var x0=axes.x0, w=ctx.canvas.width;
+ var y0=axes.y0, h=ctx.canvas.height;
+ var xmin = axes.doNegativeX ? 0 : x0;
+ ctx.beginPath();
+ ctx.strokeStyle = "rgb(128,128,128)"; 
+ ctx.moveTo(xmin,y0); ctx.lineTo(w,y0);  // X axis
+ ctx.moveTo(x0,0);    ctx.lineTo(x0,h);  // Y axis
+ ctx.stroke();
+}
+/* ---------------------------------------------------------- */
+
 // $(document).ready(tpSetTimeout);
 
 /* -------------------------------------------------------------------------*/
