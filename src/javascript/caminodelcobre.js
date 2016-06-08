@@ -143,7 +143,7 @@ function draw() {
 
   var axes={}, ctx=canvas.getContext("2d");
   axes.x0 = .5;  // x0 pixels from left to x=0
-  axes.y0 = .5 + 200; // y0 pixels from top to y=0
+  axes.y0 = .5 + 190; // y0 pixels from top to y=0
   axes.xScale = 500/10;                 // 500 pixels for 10 km
   axes.yScale = 200/500;                // 100 pixels for 2100 to 2600 m
 
@@ -174,14 +174,18 @@ function plotElevations(ctx, axes) {
   ctx.stroke();
 }
 function showAxes(ctx,axes) {
- var x0=axes.x0, w=ctx.canvas.width;
- var y0=axes.y0, h=ctx.canvas.height;
- var xmin = axes.doNegativeX ? 0 : x0;
- ctx.beginPath();
- ctx.strokeStyle = "rgb(128,128,128)"; 
- ctx.moveTo(xmin,y0); ctx.lineTo(w,y0);  // X axis
- ctx.moveTo(x0,0);    ctx.lineTo(x0,h);  // Y axis
- ctx.stroke();
+  var x0=axes.x0, w=ctx.canvas.width;
+  var y0=axes.y0, h=ctx.canvas.height;
+  var xmin = axes.doNegativeX ? 0 : x0;
+  ctx.beginPath();
+  ctx.strokeStyle = "rgb(128,128,128)"; 
+  ctx.moveTo(xmin,y0); ctx.lineTo(w,y0);  // X axis
+  ctx.moveTo(x0,0);    ctx.lineTo(x0,h);  // Y axis
+  ctx.stroke();
+  ctx.fillText('2100 m', x0 + 5, y0 - 5);
+  ctx.fillText('2600 m', x0 + 5, y0 - 180);
+  ctx.fillText('0 km', x0 + 5, y0 + 10);
+  ctx.fillText('10 km', x0 + 470, y0 + 10);
 }
 /* ---------------------------------------------------------- */
 
