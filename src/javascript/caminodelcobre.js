@@ -32,7 +32,6 @@ for (var ix=0; ix<sections.length; ix++) {
     var i = ix;
     google.maps.event.addDomListener(window, 'load', function () {
       section_map = new google.maps.Map(document.getElementById("section_" + sections[i] + "_map"));
-      console.log(sections[i]);
       section_ctaLayer = new google.maps.KmlLayer({
         url: "http://theprescotts.com/will/kml/CaminoDelCobre/" + codes[i] + "_Section_" + sections[i] + ".kml"
       });
