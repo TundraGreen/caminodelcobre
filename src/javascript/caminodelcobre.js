@@ -40,7 +40,7 @@ for (var ix=0; ix<sections.length; ix++) {
   })();
 }
 
- 
+
 
 
 /* -------------------------------------------------------------------------*/
@@ -136,7 +136,7 @@ function tpSetTimeout () {
 }
 
 /* ---------------------------------------------------------- */
-/* --------        Elevation plot            ---------------- */
+/* --------------- Elevation plot --------------------------- */
 function draw() {
   var canvas = document.getElementById("canvas");
   if (null==canvas || !canvas.getContext) return;
@@ -149,7 +149,7 @@ function draw() {
 
   showAxes(ctx,axes);
   plotElevations(ctx, axes);
-  
+
 }
 function plotElevations(ctx, axes) {
   var xx, yy, x0=axes.x0, y0=axes.y0, dataScale;
@@ -178,14 +178,14 @@ function showAxes(ctx,axes) {
   var y0=axes.y0, h=ctx.canvas.height;
   var xmin = axes.doNegativeX ? 0 : x0;
   ctx.beginPath();
-  ctx.strokeStyle = "rgb(128,128,128)"; 
+  ctx.strokeStyle = "rgb(128,128,128)";
   ctx.moveTo(xmin,y0); ctx.lineTo(w,y0);  // X axis
   ctx.moveTo(x0,0);    ctx.lineTo(x0,h);  // Y axis
   ctx.stroke();
   ctx.fillText('2100 m', x0 + 5, y0 - 5);
   ctx.fillText('2600 m', x0 + 5, y0 - 180);
-  ctx.fillText('0 km', x0 + 5, y0 + 10);
-  ctx.fillText('10 km', x0 + 470, y0 + 10);
+  ctx.fillText('0 km (green)', x0 + 5, y0 + 10);
+  ctx.fillText('10 km (red)', x0 + 450, y0 + 10);
 }
 /* ---------------------------------------------------------- */
 
