@@ -9,8 +9,18 @@ This file is part of Camino del Cobre.
   $length = 6.21;
   $maxElevation = 2314;
   $minElevation = 2184;
-  $xml = simplexml_load_file("kml/CaminoDelCobre/0076_Section_08b.gpx") or die("Error: Cannot create object");
-  $elev_json = json_encode((array) $xml[0]->trk->trkseg);
+  $xmla = simplexml_load_file("kml/CaminoDelCobre/0084_Section_08a.gpx") or die("Error: Cannot create object");
+  $xmlb = simplexml_load_file("kml/CaminoDelCobre/0076_Section_08b.gpx") or die("Error: Cannot create object");
+  $xml_array_a = (array) $xmla[0]->trk->trkseg;
+  $xml_array_b = (array) $xmlb[0]->trk->trkseg;
+  $elev_array = array();
+  for ($i=0; $i<count($xml_array_a[trkpt]); $i++) {
+    $elev_array[] = (float) $xml_array_a[trkpt][$i]->ele;
+  }
+  for ($i=0; $i<count($xml_array_b[trkpt]); $i++) {
+    $elev_array[] = (float) $xml_array_b[trkpt][$i]->ele;
+  }
+  $elev_json = json_encode($elev_array);
 ?>
 <?php include_once('includes/language.php') ?>
 <!DOCTYPE html>
@@ -55,7 +65,6 @@ This file is part of Camino del Cobre.
     <div class='float_clear'></div>
     <div id='elev_data' hidden><?php print($elev_json); ?></div>
     <div id='section_08a_map' class='section_map'></div>
-    <div id='section_08b_map' class='section_map'></div>
     <div class="vision_text_block">
     </div>
 

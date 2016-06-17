@@ -28,6 +28,7 @@ var section_map;
 var section_ctaLayer
 
 for (var ix=0; ix<sections.length; ix++) {
+  if (ix == 8 || ix == 13) {continue};
   (function () {
     var i = ix;
     google.maps.event.addDomListener(window, 'load', function () {
@@ -36,6 +37,13 @@ for (var ix=0; ix<sections.length; ix++) {
         url: "http://theprescotts.com/will/kml/CaminoDelCobre/" + codes[i] + "_Section_" + sections[i] + ".kml"
       });
       section_ctaLayer.setMap(section_map);
+      if(sections[i] == '08a' || sections[i] == '12a') {
+        i++;
+        section_ctaLayer = new google.maps.KmlLayer({
+          url: "http://theprescotts.com/will/kml/CaminoDelCobre/" + codes[i] + "_Section_" + sections[i] + ".kml"
+        });
+        section_ctaLayer.setMap(section_map);
+      }
     });
   })();
 }
@@ -158,8 +166,8 @@ function plotElevations(ctx, axes) {
   var elevMax = document.getElementById("max_elevation").innerText;
   var data = JSON.parse(document.getElementById("elev_data").innerText);
 //  dumpProperties(length,'length');
-  var dataCount = data.trkpt.length;
-//  console.log(dataCount+' dataCount');
+  var dataCount = data.length;
+  console.log(dataCount+' dataCount');
   var xScale = length/dataCount * axes.xScale;
   var yScale = axes.yScale;
   ctx.beginPath();
@@ -167,7 +175,7 @@ function plotElevations(ctx, axes) {
   ctx.strokeStyle = "rgb(11,153,11)";
   for (var i=0; i<dataCount; i++) {
     xx = parseInt(i * xScale);
-    yy = parseInt((data.trkpt[i].ele - 2100.) * yScale);
+    yy = parseInt((data[i] - 2100.) * yScale);
     if (i == 0) ctx.moveTo(x0+xx, y0-yy);
     else        ctx.lineTo(x0+xx, y0-yy);
   }
@@ -185,7 +193,7 @@ function showAxes(ctx,axes) {
   ctx.fillText('2100 m', x0 + 5, y0 - 5);
   ctx.fillText('2600 m', x0 + 5, y0 - 180);
   ctx.fillText('0 km (green)', x0 + 5, y0 + 10);
-  ctx.fillText('10 km (red)', x0 + 450, y0 + 10);
+  ctx.fillText('(red) 10 km', x0 + 450, y0 + 10);
 }
 /* ---------------------------------------------------------- */
 

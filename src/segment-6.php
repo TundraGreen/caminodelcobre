@@ -10,7 +10,12 @@ This file is part of Camino del Cobre.
   $maxElevation = 2462;
   $minElevation = 2442;
   $xml = simplexml_load_file("kml/CaminoDelCobre/0090_Section_06.gpx") or die("Error: Cannot create object");
-  $elev_json = json_encode((array) $xml[0]->trk->trkseg);
+  $xml_array = (array) $xml[0]->trk->trkseg;
+  $elev_array = array();
+  for ($i=0; $i<count($xml_array[trkpt]); $i++) {
+    $elev_array[] = (float) $xml_array[trkpt][$i]->ele;
+  }
+  $elev_json = json_encode($elev_array);
 ?>
 <?php include_once('includes/language.php') ?>
 <!DOCTYPE html>
