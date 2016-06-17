@@ -167,7 +167,6 @@ function plotElevations(ctx, axes) {
   var data = JSON.parse(document.getElementById("elev_data").innerText);
 //  dumpProperties(length,'length');
   var dataCount = data.length;
-  console.log(dataCount+' dataCount');
   var xScale = length/dataCount * axes.xScale;
   var yScale = axes.yScale;
   ctx.beginPath();
