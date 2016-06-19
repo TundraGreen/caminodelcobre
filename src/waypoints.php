@@ -1,12 +1,8 @@
 <?php
-/*
-© 2015 William H. Prescott. All Rights Reserved.
-
-This file is part of Camino del Cobre.
-
-*/
+  session_start();
+  include_once('includes/copyright.php');
+  include_once('includes/language.php');
 ?>
-<?php include_once('includes/language.php') ?>
 <?php
 $stations = array(
   array('01', 'Creel train station', 27.75438, -107.634893, 2340),

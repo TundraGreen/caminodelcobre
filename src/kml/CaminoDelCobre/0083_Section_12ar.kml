@@ -1,0 +1,1331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+	<Document>
+		<Style id="myTrackStyle"><LineStyle><color>FFFF0000</color><colorMode>normal</colorMode><width>5.0</width></LineStyle><IconStyle><scale>1.0</scale><Icon><href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href></Icon><color>FFFF0000</color><colorMode>normal</colorMode></IconStyle></Style>
+		<Style id="myTrackStartStyle"><IconStyle><Icon><href>http://www.easytrailsgps.com/wp-content/uploads/2012/05/start_marker.png</href></Icon></IconStyle></Style>
+		<Style id="myTrackFinishStyle"><IconStyle><Icon><href>http://www.easytrailsgps.com/wp-content/uploads/2012/05/end_marker.png</href></Icon></IconStyle></Style>
+		<Style id="myTrackPauseStyle"><IconStyle><Icon><href>http://www.easytrailsgps.com/wp-content/uploads/2012/05/pause_marker.png</href></Icon></IconStyle></Style>
+		<Style id="myTrackResumeStyle"><IconStyle><Icon><href>http://www.easytrailsgps.com/wp-content/uploads/2012/05/resume_marker.png</href></Icon></IconStyle></Style>
+		<Style id="myWaypointStyle"><IconStyle><Icon><href>http://www.easytrailsgps.com/wp-content/uploads/2012/05/waypoint.png</href></Icon></IconStyle></Style>
+		<name><![CDATA[Section_12ar]]></name>
+		<description><![CDATA[
+			<div id="desc-container" style="font-size: 12px; min-height: 140px; min-width: 250px">
+				<div id="desc-summary" style="width: 100%; float:left;">
+					<table border="0" style="width: 100%; margin: 8px 0">
+						<tr><td style="font-weight: bold; width: 120px;">Inicio: </td><td>30/05/2016 10:47:16</td></tr>
+						<tr><td style="font-weight: bold; width: 120px;">Final: </td><td>30/05/2016 11:10:15</td></tr>
+						<tr><td style="font-weight: bold; width: 120px;">Distancia plana: </td><td>1.01 km</td></tr>
+						<tr><td style="font-weight: bold; width: 120px;">Tiempo total: </td><td>00:22:58</td></tr>
+						<tr><td style="font-weight: bold; width: 120px;">Tiempo de movimiento: </td><td>00:22:02</td></tr>
+						<tr><td style="font-weight: bold; width: 120px;">Velocidad media: </td><td>2.6 km/h</td></tr>
+						<tr><td style="font-weight: bold; width: 120px;">Velocidad mínima: </td><td>0.4 km/h</td></tr>
+						<tr><td style="font-weight: bold; width: 120px;">Velocidad máxima: </td><td>4.9 km/h</td></tr>
+						<tr><td style="font-weight: bold; width: 120px;">Altitud mínima: </td><td>2,371 m</td></tr>
+						<tr><td style="font-weight: bold; width: 120px;">Altitud máxima: </td><td>2,474 m</td></tr>
+						<tr><td style="font-weight: bold; width: 120px;">Ascenso: </td><td>104 m</td></tr>
+						<tr><td style="font-weight: bold; width: 120px;">Descenso: </td><td>1 m</td></tr>
+					</table>
+					<table>
+						<tr>
+							<td><img src="http://www.easytrailsgps.com/wp-content/uploads/2013/06/fb_logo_8.png"/></td>
+							<td><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=325935402&mt=8"><strong>Descargar EasyTrails GPS</strong></a></td>
+						</tr>
+					</table>
+				</div>
+			</div>]]>
+		</description>
+		<Folder>
+			<name><![CDATA[Pista]]></name>
+			<open>0</open>
+			<Placemark>
+				<name><![CDATA[Section_12ar]]></name>
+				<open>0</open>
+				<description><![CDATA[
+					<div id="desc-container" style="font-size: 12px; min-height: 140px; min-width: 250px">
+						<div id="desc-summary" style="width: 100%; float:left;">
+							<table border="0" style="width: 100%; margin: 8px 0">
+								<tr><td style="font-weight: bold; width: 120px;">Inicio: </td><td>30/05/2016 10:47:16</td></tr>
+								<tr><td style="font-weight: bold; width: 120px;">Final: </td><td>30/05/2016 11:10:15</td></tr>
+								<tr><td style="font-weight: bold; width: 120px;">Distancia plana: </td><td>1.01 km</td></tr>
+								<tr><td style="font-weight: bold; width: 120px;">Tiempo total: </td><td>00:22:58</td></tr>
+								<tr><td style="font-weight: bold; width: 120px;">Tiempo de movimiento: </td><td>00:22:02</td></tr>
+								<tr><td style="font-weight: bold; width: 120px;">Velocidad media: </td><td>2.6 km/h</td></tr>
+								<tr><td style="font-weight: bold; width: 120px;">Velocidad mínima: </td><td>0.4 km/h</td></tr>
+								<tr><td style="font-weight: bold; width: 120px;">Velocidad máxima: </td><td>4.9 km/h</td></tr>
+								<tr><td style="font-weight: bold; width: 120px;">Altitud mínima: </td><td>2,371 m</td></tr>
+								<tr><td style="font-weight: bold; width: 120px;">Altitud máxima: </td><td>2,474 m</td></tr>
+								<tr><td style="font-weight: bold; width: 120px;">Ascenso: </td><td>104 m</td></tr>
+								<tr><td style="font-weight: bold; width: 120px;">Descenso: </td><td>1 m</td></tr>
+							</table>
+						</div>
+					</div>
+				]]></description>
+				<styleUrl>#myTrackStyle</styleUrl>
+				<gx:MultiTrack>
+					<gx:interpolate>0</gx:interpolate>
+					<altitudeMode>clampToGround</altitudeMode>
+				<gx:Track>
+					<when>2016-05-30T16:47:16Z</when>
+					<when>2016-05-30T16:47:54Z</when>
+					<when>2016-05-30T16:47:57Z</when>
+					<when>2016-05-30T16:48:00Z</when>
+					<when>2016-05-30T16:48:03Z</when>
+					<when>2016-05-30T16:48:06Z</when>
+					<when>2016-05-30T16:48:09Z</when>
+					<when>2016-05-30T16:48:12Z</when>
+					<when>2016-05-30T16:48:16Z</when>
+					<when>2016-05-30T16:48:20Z</when>
+					<when>2016-05-30T16:48:25Z</when>
+					<when>2016-05-30T16:48:28Z</when>
+					<when>2016-05-30T16:48:31Z</when>
+					<when>2016-05-30T16:48:35Z</when>
+					<when>2016-05-30T16:48:38Z</when>
+					<when>2016-05-30T16:48:42Z</when>
+					<when>2016-05-30T16:48:46Z</when>
+					<when>2016-05-30T16:48:49Z</when>
+					<when>2016-05-30T16:48:54Z</when>
+					<when>2016-05-30T16:48:57Z</when>
+					<when>2016-05-30T16:49:01Z</when>
+					<when>2016-05-30T16:49:04Z</when>
+					<when>2016-05-30T16:49:07Z</when>
+					<when>2016-05-30T16:49:11Z</when>
+					<when>2016-05-30T16:49:14Z</when>
+					<when>2016-05-30T16:49:17Z</when>
+					<when>2016-05-30T16:49:20Z</when>
+					<when>2016-05-30T16:49:23Z</when>
+					<when>2016-05-30T16:49:27Z</when>
+					<when>2016-05-30T16:49:31Z</when>
+					<when>2016-05-30T16:49:34Z</when>
+					<when>2016-05-30T16:49:39Z</when>
+					<when>2016-05-30T16:49:42Z</when>
+					<when>2016-05-30T16:49:45Z</when>
+					<when>2016-05-30T16:49:48Z</when>
+					<when>2016-05-30T16:49:51Z</when>
+					<when>2016-05-30T16:49:54Z</when>
+					<when>2016-05-30T16:49:58Z</when>
+					<when>2016-05-30T16:50:01Z</when>
+					<when>2016-05-30T16:50:05Z</when>
+					<when>2016-05-30T16:50:09Z</when>
+					<when>2016-05-30T16:50:13Z</when>
+					<when>2016-05-30T16:50:16Z</when>
+					<when>2016-05-30T16:50:20Z</when>
+					<when>2016-05-30T16:50:25Z</when>
+					<when>2016-05-30T16:50:29Z</when>
+					<when>2016-05-30T16:50:33Z</when>
+					<when>2016-05-30T16:50:37Z</when>
+					<when>2016-05-30T16:50:41Z</when>
+					<when>2016-05-30T16:50:45Z</when>
+					<when>2016-05-30T16:50:49Z</when>
+					<when>2016-05-30T16:50:53Z</when>
+					<when>2016-05-30T16:50:57Z</when>
+					<when>2016-05-30T16:51:02Z</when>
+					<when>2016-05-30T16:51:05Z</when>
+					<when>2016-05-30T16:51:09Z</when>
+					<when>2016-05-30T16:51:14Z</when>
+					<when>2016-05-30T16:51:17Z</when>
+					<when>2016-05-30T16:51:20Z</when>
+					<when>2016-05-30T16:51:24Z</when>
+					<when>2016-05-30T16:51:28Z</when>
+					<when>2016-05-30T16:51:31Z</when>
+					<when>2016-05-30T16:51:34Z</when>
+					<when>2016-05-30T16:51:38Z</when>
+					<when>2016-05-30T16:51:42Z</when>
+					<when>2016-05-30T16:51:45Z</when>
+					<when>2016-05-30T16:51:49Z</when>
+					<when>2016-05-30T16:51:51Z</when>
+					<when>2016-05-30T16:51:54Z</when>
+					<when>2016-05-30T16:51:59Z</when>
+					<when>2016-05-30T16:52:02Z</when>
+					<when>2016-05-30T16:52:05Z</when>
+					<when>2016-05-30T16:52:08Z</when>
+					<when>2016-05-30T16:52:11Z</when>
+					<when>2016-05-30T16:52:14Z</when>
+					<when>2016-05-30T16:52:18Z</when>
+					<when>2016-05-30T16:52:21Z</when>
+					<when>2016-05-30T16:52:24Z</when>
+					<when>2016-05-30T16:52:28Z</when>
+					<when>2016-05-30T16:52:31Z</when>
+					<when>2016-05-30T16:52:34Z</when>
+					<when>2016-05-30T16:52:39Z</when>
+					<when>2016-05-30T16:52:42Z</when>
+					<when>2016-05-30T16:52:46Z</when>
+					<when>2016-05-30T16:52:50Z</when>
+					<when>2016-05-30T16:52:53Z</when>
+					<when>2016-05-30T16:52:57Z</when>
+					<when>2016-05-30T16:53:01Z</when>
+					<when>2016-05-30T16:53:05Z</when>
+					<when>2016-05-30T16:53:08Z</when>
+					<when>2016-05-30T16:53:12Z</when>
+					<when>2016-05-30T16:53:16Z</when>
+					<when>2016-05-30T16:53:19Z</when>
+					<when>2016-05-30T16:53:22Z</when>
+					<when>2016-05-30T16:53:25Z</when>
+					<when>2016-05-30T16:53:29Z</when>
+					<when>2016-05-30T16:53:32Z</when>
+					<when>2016-05-30T16:53:35Z</when>
+					<when>2016-05-30T16:53:38Z</when>
+					<when>2016-05-30T16:53:41Z</when>
+					<when>2016-05-30T16:53:45Z</when>
+					<when>2016-05-30T16:53:49Z</when>
+					<when>2016-05-30T16:53:52Z</when>
+					<when>2016-05-30T16:53:55Z</when>
+					<when>2016-05-30T16:53:58Z</when>
+					<when>2016-05-30T16:54:02Z</when>
+					<when>2016-05-30T16:54:06Z</when>
+					<when>2016-05-30T16:54:10Z</when>
+					<when>2016-05-30T16:54:13Z</when>
+					<when>2016-05-30T16:54:17Z</when>
+					<when>2016-05-30T16:54:20Z</when>
+					<when>2016-05-30T16:54:26Z</when>
+					<when>2016-05-30T16:54:31Z</when>
+					<when>2016-05-30T16:54:34Z</when>
+					<when>2016-05-30T16:54:37Z</when>
+					<when>2016-05-30T16:54:40Z</when>
+					<when>2016-05-30T16:54:44Z</when>
+					<when>2016-05-30T16:54:47Z</when>
+					<when>2016-05-30T16:54:51Z</when>
+					<when>2016-05-30T16:54:55Z</when>
+					<when>2016-05-30T16:54:58Z</when>
+					<when>2016-05-30T16:55:02Z</when>
+					<when>2016-05-30T16:55:05Z</when>
+					<when>2016-05-30T16:55:09Z</when>
+					<when>2016-05-30T16:55:13Z</when>
+					<when>2016-05-30T16:55:16Z</when>
+					<when>2016-05-30T16:55:19Z</when>
+					<when>2016-05-30T16:55:25Z</when>
+					<when>2016-05-30T16:55:28Z</when>
+					<when>2016-05-30T16:55:32Z</when>
+					<when>2016-05-30T16:55:36Z</when>
+					<when>2016-05-30T16:55:39Z</when>
+					<when>2016-05-30T16:55:42Z</when>
+					<when>2016-05-30T16:55:45Z</when>
+					<when>2016-05-30T16:55:48Z</when>
+					<when>2016-05-30T16:55:51Z</when>
+					<when>2016-05-30T16:55:56Z</when>
+					<when>2016-05-30T16:55:59Z</when>
+					<when>2016-05-30T16:56:02Z</when>
+					<when>2016-05-30T16:56:06Z</when>
+					<when>2016-05-30T16:56:11Z</when>
+					<when>2016-05-30T16:56:14Z</when>
+					<when>2016-05-30T16:56:19Z</when>
+					<when>2016-05-30T16:56:22Z</when>
+					<when>2016-05-30T16:56:27Z</when>
+					<when>2016-05-30T16:56:31Z</when>
+					<when>2016-05-30T16:56:34Z</when>
+					<when>2016-05-30T16:56:36Z</when>
+					<when>2016-05-30T16:56:39Z</when>
+					<when>2016-05-30T16:56:42Z</when>
+					<when>2016-05-30T16:56:47Z</when>
+					<when>2016-05-30T16:56:50Z</when>
+					<when>2016-05-30T16:56:54Z</when>
+					<when>2016-05-30T16:56:57Z</when>
+					<when>2016-05-30T16:56:59Z</when>
+					<when>2016-05-30T16:57:02Z</when>
+					<when>2016-05-30T16:57:06Z</when>
+					<when>2016-05-30T16:57:09Z</when>
+					<when>2016-05-30T16:57:12Z</when>
+					<when>2016-05-30T16:57:17Z</when>
+					<when>2016-05-30T16:57:21Z</when>
+					<when>2016-05-30T16:57:24Z</when>
+					<when>2016-05-30T16:57:28Z</when>
+					<when>2016-05-30T16:57:31Z</when>
+					<when>2016-05-30T16:57:36Z</when>
+					<when>2016-05-30T16:57:39Z</when>
+					<when>2016-05-30T16:57:42Z</when>
+					<when>2016-05-30T16:57:45Z</when>
+					<when>2016-05-30T16:57:48Z</when>
+					<when>2016-05-30T16:57:51Z</when>
+					<when>2016-05-30T16:57:55Z</when>
+					<when>2016-05-30T16:57:57Z</when>
+					<when>2016-05-30T16:58:01Z</when>
+					<when>2016-05-30T16:58:03Z</when>
+					<when>2016-05-30T16:58:06Z</when>
+					<when>2016-05-30T16:58:10Z</when>
+					<when>2016-05-30T16:58:14Z</when>
+					<when>2016-05-30T16:58:18Z</when>
+					<when>2016-05-30T16:58:22Z</when>
+					<when>2016-05-30T16:58:26Z</when>
+					<when>2016-05-30T16:58:30Z</when>
+					<when>2016-05-30T16:58:33Z</when>
+					<when>2016-05-30T16:58:36Z</when>
+					<when>2016-05-30T16:58:39Z</when>
+					<when>2016-05-30T16:58:44Z</when>
+					<when>2016-05-30T16:58:46Z</when>
+					<when>2016-05-30T16:58:48Z</when>
+					<when>2016-05-30T16:58:51Z</when>
+					<when>2016-05-30T16:58:54Z</when>
+					<when>2016-05-30T16:58:58Z</when>
+					<when>2016-05-30T16:59:02Z</when>
+					<when>2016-05-30T16:59:05Z</when>
+					<when>2016-05-30T16:59:08Z</when>
+					<when>2016-05-30T16:59:11Z</when>
+					<when>2016-05-30T16:59:14Z</when>
+					<when>2016-05-30T16:59:17Z</when>
+					<when>2016-05-30T16:59:19Z</when>
+					<when>2016-05-30T16:59:23Z</when>
+					<when>2016-05-30T16:59:28Z</when>
+					<when>2016-05-30T16:59:32Z</when>
+					<when>2016-05-30T16:59:36Z</when>
+					<when>2016-05-30T16:59:40Z</when>
+					<when>2016-05-30T16:59:43Z</when>
+					<when>2016-05-30T16:59:47Z</when>
+					<when>2016-05-30T16:59:50Z</when>
+					<when>2016-05-30T16:59:54Z</when>
+					<when>2016-05-30T16:59:58Z</when>
+					<when>2016-05-30T17:00:01Z</when>
+					<when>2016-05-30T17:00:05Z</when>
+					<when>2016-05-30T17:00:07Z</when>
+					<when>2016-05-30T17:00:10Z</when>
+					<when>2016-05-30T17:00:14Z</when>
+					<when>2016-05-30T17:00:16Z</when>
+					<when>2016-05-30T17:00:19Z</when>
+					<when>2016-05-30T17:00:21Z</when>
+					<when>2016-05-30T17:00:24Z</when>
+					<when>2016-05-30T17:00:27Z</when>
+					<when>2016-05-30T17:00:32Z</when>
+					<when>2016-05-30T17:00:37Z</when>
+					<when>2016-05-30T17:00:41Z</when>
+					<when>2016-05-30T17:00:44Z</when>
+					<when>2016-05-30T17:00:47Z</when>
+					<when>2016-05-30T17:00:50Z</when>
+					<when>2016-05-30T17:00:53Z</when>
+					<when>2016-05-30T17:00:55Z</when>
+					<when>2016-05-30T17:00:58Z</when>
+					<when>2016-05-30T17:01:01Z</when>
+					<when>2016-05-30T17:01:05Z</when>
+					<when>2016-05-30T17:01:08Z</when>
+					<when>2016-05-30T17:01:11Z</when>
+					<when>2016-05-30T17:01:14Z</when>
+					<when>2016-05-30T17:01:19Z</when>
+					<when>2016-05-30T17:01:21Z</when>
+					<when>2016-05-30T17:01:24Z</when>
+					<when>2016-05-30T17:01:27Z</when>
+					<when>2016-05-30T17:01:30Z</when>
+					<when>2016-05-30T17:01:33Z</when>
+					<when>2016-05-30T17:01:37Z</when>
+					<when>2016-05-30T17:01:42Z</when>
+					<when>2016-05-30T17:01:45Z</when>
+					<when>2016-05-30T17:01:49Z</when>
+					<when>2016-05-30T17:01:54Z</when>
+					<when>2016-05-30T17:01:57Z</when>
+					<when>2016-05-30T17:02:01Z</when>
+					<when>2016-05-30T17:02:04Z</when>
+					<when>2016-05-30T17:02:07Z</when>
+					<when>2016-05-30T17:02:10Z</when>
+					<when>2016-05-30T17:02:13Z</when>
+					<when>2016-05-30T17:02:17Z</when>
+					<when>2016-05-30T17:02:21Z</when>
+					<when>2016-05-30T17:02:25Z</when>
+					<when>2016-05-30T17:02:28Z</when>
+					<when>2016-05-30T17:02:32Z</when>
+					<when>2016-05-30T17:02:34Z</when>
+					<when>2016-05-30T17:02:39Z</when>
+					<when>2016-05-30T17:02:42Z</when>
+					<when>2016-05-30T17:02:45Z</when>
+					<when>2016-05-30T17:02:47Z</when>
+					<when>2016-05-30T17:02:49Z</when>
+					<when>2016-05-30T17:02:53Z</when>
+					<when>2016-05-30T17:02:57Z</when>
+					<when>2016-05-30T17:03:02Z</when>
+					<when>2016-05-30T17:03:04Z</when>
+					<when>2016-05-30T17:03:08Z</when>
+					<when>2016-05-30T17:03:12Z</when>
+					<when>2016-05-30T17:03:15Z</when>
+					<when>2016-05-30T17:03:18Z</when>
+					<when>2016-05-30T17:03:21Z</when>
+					<when>2016-05-30T17:03:25Z</when>
+					<when>2016-05-30T17:03:30Z</when>
+					<when>2016-05-30T17:03:33Z</when>
+					<when>2016-05-30T17:03:36Z</when>
+					<when>2016-05-30T17:03:40Z</when>
+					<when>2016-05-30T17:03:43Z</when>
+					<when>2016-05-30T17:03:46Z</when>
+					<when>2016-05-30T17:03:49Z</when>
+					<when>2016-05-30T17:03:51Z</when>
+					<when>2016-05-30T17:03:53Z</when>
+					<when>2016-05-30T17:03:57Z</when>
+					<when>2016-05-30T17:04:01Z</when>
+					<when>2016-05-30T17:04:04Z</when>
+					<when>2016-05-30T17:04:07Z</when>
+					<when>2016-05-30T17:04:11Z</when>
+					<when>2016-05-30T17:04:15Z</when>
+					<when>2016-05-30T17:04:19Z</when>
+					<when>2016-05-30T17:04:22Z</when>
+					<when>2016-05-30T17:04:25Z</when>
+					<when>2016-05-30T17:04:28Z</when>
+					<when>2016-05-30T17:04:31Z</when>
+					<when>2016-05-30T17:04:35Z</when>
+					<when>2016-05-30T17:04:38Z</when>
+					<when>2016-05-30T17:04:41Z</when>
+					<when>2016-05-30T17:04:45Z</when>
+					<when>2016-05-30T17:04:49Z</when>
+					<when>2016-05-30T17:04:54Z</when>
+					<when>2016-05-30T17:04:58Z</when>
+					<when>2016-05-30T17:05:01Z</when>
+					<when>2016-05-30T17:05:05Z</when>
+					<when>2016-05-30T17:05:08Z</when>
+					<when>2016-05-30T17:05:11Z</when>
+					<when>2016-05-30T17:05:15Z</when>
+					<when>2016-05-30T17:05:19Z</when>
+					<when>2016-05-30T17:05:22Z</when>
+					<when>2016-05-30T17:05:25Z</when>
+					<when>2016-05-30T17:05:28Z</when>
+					<when>2016-05-30T17:05:33Z</when>
+					<when>2016-05-30T17:05:36Z</when>
+					<when>2016-05-30T17:05:39Z</when>
+					<when>2016-05-30T17:05:41Z</when>
+					<when>2016-05-30T17:05:44Z</when>
+					<when>2016-05-30T17:05:48Z</when>
+					<when>2016-05-30T17:05:52Z</when>
+					<when>2016-05-30T17:05:55Z</when>
+					<when>2016-05-30T17:05:59Z</when>
+					<when>2016-05-30T17:06:04Z</when>
+					<when>2016-05-30T17:06:07Z</when>
+					<when>2016-05-30T17:06:11Z</when>
+					<when>2016-05-30T17:06:13Z</when>
+					<when>2016-05-30T17:06:15Z</when>
+					<when>2016-05-30T17:06:17Z</when>
+					<when>2016-05-30T17:06:19Z</when>
+					<when>2016-05-30T17:06:21Z</when>
+					<when>2016-05-30T17:06:25Z</when>
+					<when>2016-05-30T17:06:29Z</when>
+					<when>2016-05-30T17:06:33Z</when>
+					<when>2016-05-30T17:06:36Z</when>
+					<when>2016-05-30T17:06:39Z</when>
+					<when>2016-05-30T17:06:41Z</when>
+					<when>2016-05-30T17:06:45Z</when>
+					<when>2016-05-30T17:06:49Z</when>
+					<when>2016-05-30T17:06:52Z</when>
+					<when>2016-05-30T17:06:55Z</when>
+					<when>2016-05-30T17:06:58Z</when>
+					<when>2016-05-30T17:07:01Z</when>
+					<when>2016-05-30T17:07:04Z</when>
+					<when>2016-05-30T17:07:08Z</when>
+					<when>2016-05-30T17:07:11Z</when>
+					<when>2016-05-30T17:07:14Z</when>
+					<when>2016-05-30T17:07:16Z</when>
+					<when>2016-05-30T17:07:20Z</when>
+					<when>2016-05-30T17:07:24Z</when>
+					<when>2016-05-30T17:07:27Z</when>
+					<when>2016-05-30T17:07:31Z</when>
+					<when>2016-05-30T17:07:35Z</when>
+					<when>2016-05-30T17:07:38Z</when>
+					<when>2016-05-30T17:07:41Z</when>
+					<when>2016-05-30T17:07:43Z</when>
+					<when>2016-05-30T17:07:45Z</when>
+					<when>2016-05-30T17:07:48Z</when>
+					<when>2016-05-30T17:07:51Z</when>
+					<when>2016-05-30T17:07:54Z</when>
+					<when>2016-05-30T17:07:58Z</when>
+					<when>2016-05-30T17:08:02Z</when>
+					<when>2016-05-30T17:08:07Z</when>
+					<when>2016-05-30T17:08:11Z</when>
+					<when>2016-05-30T17:08:15Z</when>
+					<when>2016-05-30T17:08:19Z</when>
+					<when>2016-05-30T17:08:22Z</when>
+					<when>2016-05-30T17:08:26Z</when>
+					<when>2016-05-30T17:08:28Z</when>
+					<when>2016-05-30T17:08:32Z</when>
+					<when>2016-05-30T17:08:36Z</when>
+					<when>2016-05-30T17:08:40Z</when>
+					<when>2016-05-30T17:08:43Z</when>
+					<when>2016-05-30T17:08:46Z</when>
+					<when>2016-05-30T17:08:49Z</when>
+					<when>2016-05-30T17:08:53Z</when>
+					<when>2016-05-30T17:08:57Z</when>
+					<when>2016-05-30T17:09:00Z</when>
+					<when>2016-05-30T17:09:03Z</when>
+					<when>2016-05-30T17:09:06Z</when>
+					<when>2016-05-30T17:09:09Z</when>
+					<when>2016-05-30T17:09:13Z</when>
+					<when>2016-05-30T17:09:17Z</when>
+					<when>2016-05-30T17:09:20Z</when>
+					<when>2016-05-30T17:09:24Z</when>
+					<when>2016-05-30T17:09:28Z</when>
+					<when>2016-05-30T17:09:32Z</when>
+					<when>2016-05-30T17:09:35Z</when>
+					<when>2016-05-30T17:09:38Z</when>
+					<when>2016-05-30T17:09:41Z</when>
+					<when>2016-05-30T17:09:44Z</when>
+					<when>2016-05-30T17:09:46Z</when>
+					<when>2016-05-30T17:09:49Z</when>
+					<when>2016-05-30T17:09:51Z</when>
+					<when>2016-05-30T17:09:54Z</when>
+					<when>2016-05-30T17:10:03Z</when>
+					<when>2016-05-30T17:10:15Z</when>
+					<gx:coord>-107.820439 27.553822 2369.668238</gx:coord>
+					<gx:coord>-107.820439 27.553822 2369.737818</gx:coord>
+					<gx:coord>-107.820427 27.553838 2370.290547</gx:coord>
+					<gx:coord>-107.820422 27.553855 2370.637135</gx:coord>
+					<gx:coord>-107.820421 27.553874 2370.491357</gx:coord>
+					<gx:coord>-107.820404 27.553899 2370.935796</gx:coord>
+					<gx:coord>-107.820384 27.553921 2371.274391</gx:coord>
+					<gx:coord>-107.820369 27.553937 2371.034300</gx:coord>
+					<gx:coord>-107.820366 27.553961 2371.885135</gx:coord>
+					<gx:coord>-107.820349 27.553985 2372.420940</gx:coord>
+					<gx:coord>-107.820327 27.554000 2373.968582</gx:coord>
+					<gx:coord>-107.820317 27.554010 2374.797051</gx:coord>
+					<gx:coord>-107.820297 27.554021 2374.811634</gx:coord>
+					<gx:coord>-107.820285 27.554044 2375.291404</gx:coord>
+					<gx:coord>-107.820274 27.554061 2375.130910</gx:coord>
+					<gx:coord>-107.820263 27.554083 2375.812510</gx:coord>
+					<gx:coord>-107.820247 27.554095 2376.062490</gx:coord>
+					<gx:coord>-107.820237 27.554112 2376.630662</gx:coord>
+					<gx:coord>-107.820205 27.554142 2376.848024</gx:coord>
+					<gx:coord>-107.820176 27.554162 2376.871062</gx:coord>
+					<gx:coord>-107.820142 27.554176 2376.386522</gx:coord>
+					<gx:coord>-107.820126 27.554197 2376.293717</gx:coord>
+					<gx:coord>-107.820122 27.554221 2376.333218</gx:coord>
+					<gx:coord>-107.820133 27.554266 2376.266131</gx:coord>
+					<gx:coord>-107.820138 27.554293 2376.587632</gx:coord>
+					<gx:coord>-107.820119 27.554318 2376.636745</gx:coord>
+					<gx:coord>-107.820117 27.554332 2376.504818</gx:coord>
+					<gx:coord>-107.820121 27.554350 2375.957047</gx:coord>
+					<gx:coord>-107.820112 27.554371 2375.941362</gx:coord>
+					<gx:coord>-107.820103 27.554389 2375.862968</gx:coord>
+					<gx:coord>-107.820095 27.554408 2376.316201</gx:coord>
+					<gx:coord>-107.820063 27.554437 2376.316381</gx:coord>
+					<gx:coord>-107.820035 27.554466 2376.539258</gx:coord>
+					<gx:coord>-107.820005 27.554484 2375.951478</gx:coord>
+					<gx:coord>-107.819979 27.554504 2376.621901</gx:coord>
+					<gx:coord>-107.819951 27.554523 2376.486789</gx:coord>
+					<gx:coord>-107.819918 27.554537 2376.456412</gx:coord>
+					<gx:coord>-107.819891 27.554564 2376.618033</gx:coord>
+					<gx:coord>-107.819869 27.554583 2377.037915</gx:coord>
+					<gx:coord>-107.819851 27.554610 2376.901177</gx:coord>
+					<gx:coord>-107.819842 27.554627 2377.252073</gx:coord>
+					<gx:coord>-107.819816 27.554652 2377.458488</gx:coord>
+					<gx:coord>-107.819796 27.554667 2377.509498</gx:coord>
+					<gx:coord>-107.819769 27.554695 2377.341478</gx:coord>
+					<gx:coord>-107.819719 27.554723 2377.102512</gx:coord>
+					<gx:coord>-107.819681 27.554749 2377.239159</gx:coord>
+					<gx:coord>-107.819646 27.554778 2377.366692</gx:coord>
+					<gx:coord>-107.819611 27.554802 2377.326125</gx:coord>
+					<gx:coord>-107.819568 27.554825 2377.133079</gx:coord>
+					<gx:coord>-107.819539 27.554849 2377.004378</gx:coord>
+					<gx:coord>-107.819507 27.554878 2376.543294</gx:coord>
+					<gx:coord>-107.819476 27.554907 2376.415127</gx:coord>
+					<gx:coord>-107.819443 27.554940 2376.582072</gx:coord>
+					<gx:coord>-107.819395 27.554975 2376.983825</gx:coord>
+					<gx:coord>-107.819369 27.555000 2376.819545</gx:coord>
+					<gx:coord>-107.819341 27.555031 2376.641002</gx:coord>
+					<gx:coord>-107.819304 27.555068 2376.594782</gx:coord>
+					<gx:coord>-107.819276 27.555085 2376.717497</gx:coord>
+					<gx:coord>-107.819251 27.555111 2377.308983</gx:coord>
+					<gx:coord>-107.819223 27.555150 2377.690314</gx:coord>
+					<gx:coord>-107.819195 27.555179 2378.169573</gx:coord>
+					<gx:coord>-107.819176 27.555203 2378.426196</gx:coord>
+					<gx:coord>-107.819155 27.555225 2378.598305</gx:coord>
+					<gx:coord>-107.819135 27.555255 2379.100975</gx:coord>
+					<gx:coord>-107.819113 27.555280 2379.405838</gx:coord>
+					<gx:coord>-107.819107 27.555297 2379.785744</gx:coord>
+					<gx:coord>-107.819103 27.555333 2379.299556</gx:coord>
+					<gx:coord>-107.819093 27.555355 2379.469613</gx:coord>
+					<gx:coord>-107.819067 27.555370 2379.269098</gx:coord>
+					<gx:coord>-107.819020 27.555385 2379.846699</gx:coord>
+					<gx:coord>-107.819001 27.555399 2380.262850</gx:coord>
+					<gx:coord>-107.818987 27.555415 2380.503250</gx:coord>
+					<gx:coord>-107.818967 27.555429 2380.888172</gx:coord>
+					<gx:coord>-107.818940 27.555437 2380.234589</gx:coord>
+					<gx:coord>-107.818921 27.555443 2380.468925</gx:coord>
+					<gx:coord>-107.818901 27.555463 2380.659455</gx:coord>
+					<gx:coord>-107.818883 27.555474 2380.740549</gx:coord>
+					<gx:coord>-107.818870 27.555485 2380.832172</gx:coord>
+					<gx:coord>-107.818835 27.555498 2380.553900</gx:coord>
+					<gx:coord>-107.818813 27.555509 2381.001303</gx:coord>
+					<gx:coord>-107.818792 27.555524 2381.084264</gx:coord>
+					<gx:coord>-107.818757 27.555543 2381.004088</gx:coord>
+					<gx:coord>-107.818741 27.555547 2380.647866</gx:coord>
+					<gx:coord>-107.818714 27.555572 2381.236332</gx:coord>
+					<gx:coord>-107.818686 27.555596 2381.295984</gx:coord>
+					<gx:coord>-107.818664 27.555611 2381.526535</gx:coord>
+					<gx:coord>-107.818644 27.555631 2382.060891</gx:coord>
+					<gx:coord>-107.818609 27.555648 2381.985492</gx:coord>
+					<gx:coord>-107.818574 27.555670 2381.900277</gx:coord>
+					<gx:coord>-107.818557 27.555692 2382.070002</gx:coord>
+					<gx:coord>-107.818544 27.555723 2382.191667</gx:coord>
+					<gx:coord>-107.818538 27.555758 2382.241898</gx:coord>
+					<gx:coord>-107.818518 27.555785 2382.159510</gx:coord>
+					<gx:coord>-107.818500 27.555795 2382.157229</gx:coord>
+					<gx:coord>-107.818477 27.555807 2382.453073</gx:coord>
+					<gx:coord>-107.818454 27.555825 2382.891672</gx:coord>
+					<gx:coord>-107.818427 27.555837 2383.062617</gx:coord>
+					<gx:coord>-107.818396 27.555844 2383.419447</gx:coord>
+					<gx:coord>-107.818364 27.555849 2383.869939</gx:coord>
+					<gx:coord>-107.818339 27.555854 2383.944182</gx:coord>
+					<gx:coord>-107.818303 27.555854 2384.375864</gx:coord>
+					<gx:coord>-107.818284 27.555863 2384.840929</gx:coord>
+					<gx:coord>-107.818260 27.555868 2384.983272</gx:coord>
+					<gx:coord>-107.818242 27.555877 2384.954254</gx:coord>
+					<gx:coord>-107.818235 27.555890 2385.255016</gx:coord>
+					<gx:coord>-107.818202 27.555904 2385.463543</gx:coord>
+					<gx:coord>-107.818168 27.555920 2385.785586</gx:coord>
+					<gx:coord>-107.818149 27.555947 2385.958577</gx:coord>
+					<gx:coord>-107.818126 27.555967 2386.675837</gx:coord>
+					<gx:coord>-107.818091 27.555980 2386.655618</gx:coord>
+					<gx:coord>-107.818060 27.555987 2386.470269</gx:coord>
+					<gx:coord>-107.818017 27.556025 2386.445075</gx:coord>
+					<gx:coord>-107.817982 27.556050 2387.119240</gx:coord>
+					<gx:coord>-107.817968 27.556066 2387.234407</gx:coord>
+					<gx:coord>-107.817959 27.556084 2387.528117</gx:coord>
+					<gx:coord>-107.817949 27.556110 2388.195299</gx:coord>
+					<gx:coord>-107.817916 27.556145 2388.192353</gx:coord>
+					<gx:coord>-107.817893 27.556170 2388.176132</gx:coord>
+					<gx:coord>-107.817879 27.556200 2388.077118</gx:coord>
+					<gx:coord>-107.817865 27.556236 2388.101208</gx:coord>
+					<gx:coord>-107.817856 27.556259 2388.335441</gx:coord>
+					<gx:coord>-107.817854 27.556294 2388.969887</gx:coord>
+					<gx:coord>-107.817850 27.556320 2389.211251</gx:coord>
+					<gx:coord>-107.817835 27.556356 2389.415444</gx:coord>
+					<gx:coord>-107.817814 27.556400 2389.494870</gx:coord>
+					<gx:coord>-107.817801 27.556430 2389.552446</gx:coord>
+					<gx:coord>-107.817787 27.556454 2389.582315</gx:coord>
+					<gx:coord>-107.817764 27.556506 2390.099331</gx:coord>
+					<gx:coord>-107.817750 27.556529 2390.138721</gx:coord>
+					<gx:coord>-107.817744 27.556550 2389.989852</gx:coord>
+					<gx:coord>-107.817731 27.556574 2389.659122</gx:coord>
+					<gx:coord>-107.817713 27.556591 2389.586192</gx:coord>
+					<gx:coord>-107.817702 27.556607 2389.117291</gx:coord>
+					<gx:coord>-107.817686 27.556619 2388.976167</gx:coord>
+					<gx:coord>-107.817674 27.556637 2388.813170</gx:coord>
+					<gx:coord>-107.817667 27.556652 2388.856300</gx:coord>
+					<gx:coord>-107.817645 27.556692 2388.820270</gx:coord>
+					<gx:coord>-107.817642 27.556717 2389.176604</gx:coord>
+					<gx:coord>-107.817645 27.556742 2389.256284</gx:coord>
+					<gx:coord>-107.817636 27.556778 2390.357780</gx:coord>
+					<gx:coord>-107.817626 27.556799 2390.929594</gx:coord>
+					<gx:coord>-107.817626 27.556818 2391.252485</gx:coord>
+					<gx:coord>-107.817611 27.556853 2391.780948</gx:coord>
+					<gx:coord>-107.817601 27.556870 2392.156063</gx:coord>
+					<gx:coord>-107.817592 27.556902 2393.111854</gx:coord>
+					<gx:coord>-107.817590 27.556923 2393.359677</gx:coord>
+					<gx:coord>-107.817585 27.556935 2393.867427</gx:coord>
+					<gx:coord>-107.817577 27.556946 2394.354587</gx:coord>
+					<gx:coord>-107.817558 27.556949 2394.501167</gx:coord>
+					<gx:coord>-107.817539 27.556949 2394.931082</gx:coord>
+					<gx:coord>-107.817511 27.556939 2395.214376</gx:coord>
+					<gx:coord>-107.817492 27.556939 2395.388039</gx:coord>
+					<gx:coord>-107.817472 27.556941 2395.630816</gx:coord>
+					<gx:coord>-107.817452 27.556937 2395.660639</gx:coord>
+					<gx:coord>-107.817443 27.556940 2395.862506</gx:coord>
+					<gx:coord>-107.817433 27.556951 2395.643068</gx:coord>
+					<gx:coord>-107.817411 27.556970 2395.695606</gx:coord>
+					<gx:coord>-107.817392 27.556984 2395.649720</gx:coord>
+					<gx:coord>-107.817383 27.556991 2395.808363</gx:coord>
+					<gx:coord>-107.817366 27.556998 2396.248900</gx:coord>
+					<gx:coord>-107.817350 27.557008 2396.241467</gx:coord>
+					<gx:coord>-107.817336 27.557022 2396.643230</gx:coord>
+					<gx:coord>-107.817322 27.557049 2396.738978</gx:coord>
+					<gx:coord>-107.817312 27.557070 2397.072925</gx:coord>
+					<gx:coord>-107.817293 27.557095 2397.171542</gx:coord>
+					<gx:coord>-107.817289 27.557106 2397.505790</gx:coord>
+					<gx:coord>-107.817280 27.557116 2398.039647</gx:coord>
+					<gx:coord>-107.817262 27.557125 2398.310563</gx:coord>
+					<gx:coord>-107.817241 27.557122 2398.845573</gx:coord>
+					<gx:coord>-107.817230 27.557119 2398.450178</gx:coord>
+					<gx:coord>-107.817221 27.557124 2399.278636</gx:coord>
+					<gx:coord>-107.817211 27.557130 2399.502457</gx:coord>
+					<gx:coord>-107.817199 27.557133 2399.694234</gx:coord>
+					<gx:coord>-107.817195 27.557132 2399.682488</gx:coord>
+					<gx:coord>-107.817180 27.557147 2400.063720</gx:coord>
+					<gx:coord>-107.817174 27.557179 2400.103782</gx:coord>
+					<gx:coord>-107.817161 27.557206 2401.011452</gx:coord>
+					<gx:coord>-107.817150 27.557229 2401.473406</gx:coord>
+					<gx:coord>-107.817143 27.557255 2401.686673</gx:coord>
+					<gx:coord>-107.817141 27.557283 2402.045404</gx:coord>
+					<gx:coord>-107.817139 27.557315 2402.380190</gx:coord>
+					<gx:coord>-107.817134 27.557338 2402.598999</gx:coord>
+					<gx:coord>-107.817130 27.557352 2402.704371</gx:coord>
+					<gx:coord>-107.817126 27.557367 2403.139046</gx:coord>
+					<gx:coord>-107.817116 27.557390 2403.610565</gx:coord>
+					<gx:coord>-107.817112 27.557399 2404.104283</gx:coord>
+					<gx:coord>-107.817100 27.557401 2404.259876</gx:coord>
+					<gx:coord>-107.817082 27.557385 2404.387683</gx:coord>
+					<gx:coord>-107.817064 27.557377 2404.496847</gx:coord>
+					<gx:coord>-107.817041 27.557368 2405.320498</gx:coord>
+					<gx:coord>-107.817015 27.557355 2405.740678</gx:coord>
+					<gx:coord>-107.816998 27.557342 2405.881197</gx:coord>
+					<gx:coord>-107.816990 27.557333 2406.433955</gx:coord>
+					<gx:coord>-107.816970 27.557326 2406.561310</gx:coord>
+					<gx:coord>-107.816953 27.557317 2406.898102</gx:coord>
+					<gx:coord>-107.816932 27.557310 2407.023087</gx:coord>
+					<gx:coord>-107.816920 27.557313 2407.570202</gx:coord>
+					<gx:coord>-107.816921 27.557335 2407.638623</gx:coord>
+					<gx:coord>-107.816918 27.557360 2408.315918</gx:coord>
+					<gx:coord>-107.816916 27.557382 2408.636169</gx:coord>
+					<gx:coord>-107.816916 27.557400 2408.786856</gx:coord>
+					<gx:coord>-107.816910 27.557417 2408.902512</gx:coord>
+					<gx:coord>-107.816908 27.557431 2409.463638</gx:coord>
+					<gx:coord>-107.816913 27.557458 2409.968984</gx:coord>
+					<gx:coord>-107.816911 27.557471 2410.239056</gx:coord>
+					<gx:coord>-107.816915 27.557487 2410.763668</gx:coord>
+					<gx:coord>-107.816905 27.557506 2411.396666</gx:coord>
+					<gx:coord>-107.816903 27.557523 2411.850308</gx:coord>
+					<gx:coord>-107.816909 27.557552 2412.094004</gx:coord>
+					<gx:coord>-107.816911 27.557558 2412.289893</gx:coord>
+					<gx:coord>-107.816914 27.557544 2412.452610</gx:coord>
+					<gx:coord>-107.816899 27.557522 2412.980470</gx:coord>
+					<gx:coord>-107.816896 27.557511 2413.206149</gx:coord>
+					<gx:coord>-107.816904 27.557496 2413.738040</gx:coord>
+					<gx:coord>-107.816901 27.557487 2413.733601</gx:coord>
+					<gx:coord>-107.816888 27.557481 2414.225584</gx:coord>
+					<gx:coord>-107.816879 27.557480 2414.657538</gx:coord>
+					<gx:coord>-107.816855 27.557459 2415.185789</gx:coord>
+					<gx:coord>-107.816839 27.557435 2415.921607</gx:coord>
+					<gx:coord>-107.816830 27.557422 2416.322564</gx:coord>
+					<gx:coord>-107.816818 27.557410 2416.890005</gx:coord>
+					<gx:coord>-107.816794 27.557403 2416.954911</gx:coord>
+					<gx:coord>-107.816775 27.557401 2417.684548</gx:coord>
+					<gx:coord>-107.816764 27.557393 2417.982211</gx:coord>
+					<gx:coord>-107.816753 27.557392 2418.147066</gx:coord>
+					<gx:coord>-107.816736 27.557408 2418.484027</gx:coord>
+					<gx:coord>-107.816719 27.557424 2418.872207</gx:coord>
+					<gx:coord>-107.816691 27.557424 2418.972851</gx:coord>
+					<gx:coord>-107.816669 27.557431 2419.655549</gx:coord>
+					<gx:coord>-107.816658 27.557446 2419.780899</gx:coord>
+					<gx:coord>-107.816646 27.557468 2420.647325</gx:coord>
+					<gx:coord>-107.816632 27.557491 2421.289666</gx:coord>
+					<gx:coord>-107.816626 27.557495 2421.812819</gx:coord>
+					<gx:coord>-107.816619 27.557515 2422.025452</gx:coord>
+					<gx:coord>-107.816607 27.557535 2422.509439</gx:coord>
+					<gx:coord>-107.816610 27.557553 2422.721285</gx:coord>
+					<gx:coord>-107.816615 27.557569 2423.594246</gx:coord>
+					<gx:coord>-107.816623 27.557584 2424.080833</gx:coord>
+					<gx:coord>-107.816610 27.557588 2425.157246</gx:coord>
+					<gx:coord>-107.816600 27.557598 2425.929595</gx:coord>
+					<gx:coord>-107.816593 27.557626 2426.501516</gx:coord>
+					<gx:coord>-107.816591 27.557659 2427.132529</gx:coord>
+					<gx:coord>-107.816595 27.557678 2427.669187</gx:coord>
+					<gx:coord>-107.816590 27.557704 2428.328471</gx:coord>
+					<gx:coord>-107.816585 27.557719 2429.046975</gx:coord>
+					<gx:coord>-107.816571 27.557727 2429.634111</gx:coord>
+					<gx:coord>-107.816562 27.557737 2429.959812</gx:coord>
+					<gx:coord>-107.816549 27.557746 2430.361969</gx:coord>
+					<gx:coord>-107.816531 27.557767 2431.288732</gx:coord>
+					<gx:coord>-107.816514 27.557790 2432.089963</gx:coord>
+					<gx:coord>-107.816511 27.557807 2432.395295</gx:coord>
+					<gx:coord>-107.816507 27.557819 2432.875772</gx:coord>
+					<gx:coord>-107.816504 27.557819 2433.420891</gx:coord>
+					<gx:coord>-107.816500 27.557815 2433.704187</gx:coord>
+					<gx:coord>-107.816476 27.557825 2434.288851</gx:coord>
+					<gx:coord>-107.816465 27.557834 2434.663515</gx:coord>
+					<gx:coord>-107.816455 27.557836 2435.318071</gx:coord>
+					<gx:coord>-107.816455 27.557838 2435.385002</gx:coord>
+					<gx:coord>-107.816461 27.557839 2435.938820</gx:coord>
+					<gx:coord>-107.816443 27.557842 2436.642771</gx:coord>
+					<gx:coord>-107.816421 27.557852 2437.731371</gx:coord>
+					<gx:coord>-107.816415 27.557854 2438.509565</gx:coord>
+					<gx:coord>-107.816394 27.557865 2438.641643</gx:coord>
+					<gx:coord>-107.816375 27.557891 2439.498596</gx:coord>
+					<gx:coord>-107.816356 27.557911 2440.571583</gx:coord>
+					<gx:coord>-107.816340 27.557931 2440.904298</gx:coord>
+					<gx:coord>-107.816319 27.557947 2441.243805</gx:coord>
+					<gx:coord>-107.816301 27.557954 2441.582641</gx:coord>
+					<gx:coord>-107.816281 27.557974 2442.335276</gx:coord>
+					<gx:coord>-107.816254 27.558013 2442.560272</gx:coord>
+					<gx:coord>-107.816244 27.558028 2442.804581</gx:coord>
+					<gx:coord>-107.816233 27.558046 2443.579201</gx:coord>
+					<gx:coord>-107.816212 27.558073 2443.910462</gx:coord>
+					<gx:coord>-107.816195 27.558091 2444.610056</gx:coord>
+					<gx:coord>-107.816188 27.558109 2444.939504</gx:coord>
+					<gx:coord>-107.816189 27.558129 2444.960146</gx:coord>
+					<gx:coord>-107.816195 27.558142 2445.786636</gx:coord>
+					<gx:coord>-107.816207 27.558145 2446.152278</gx:coord>
+					<gx:coord>-107.816225 27.558130 2446.507814</gx:coord>
+					<gx:coord>-107.816236 27.558122 2447.300769</gx:coord>
+					<gx:coord>-107.816245 27.558119 2447.140717</gx:coord>
+					<gx:coord>-107.816258 27.558123 2447.773782</gx:coord>
+					<gx:coord>-107.816279 27.558120 2448.178776</gx:coord>
+					<gx:coord>-107.816301 27.558129 2449.018925</gx:coord>
+					<gx:coord>-107.816319 27.558129 2449.487023</gx:coord>
+					<gx:coord>-107.816329 27.558138 2449.912043</gx:coord>
+					<gx:coord>-107.816331 27.558146 2450.391175</gx:coord>
+					<gx:coord>-107.816330 27.558159 2450.695666</gx:coord>
+					<gx:coord>-107.816332 27.558174 2451.052346</gx:coord>
+					<gx:coord>-107.816322 27.558199 2451.635709</gx:coord>
+					<gx:coord>-107.816314 27.558218 2451.552628</gx:coord>
+					<gx:coord>-107.816315 27.558234 2452.323196</gx:coord>
+					<gx:coord>-107.816322 27.558254 2453.335941</gx:coord>
+					<gx:coord>-107.816323 27.558273 2453.969876</gx:coord>
+					<gx:coord>-107.816310 27.558298 2454.602051</gx:coord>
+					<gx:coord>-107.816300 27.558320 2455.524900</gx:coord>
+					<gx:coord>-107.816297 27.558340 2455.722255</gx:coord>
+					<gx:coord>-107.816298 27.558375 2456.708574</gx:coord>
+					<gx:coord>-107.816293 27.558408 2457.067185</gx:coord>
+					<gx:coord>-107.816297 27.558422 2457.597755</gx:coord>
+					<gx:coord>-107.816293 27.558449 2458.072572</gx:coord>
+					<gx:coord>-107.816295 27.558475 2458.691881</gx:coord>
+					<gx:coord>-107.816297 27.558494 2459.100631</gx:coord>
+					<gx:coord>-107.816302 27.558513 2459.534806</gx:coord>
+					<gx:coord>-107.816304 27.558537 2459.847637</gx:coord>
+					<gx:coord>-107.816310 27.558560 2460.419417</gx:coord>
+					<gx:coord>-107.816312 27.558577 2460.956780</gx:coord>
+					<gx:coord>-107.816323 27.558586 2461.366360</gx:coord>
+					<gx:coord>-107.816331 27.558592 2461.515156</gx:coord>
+					<gx:coord>-107.816333 27.558617 2461.824238</gx:coord>
+					<gx:coord>-107.816341 27.558643 2462.097320</gx:coord>
+					<gx:coord>-107.816345 27.558675 2462.429837</gx:coord>
+					<gx:coord>-107.816346 27.558703 2462.754995</gx:coord>
+					<gx:coord>-107.816354 27.558739 2463.193306</gx:coord>
+					<gx:coord>-107.816363 27.558784 2463.385636</gx:coord>
+					<gx:coord>-107.816362 27.558807 2463.670924</gx:coord>
+					<gx:coord>-107.816362 27.558829 2464.053463</gx:coord>
+					<gx:coord>-107.816359 27.558840 2464.265933</gx:coord>
+					<gx:coord>-107.816349 27.558837 2464.390463</gx:coord>
+					<gx:coord>-107.816341 27.558829 2465.011499</gx:coord>
+					<gx:coord>-107.816335 27.558827 2465.305600</gx:coord>
+					<gx:coord>-107.816328 27.558821 2465.418963</gx:coord>
+					<gx:coord>-107.816316 27.558823 2465.979791</gx:coord>
+					<gx:coord>-107.816284 27.558824 2466.070876</gx:coord>
+					<gx:coord>-107.816251 27.558828 2466.507617</gx:coord>
+					<gx:coord>-107.816239 27.558840 2466.830489</gx:coord>
+					<gx:coord>-107.816229 27.558861 2466.961342</gx:coord>
+					<gx:coord>-107.816217 27.558870 2467.245903</gx:coord>
+					<gx:coord>-107.816182 27.558874 2467.198457</gx:coord>
+					<gx:coord>-107.816159 27.558893 2467.534145</gx:coord>
+					<gx:coord>-107.816140 27.558905 2467.920180</gx:coord>
+					<gx:coord>-107.816120 27.558912 2467.830525</gx:coord>
+					<gx:coord>-107.816104 27.558929 2468.114290</gx:coord>
+					<gx:coord>-107.816090 27.558952 2468.186069</gx:coord>
+					<gx:coord>-107.816065 27.558962 2468.272216</gx:coord>
+					<gx:coord>-107.816048 27.558979 2468.504429</gx:coord>
+					<gx:coord>-107.816036 27.558995 2468.665391</gx:coord>
+					<gx:coord>-107.816027 27.559020 2468.985836</gx:coord>
+					<gx:coord>-107.816024 27.559037 2469.095166</gx:coord>
+					<gx:coord>-107.816006 27.559045 2469.121619</gx:coord>
+					<gx:coord>-107.815990 27.559067 2469.529788</gx:coord>
+					<gx:coord>-107.815978 27.559081 2470.108248</gx:coord>
+					<gx:coord>-107.815964 27.559109 2470.487246</gx:coord>
+					<gx:coord>-107.815946 27.559135 2470.831305</gx:coord>
+					<gx:coord>-107.815936 27.559144 2471.506101</gx:coord>
+					<gx:coord>-107.815931 27.559148 2471.664427</gx:coord>
+					<gx:coord>-107.815927 27.559149 2471.997679</gx:coord>
+					<gx:coord>-107.815923 27.559153 2472.197635</gx:coord>
+					<gx:coord>-107.815907 27.559157 2472.620645</gx:coord>
+					<gx:coord>-107.815885 27.559177 2473.193328</gx:coord>
+					<gx:coord>-107.815874 27.559191 2473.570339</gx:coord>
+					<gx:coord>-107.815863 27.559219 2473.966835</gx:coord>
+					<gx:coord>-107.815846 27.559249 2474.310792</gx:coord>
+					<gx:coord>-107.815825 27.559288 2474.749412</gx:coord>
+					<gx:coord>-107.815807 27.559319 2474.784496</gx:coord>
+					<gx:coord>-107.815792 27.559355 2475.203644</gx:coord>
+					<gx:coord>-107.815782 27.559383 2475.361731</gx:coord>
+					<gx:coord>-107.815767 27.559404 2475.077409</gx:coord>
+					<gx:coord>-107.815744 27.559424 2475.281311</gx:coord>
+					<gx:coord>-107.815738 27.559440 2475.176240</gx:coord>
+					<gx:coord>-107.815747 27.559470 2475.731774</gx:coord>
+					<gx:coord>-107.815739 27.559509 2476.003164</gx:coord>
+					<gx:coord>-107.815744 27.559554 2476.186239</gx:coord>
+					<gx:coord>-107.815747 27.559587 2476.683956</gx:coord>
+					<gx:coord>-107.815756 27.559612 2476.909234</gx:coord>
+					<gx:coord>-107.815755 27.559641 2476.981224</gx:coord>
+					<gx:coord>-107.815767 27.559669 2477.115542</gx:coord>
+					<gx:coord>-107.815792 27.559687 2477.776677</gx:coord>
+					<gx:coord>-107.815806 27.559707 2478.108253</gx:coord>
+					<gx:coord>-107.815815 27.559725 2478.373915</gx:coord>
+					<gx:coord>-107.815841 27.559741 2478.762223</gx:coord>
+					<gx:coord>-107.815864 27.559757 2479.340532</gx:coord>
+					<gx:coord>-107.815886 27.559779 2479.887345</gx:coord>
+					<gx:coord>-107.815908 27.559804 2480.278721</gx:coord>
+					<gx:coord>-107.815922 27.559824 2480.451820</gx:coord>
+					<gx:coord>-107.815949 27.559845 2480.785399</gx:coord>
+					<gx:coord>-107.815976 27.559866 2481.133874</gx:coord>
+					<gx:coord>-107.816002 27.559887 2481.413559</gx:coord>
+					<gx:coord>-107.816023 27.559903 2481.580213</gx:coord>
+					<gx:coord>-107.816040 27.559917 2481.655818</gx:coord>
+					<gx:coord>-107.816057 27.559925 2481.517320</gx:coord>
+					<gx:coord>-107.816064 27.559925 2481.566391</gx:coord>
+					<gx:coord>-107.816075 27.559931 2481.754218</gx:coord>
+					<gx:coord>-107.816077 27.559938 2481.435352</gx:coord>
+					<gx:coord>-107.816065 27.559933 2481.780730</gx:coord>
+					<gx:coord>-107.816062 27.559925 2481.797710</gx:coord>
+					<gx:coord>-107.816082 27.559948 2481.640339</gx:coord>
+					<gx:coord>-107.816082 27.559948 2481.689421</gx:coord>
+					<ExtendedData>
+						<Data name="EeasyTrails_HDOP">
+							<value>1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000</value>
+						</Data>
+						<Data name="EeasyTrails_VDOP">
+							<value>1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000,1.400000</value>
+						</Data>
+					</ExtendedData>
+				</gx:Track>
+				</gx:MultiTrack>
+			</Placemark>
+			<Folder>
+				<name><![CDATA[Segmentos]]></name>
+				<open>0</open>
+				<Folder>
+					<name><![CDATA[Segmento 1]]></name>
+					<open>0</open>
+					<Placemark>
+						<styleUrl>#myTrackStartStyle</styleUrl>
+						<name>Inicio</name>
+						<ExtendedData>
+							<Data name="EeasyTrails_Ignore_Element">
+								<value>1</value>
+							</Data>
+						</ExtendedData>
+						<visibility>1</visibility>
+						<description>
+							<div id="desc-container" style="font-size: 12px; min-height: 120px; min-width: 350px">
+								<table border="0" style="width: 100%; margin: 8px 0">
+									<tr><td style="font-weight: bold; width: 90px;">Coordenadas:</td><td>WGS 84<br/>27° 33' 13.76'' N<br/>107° 49' 13.58'' O</td></tr>
+									<tr><td style="font-weight: bold; width: 90px;">Altitud:</td><td>2,370 m</td></tr>
+									<tr><td style="font-weight: bold; width: 90px;">Timestamp:</td><td>30/05/2016 10:47:16</td></tr>
+								</table>
+							</div>
+						</description>
+						<Point>
+							<coordinates>-107.820439,27.553822,2369.668238</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<styleUrl>#myTrackFinishStyle</styleUrl>
+						<name>Final</name>
+						<ExtendedData>
+							<Data name="EeasyTrails_Ignore_Element">
+								<value>1</value>
+							</Data>
+						</ExtendedData>
+						<visibility>1</visibility>
+						<description> 
+							<div id="desc-container" style="font-size: 12px; min-height: 120px; min-width: 350px">
+								<table border="0" style="width: 100%; margin: 8px 0">
+									<tr><td style="font-weight: bold; width: 90px;">Coordenadas:</td><td>WGS 84<br/>27° 33' 35.81'' N<br/>107° 48' 57.90'' O</td></tr>
+									<tr><td style="font-weight: bold; width: 90px;">Altitud:</td><td>2,482 m</td></tr>
+									<tr><td style="font-weight: bold; width: 90px;">Timestamp:</td><td>30/05/2016 11:10:15</td></tr>
+								</table>
+							</div>
+						</description>
+						<Point>
+							<coordinates>-107.816082,27.559948,2481.689421</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>Segmento 1</name>
+						<styleUrl>#myTrackStyle</styleUrl>
+						<ExtendedData>
+							<Data name="EeasyTrails_Ignore_Element">
+								<value>1</value>
+							</Data>
+						</ExtendedData>
+						<description>
+							<div id="desc-container" style="font-size: 12px; min-height: 140px; min-width: 250px">
+								<div id="desc-summary" style="width: 100%; float:left;">
+									<table border="0" style="width: 100%; margin: 8px 0">
+								<tr><td style="font-weight: bold; width: 120px;">Inicio: </td><td>30/05/2016 10:47:16</td></tr>
+								<tr><td style="font-weight: bold; width: 120px;">Final: </td><td>30/05/2016 11:10:15</td></tr>
+								<tr><td style="font-weight: bold; width: 120px;">Distancia plana: </td><td>1.01 km</td></tr>
+								<tr><td style="font-weight: bold; width: 120px;">Tiempo total: </td><td>00:22:58</td></tr>
+								<tr><td style="font-weight: bold; width: 120px;">Tiempo de movimiento: </td><td>00:22:02</td></tr>
+								<tr><td style="font-weight: bold; width: 120px;">Velocidad media: </td><td>2.6 km/h</td></tr>
+								<tr><td style="font-weight: bold; width: 120px;">Velocidad mínima: </td><td>0.4 km/h</td></tr>
+								<tr><td style="font-weight: bold; width: 120px;">Velocidad máxima: </td><td>4.9 km/h</td></tr>
+								<tr><td style="font-weight: bold; width: 120px;">Altitud mínima: </td><td>2,371 m</td></tr>
+								<tr><td style="font-weight: bold; width: 120px;">Altitud máxima: </td><td>2,474 m</td></tr>
+								<tr><td style="font-weight: bold; width: 120px;">Ascenso: </td><td>104 m</td></tr>
+								<tr><td style="font-weight: bold; width: 120px;">Descenso: </td><td>1 m</td></tr>
+									</table>
+								</div>
+							</div>
+						</description>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								-107.820439,27.553822,2369.668238
+								-107.820439,27.553822,2369.737818
+								-107.820427,27.553838,2370.290547
+								-107.820422,27.553855,2370.637135
+								-107.820421,27.553874,2370.491357
+								-107.820404,27.553899,2370.935796
+								-107.820384,27.553921,2371.274391
+								-107.820369,27.553937,2371.034300
+								-107.820366,27.553961,2371.885135
+								-107.820349,27.553985,2372.420940
+								-107.820327,27.554000,2373.968582
+								-107.820317,27.554010,2374.797051
+								-107.820297,27.554021,2374.811634
+								-107.820285,27.554044,2375.291404
+								-107.820274,27.554061,2375.130910
+								-107.820263,27.554083,2375.812510
+								-107.820247,27.554095,2376.062490
+								-107.820237,27.554112,2376.630662
+								-107.820205,27.554142,2376.848024
+								-107.820176,27.554162,2376.871062
+								-107.820142,27.554176,2376.386522
+								-107.820126,27.554197,2376.293717
+								-107.820122,27.554221,2376.333218
+								-107.820133,27.554266,2376.266131
+								-107.820138,27.554293,2376.587632
+								-107.820119,27.554318,2376.636745
+								-107.820117,27.554332,2376.504818
+								-107.820121,27.554350,2375.957047
+								-107.820112,27.554371,2375.941362
+								-107.820103,27.554389,2375.862968
+								-107.820095,27.554408,2376.316201
+								-107.820063,27.554437,2376.316381
+								-107.820035,27.554466,2376.539258
+								-107.820005,27.554484,2375.951478
+								-107.819979,27.554504,2376.621901
+								-107.819951,27.554523,2376.486789
+								-107.819918,27.554537,2376.456412
+								-107.819891,27.554564,2376.618033
+								-107.819869,27.554583,2377.037915
+								-107.819851,27.554610,2376.901177
+								-107.819842,27.554627,2377.252073
+								-107.819816,27.554652,2377.458488
+								-107.819796,27.554667,2377.509498
+								-107.819769,27.554695,2377.341478
+								-107.819719,27.554723,2377.102512
+								-107.819681,27.554749,2377.239159
+								-107.819646,27.554778,2377.366692
+								-107.819611,27.554802,2377.326125
+								-107.819568,27.554825,2377.133079
+								-107.819539,27.554849,2377.004378
+								-107.819507,27.554878,2376.543294
+								-107.819476,27.554907,2376.415127
+								-107.819443,27.554940,2376.582072
+								-107.819395,27.554975,2376.983825
+								-107.819369,27.555000,2376.819545
+								-107.819341,27.555031,2376.641002
+								-107.819304,27.555068,2376.594782
+								-107.819276,27.555085,2376.717497
+								-107.819251,27.555111,2377.308983
+								-107.819223,27.555150,2377.690314
+								-107.819195,27.555179,2378.169573
+								-107.819176,27.555203,2378.426196
+								-107.819155,27.555225,2378.598305
+								-107.819135,27.555255,2379.100975
+								-107.819113,27.555280,2379.405838
+								-107.819107,27.555297,2379.785744
+								-107.819103,27.555333,2379.299556
+								-107.819093,27.555355,2379.469613
+								-107.819067,27.555370,2379.269098
+								-107.819020,27.555385,2379.846699
+								-107.819001,27.555399,2380.262850
+								-107.818987,27.555415,2380.503250
+								-107.818967,27.555429,2380.888172
+								-107.818940,27.555437,2380.234589
+								-107.818921,27.555443,2380.468925
+								-107.818901,27.555463,2380.659455
+								-107.818883,27.555474,2380.740549
+								-107.818870,27.555485,2380.832172
+								-107.818835,27.555498,2380.553900
+								-107.818813,27.555509,2381.001303
+								-107.818792,27.555524,2381.084264
+								-107.818757,27.555543,2381.004088
+								-107.818741,27.555547,2380.647866
+								-107.818714,27.555572,2381.236332
+								-107.818686,27.555596,2381.295984
+								-107.818664,27.555611,2381.526535
+								-107.818644,27.555631,2382.060891
+								-107.818609,27.555648,2381.985492
+								-107.818574,27.555670,2381.900277
+								-107.818557,27.555692,2382.070002
+								-107.818544,27.555723,2382.191667
+								-107.818538,27.555758,2382.241898
+								-107.818518,27.555785,2382.159510
+								-107.818500,27.555795,2382.157229
+								-107.818477,27.555807,2382.453073
+								-107.818454,27.555825,2382.891672
+								-107.818427,27.555837,2383.062617
+								-107.818396,27.555844,2383.419447
+								-107.818364,27.555849,2383.869939
+								-107.818339,27.555854,2383.944182
+								-107.818303,27.555854,2384.375864
+								-107.818284,27.555863,2384.840929
+								-107.818260,27.555868,2384.983272
+								-107.818242,27.555877,2384.954254
+								-107.818235,27.555890,2385.255016
+								-107.818202,27.555904,2385.463543
+								-107.818168,27.555920,2385.785586
+								-107.818149,27.555947,2385.958577
+								-107.818126,27.555967,2386.675837
+								-107.818091,27.555980,2386.655618
+								-107.818060,27.555987,2386.470269
+								-107.818017,27.556025,2386.445075
+								-107.817982,27.556050,2387.119240
+								-107.817968,27.556066,2387.234407
+								-107.817959,27.556084,2387.528117
+								-107.817949,27.556110,2388.195299
+								-107.817916,27.556145,2388.192353
+								-107.817893,27.556170,2388.176132
+								-107.817879,27.556200,2388.077118
+								-107.817865,27.556236,2388.101208
+								-107.817856,27.556259,2388.335441
+								-107.817854,27.556294,2388.969887
+								-107.817850,27.556320,2389.211251
+								-107.817835,27.556356,2389.415444
+								-107.817814,27.556400,2389.494870
+								-107.817801,27.556430,2389.552446
+								-107.817787,27.556454,2389.582315
+								-107.817764,27.556506,2390.099331
+								-107.817750,27.556529,2390.138721
+								-107.817744,27.556550,2389.989852
+								-107.817731,27.556574,2389.659122
+								-107.817713,27.556591,2389.586192
+								-107.817702,27.556607,2389.117291
+								-107.817686,27.556619,2388.976167
+								-107.817674,27.556637,2388.813170
+								-107.817667,27.556652,2388.856300
+								-107.817645,27.556692,2388.820270
+								-107.817642,27.556717,2389.176604
+								-107.817645,27.556742,2389.256284
+								-107.817636,27.556778,2390.357780
+								-107.817626,27.556799,2390.929594
+								-107.817626,27.556818,2391.252485
+								-107.817611,27.556853,2391.780948
+								-107.817601,27.556870,2392.156063
+								-107.817592,27.556902,2393.111854
+								-107.817590,27.556923,2393.359677
+								-107.817585,27.556935,2393.867427
+								-107.817577,27.556946,2394.354587
+								-107.817558,27.556949,2394.501167
+								-107.817539,27.556949,2394.931082
+								-107.817511,27.556939,2395.214376
+								-107.817492,27.556939,2395.388039
+								-107.817472,27.556941,2395.630816
+								-107.817452,27.556937,2395.660639
+								-107.817443,27.556940,2395.862506
+								-107.817433,27.556951,2395.643068
+								-107.817411,27.556970,2395.695606
+								-107.817392,27.556984,2395.649720
+								-107.817383,27.556991,2395.808363
+								-107.817366,27.556998,2396.248900
+								-107.817350,27.557008,2396.241467
+								-107.817336,27.557022,2396.643230
+								-107.817322,27.557049,2396.738978
+								-107.817312,27.557070,2397.072925
+								-107.817293,27.557095,2397.171542
+								-107.817289,27.557106,2397.505790
+								-107.817280,27.557116,2398.039647
+								-107.817262,27.557125,2398.310563
+								-107.817241,27.557122,2398.845573
+								-107.817230,27.557119,2398.450178
+								-107.817221,27.557124,2399.278636
+								-107.817211,27.557130,2399.502457
+								-107.817199,27.557133,2399.694234
+								-107.817195,27.557132,2399.682488
+								-107.817180,27.557147,2400.063720
+								-107.817174,27.557179,2400.103782
+								-107.817161,27.557206,2401.011452
+								-107.817150,27.557229,2401.473406
+								-107.817143,27.557255,2401.686673
+								-107.817141,27.557283,2402.045404
+								-107.817139,27.557315,2402.380190
+								-107.817134,27.557338,2402.598999
+								-107.817130,27.557352,2402.704371
+								-107.817126,27.557367,2403.139046
+								-107.817116,27.557390,2403.610565
+								-107.817112,27.557399,2404.104283
+								-107.817100,27.557401,2404.259876
+								-107.817082,27.557385,2404.387683
+								-107.817064,27.557377,2404.496847
+								-107.817041,27.557368,2405.320498
+								-107.817015,27.557355,2405.740678
+								-107.816998,27.557342,2405.881197
+								-107.816990,27.557333,2406.433955
+								-107.816970,27.557326,2406.561310
+								-107.816953,27.557317,2406.898102
+								-107.816932,27.557310,2407.023087
+								-107.816920,27.557313,2407.570202
+								-107.816921,27.557335,2407.638623
+								-107.816918,27.557360,2408.315918
+								-107.816916,27.557382,2408.636169
+								-107.816916,27.557400,2408.786856
+								-107.816910,27.557417,2408.902512
+								-107.816908,27.557431,2409.463638
+								-107.816913,27.557458,2409.968984
+								-107.816911,27.557471,2410.239056
+								-107.816915,27.557487,2410.763668
+								-107.816905,27.557506,2411.396666
+								-107.816903,27.557523,2411.850308
+								-107.816909,27.557552,2412.094004
+								-107.816911,27.557558,2412.289893
+								-107.816914,27.557544,2412.452610
+								-107.816899,27.557522,2412.980470
+								-107.816896,27.557511,2413.206149
+								-107.816904,27.557496,2413.738040
+								-107.816901,27.557487,2413.733601
+								-107.816888,27.557481,2414.225584
+								-107.816879,27.557480,2414.657538
+								-107.816855,27.557459,2415.185789
+								-107.816839,27.557435,2415.921607
+								-107.816830,27.557422,2416.322564
+								-107.816818,27.557410,2416.890005
+								-107.816794,27.557403,2416.954911
+								-107.816775,27.557401,2417.684548
+								-107.816764,27.557393,2417.982211
+								-107.816753,27.557392,2418.147066
+								-107.816736,27.557408,2418.484027
+								-107.816719,27.557424,2418.872207
+								-107.816691,27.557424,2418.972851
+								-107.816669,27.557431,2419.655549
+								-107.816658,27.557446,2419.780899
+								-107.816646,27.557468,2420.647325
+								-107.816632,27.557491,2421.289666
+								-107.816626,27.557495,2421.812819
+								-107.816619,27.557515,2422.025452
+								-107.816607,27.557535,2422.509439
+								-107.816610,27.557553,2422.721285
+								-107.816615,27.557569,2423.594246
+								-107.816623,27.557584,2424.080833
+								-107.816610,27.557588,2425.157246
+								-107.816600,27.557598,2425.929595
+								-107.816593,27.557626,2426.501516
+								-107.816591,27.557659,2427.132529
+								-107.816595,27.557678,2427.669187
+								-107.816590,27.557704,2428.328471
+								-107.816585,27.557719,2429.046975
+								-107.816571,27.557727,2429.634111
+								-107.816562,27.557737,2429.959812
+								-107.816549,27.557746,2430.361969
+								-107.816531,27.557767,2431.288732
+								-107.816514,27.557790,2432.089963
+								-107.816511,27.557807,2432.395295
+								-107.816507,27.557819,2432.875772
+								-107.816504,27.557819,2433.420891
+								-107.816500,27.557815,2433.704187
+								-107.816476,27.557825,2434.288851
+								-107.816465,27.557834,2434.663515
+								-107.816455,27.557836,2435.318071
+								-107.816455,27.557838,2435.385002
+								-107.816461,27.557839,2435.938820
+								-107.816443,27.557842,2436.642771
+								-107.816421,27.557852,2437.731371
+								-107.816415,27.557854,2438.509565
+								-107.816394,27.557865,2438.641643
+								-107.816375,27.557891,2439.498596
+								-107.816356,27.557911,2440.571583
+								-107.816340,27.557931,2440.904298
+								-107.816319,27.557947,2441.243805
+								-107.816301,27.557954,2441.582641
+								-107.816281,27.557974,2442.335276
+								-107.816254,27.558013,2442.560272
+								-107.816244,27.558028,2442.804581
+								-107.816233,27.558046,2443.579201
+								-107.816212,27.558073,2443.910462
+								-107.816195,27.558091,2444.610056
+								-107.816188,27.558109,2444.939504
+								-107.816189,27.558129,2444.960146
+								-107.816195,27.558142,2445.786636
+								-107.816207,27.558145,2446.152278
+								-107.816225,27.558130,2446.507814
+								-107.816236,27.558122,2447.300769
+								-107.816245,27.558119,2447.140717
+								-107.816258,27.558123,2447.773782
+								-107.816279,27.558120,2448.178776
+								-107.816301,27.558129,2449.018925
+								-107.816319,27.558129,2449.487023
+								-107.816329,27.558138,2449.912043
+								-107.816331,27.558146,2450.391175
+								-107.816330,27.558159,2450.695666
+								-107.816332,27.558174,2451.052346
+								-107.816322,27.558199,2451.635709
+								-107.816314,27.558218,2451.552628
+								-107.816315,27.558234,2452.323196
+								-107.816322,27.558254,2453.335941
+								-107.816323,27.558273,2453.969876
+								-107.816310,27.558298,2454.602051
+								-107.816300,27.558320,2455.524900
+								-107.816297,27.558340,2455.722255
+								-107.816298,27.558375,2456.708574
+								-107.816293,27.558408,2457.067185
+								-107.816297,27.558422,2457.597755
+								-107.816293,27.558449,2458.072572
+								-107.816295,27.558475,2458.691881
+								-107.816297,27.558494,2459.100631
+								-107.816302,27.558513,2459.534806
+								-107.816304,27.558537,2459.847637
+								-107.816310,27.558560,2460.419417
+								-107.816312,27.558577,2460.956780
+								-107.816323,27.558586,2461.366360
+								-107.816331,27.558592,2461.515156
+								-107.816333,27.558617,2461.824238
+								-107.816341,27.558643,2462.097320
+								-107.816345,27.558675,2462.429837
+								-107.816346,27.558703,2462.754995
+								-107.816354,27.558739,2463.193306
+								-107.816363,27.558784,2463.385636
+								-107.816362,27.558807,2463.670924
+								-107.816362,27.558829,2464.053463
+								-107.816359,27.558840,2464.265933
+								-107.816349,27.558837,2464.390463
+								-107.816341,27.558829,2465.011499
+								-107.816335,27.558827,2465.305600
+								-107.816328,27.558821,2465.418963
+								-107.816316,27.558823,2465.979791
+								-107.816284,27.558824,2466.070876
+								-107.816251,27.558828,2466.507617
+								-107.816239,27.558840,2466.830489
+								-107.816229,27.558861,2466.961342
+								-107.816217,27.558870,2467.245903
+								-107.816182,27.558874,2467.198457
+								-107.816159,27.558893,2467.534145
+								-107.816140,27.558905,2467.920180
+								-107.816120,27.558912,2467.830525
+								-107.816104,27.558929,2468.114290
+								-107.816090,27.558952,2468.186069
+								-107.816065,27.558962,2468.272216
+								-107.816048,27.558979,2468.504429
+								-107.816036,27.558995,2468.665391
+								-107.816027,27.559020,2468.985836
+								-107.816024,27.559037,2469.095166
+								-107.816006,27.559045,2469.121619
+								-107.815990,27.559067,2469.529788
+								-107.815978,27.559081,2470.108248
+								-107.815964,27.559109,2470.487246
+								-107.815946,27.559135,2470.831305
+								-107.815936,27.559144,2471.506101
+								-107.815931,27.559148,2471.664427
+								-107.815927,27.559149,2471.997679
+								-107.815923,27.559153,2472.197635
+								-107.815907,27.559157,2472.620645
+								-107.815885,27.559177,2473.193328
+								-107.815874,27.559191,2473.570339
+								-107.815863,27.559219,2473.966835
+								-107.815846,27.559249,2474.310792
+								-107.815825,27.559288,2474.749412
+								-107.815807,27.559319,2474.784496
+								-107.815792,27.559355,2475.203644
+								-107.815782,27.559383,2475.361731
+								-107.815767,27.559404,2475.077409
+								-107.815744,27.559424,2475.281311
+								-107.815738,27.559440,2475.176240
+								-107.815747,27.559470,2475.731774
+								-107.815739,27.559509,2476.003164
+								-107.815744,27.559554,2476.186239
+								-107.815747,27.559587,2476.683956
+								-107.815756,27.559612,2476.909234
+								-107.815755,27.559641,2476.981224
+								-107.815767,27.559669,2477.115542
+								-107.815792,27.559687,2477.776677
+								-107.815806,27.559707,2478.108253
+								-107.815815,27.559725,2478.373915
+								-107.815841,27.559741,2478.762223
+								-107.815864,27.559757,2479.340532
+								-107.815886,27.559779,2479.887345
+								-107.815908,27.559804,2480.278721
+								-107.815922,27.559824,2480.451820
+								-107.815949,27.559845,2480.785399
+								-107.815976,27.559866,2481.133874
+								-107.816002,27.559887,2481.413559
+								-107.816023,27.559903,2481.580213
+								-107.816040,27.559917,2481.655818
+								-107.816057,27.559925,2481.517320
+								-107.816064,27.559925,2481.566391
+								-107.816075,27.559931,2481.754218
+								-107.816077,27.559938,2481.435352
+								-107.816065,27.559933,2481.780730
+								-107.816062,27.559925,2481.797710
+								-107.816082,27.559948,2481.640339
+								-107.816082,27.559948,2481.689421
+							</coordinates>
+						</LineString>
+					</Placemark>
+				</Folder>
+			</Folder>
+		</Folder>
+	</Document>
+</kml>

@@ -1,4 +1,4 @@
-<?php session_start();
+<?php
 /*
 © 2015 William H. Prescott. All Rights Reserved.
 

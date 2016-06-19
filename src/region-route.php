@@ -1,14 +1,7 @@
 <?php
-/*
-© 2015 William H. Prescott. All Rights Reserved.
-
-This file is part of Camino del Cobre.
-
-*/
-
-
-include_once('includes/language.php') 
-
+  session_start();
+  include_once('includes/copyright.php');
+  include_once('includes/language.php');
 ?>
 <!DOCTYPE html>
 <html>

@@ -16,12 +16,13 @@ html, body {
 .section_map {
   width: 860px;
   height: 500px;
-	margin: 2px 2px 2px 2px;
+	margin: 2px 20px 2px 2px;
   padding: 0px;
   border: blue solid 1px;
   z-index: 1;
 }
 .segment_data_table {
+	margin: 2px 20px 2px 20px;
   font-size: 0.8em;
 }
 .segment_data_table td{

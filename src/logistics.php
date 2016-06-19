@@ -1,12 +1,7 @@
-<?php 
-/*
-© 2015 William H. Prescott. All Rights Reserved.
-
-This file is part of Camino del Cobre.
-
-*/
-
-include_once('includes/language.php')
+<?php
+  session_start();
+  include_once('includes/copyright.php');
+  include_once('includes/language.php');
 ?>
 <!DOCTYPE html>
 <html>
@@ -56,12 +51,12 @@ include_once('includes/language.php')
       <p><?php print(i18n('logistics.outfitters.text_02', $lang)); ?></p>
       <p><?php print(i18n('logistics.outfitters.text_03', $lang)); ?></p>
     </div>
-    <div class="clear"></div>  
+    <div class="clear"></div>
     <div class="vision_text_block">
       <h3><?php print(i18n('logistics.supplies.title', $lang)); ?></h3>
       <p><?php print(i18n('logistics.supplies.text_01', $lang)); ?></p>
     </div>
-    <div class="clear"></div>  
+    <div class="clear"></div>
     <div class="vision_text_block">
       <h3><?php print(i18n('logistics.maps.title', $lang)); ?></h3>
       <p><?php print(i18n('logistics.maps.text_01', $lang)); ?></p>
