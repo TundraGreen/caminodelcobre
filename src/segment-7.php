@@ -2,6 +2,7 @@
 /*
 ©2015-2016 William H. Prescott. All Rights Reserved.
 This file is part of Camino del Cobre.
+
 */
 
   include_once('includes/language.php');
