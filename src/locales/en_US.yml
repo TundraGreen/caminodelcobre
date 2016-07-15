@@ -341,12 +341,21 @@ en_US:
     title: |
       Segment 1: From Creel to the Old Road
   segment_10:
+    overview:
+      text: |
+        segment_10.overview.text
     title: |
       Segment 10: From Nacaybo North to Nacaybo South
   segment_11:
+    overview:
+      text: |
+        segment_11.overview.text
     title: |
       Segment 11: From Nacaybo South to Cerro Alto
   segment_12:
+    overview:
+      text: |
+        segment_12.overview.text
     title: |
       Segment 12: From Cerro Alto to Divisadero
   segment_2:
@@ -493,11 +502,234 @@ en_US:
     title: |
       Segment 7: From the Old High Road to Chepe railroad crossing
   segment_8:
+    description:
+      text_01: |
+        he starting point for this section of the Camino is the short straight section of Highway 77 where it crosses the El Chepe railroad.  Due to a series of “speed bumps,” vehicles must slow down to very slow speeds to cross the tracks.  As a result, after arriving directly at the crossing at the end of the previous Section 7, it is relatively safe for hikers to cross the highway at this point.
+      text_02: |
+        The trail passes into a large flat sandy area where maintenance vehicles working on the crossing may park.  This parking area is between Highway 77 and the railroad.  The Camino turns away from the railroad and crosses the open area, generally following the highway to the left.  In 50 meters it enters a forested area at the south and east edge of the parking area. 
+      text_03: |
+        A short sandy wash leads to the point where hikers cross to the east side of the highway.  The crossing point is approximately 250 meters from the railroad junction.
+      text_04: |
+        A dirt road with a gate leads away from the highway, but the Camino makes a hard right turn after the gate and continues parallel to the paved road for ¬¬¬600 meters.  Highway 77 remains to the right (west).  The Camino follows the route of the water pipeline up the hill over rough, often rocky terrain with few trees.  Hikers must watch for markers on rocks and on small trees.
+      text_05: |
+        There are good views (partially obstructed by trees) as the trail rises 25 meters to the top of the hill.  It is separated from the highway by a small (5 meter) hill on the right.  From the high point the Camino follows the road around to the right to intersect the highway once again. Just past the high point (looking left) hikers can see the small white bus shelter with a red-orange roof on the opposite (west) side of the highway.  Behind the shelter the views over the upper canyons (Oteros Canyon, for example) to the West are good.
+      text_06: |
+        The Camino turns left before the highway and continues parallel to the pavement for another 25 meters before crossing the highway onto the parking area for the bus stop.  The shelter is clearly a good point to catch buses to the South (also to the North).  In addition, it could be a good “break point” (sheltered against sun or rain) for hikers to take a rest with good views over the remaining terrain to the West and South.
+      text_07: |
+        The Camino leaves the bus stop to the South into the short trees and manzanita bushes close to the highway, which is on the left.  In this upper part the trail itself is faint, and hikers must follow the Camino markers carefully.  It descends gradually from the shelter’s parking area on a cross-slope path (downhill side on the right) through the trees to the tracks.  It crosses the tracks and continues with the tracks (and the highway) above on the left.  At this point the trail is more evident as it descends through the trees to yet another old logging road where it makes a hard left turn up the hill. 
+      text_08: |
+        After 50 meters, the Camino makes another 90 degree turn (this time to the right) and follows a good forest path across the slope for 500 meters (downhill and views on the right).  It drops slightly to meet a large dirt road that leads to the Oteros River and (as of 2016) access to the gas pipeline.  At this intersection the Camino turns 90 degrees to the left and steeply ascends the dirt road to Highway 77.
+      text_09: |
+        At the end of the dirt road, the Camino crosses the pavement and quickly crosses the tracks as well.  Both the highway and the railroad have switched to being on the right side of the Camino at this point.  The crossing is approximately 3.0 kilometers from the start of this section.
+      text_10: |
+        The trail descends relatively steeply through the trees, across a water course, and then ascends through the forest back to intersect the railroad.  After crossing the tracks (which continue on the left), the Camino rises somewhat steeply for 100 meters to the top of the Pitorreal mesa.
+      text_11: |
+        At the top there are canyon views over the East and below to the railroad tracks as El Chepe winds its way around the mesa back to Pitorreal.  A power line (with large towers) also crosses the Camino at the top of the ascent.
+      text_12: |
+        The trail continues 150 meters with views on the left before once again re-entering the forest along a fence line on the left.  The sounds of Highway 77 become more evident as the Camino approaches an intersection with the highway on the right.  At the intersection with Highway 77, the Camino turns left onto a flat country road lined with trees and between two fields and fence lines.
+      text_13: |
+        After 200 meters several Tarahumara farm houses come into view on the left on the other side of the left fields.  An interesting stone building on the left is a community well and pump house. 
+      text_14: |
+        Shortly after the pump house the Camino proceeds straight into the forest on a clear narrow road.  However, hikers may add a short “side trip” by turning left at their discretion to walk 50 meters to the edge of the mesa for good views of canyons to the East. 
+      text_15: |
+        After 200 meters in the forest at roughly 5 kilometers from the start, the Camino turns hard right and continues in the forest toward a fence line.  It follows the fence for 150 meters until emerging into a network of trails.  Fortunately, in only 20 meters, it turns left at an intersection with a country road. 
+      text_16: |
+        Following this road as it winds through the forest and beside Tarahumara farm fields, Camino hikers enter Pitorreal in 200 meters on the north side of the village past some typical wood and log houses.  The village is 6 kilometers from the start of the section.
+      text_17: |
+        Pitorreal is a small village (largely Tarahumara) of approximately 75 houses widely dispersed over the mesa, some abandoned, others inhabited only part-time, some new, others old.  In addition, there are a number of fields for corn and beans, cattle and other agricultural products.
+      text_18: |
+        The railroad has now completed its long south-eastward loop and has entered the pueblo at the Pitorreal train station.  The station (now in a state of disrepair) is only 50 meters from the Camino on the left, behind a number of buildings.
+      text_19: |
+        The Camino winds through the pueblo past private houses and the Pitorreal primary school with its covered play area.
+      text_20: |
+        After passing the school on the right, the Camino turns sharply right to join Highway 77 at the bus stop with its accompanying small shop.  There are three other small shops elsewhere in the town.  Pitorreal is the final point on this section of the Camino (6.2 kilometers from the starting point).  As noted, hikers can catch the bus to either Creel or Divisadero from this stop.  Alternatively, with enough planning, they can catch the train (also to either Creel or Divisadero).
+    overview:
+      text: |
+        This section of the Camino (6.1 kilometers, 2.0 hours) leads from the El Chepe crossing (after the Old High Road) to the largely Tarahumara village of Pitorreal.  Pitorreal serves as the “half-way point” of the Camino hike (36 kilometers from Creel, and 22 from Divisadero). It is also approximately half-way on the Creel-Divisadero highway (26 kilometers from Creel and 18 kilometers from Divisadero by Highway 77).  It is also the only stop on the El Chepe train between the two tourist centers, and also a bus stop with several small stores for basic provisions. 
     title: |
       Segment 8: From Chepe railroad crossing to Pitorreal
   segment_9:
+    description:
+      text_01: |
+        The trail begins where the primary access road to Pitorreal meets Highway 77 near the bus stop.  The bus stop and small grocery shop are the final stop of Section 8. 
+      text_02: |
+        Following the access road away from the highway, the Camino retraces its route (away from highway), alongside the fence line into the village and bends right at a fork 30 meters from the pavement.  The green and red Camino marker directs hikers either toward Divisadero (right) or toward Creel (left).
+      text_03: |
+        The trail passes through the town approaching the railroad and taking a south-southwest direction.  After intersecting with the railroad it turns right along the track (5 meters away on the left).  After 50 meters in a sandy wash alongside a fence (on the right), the Camino bends right up a small hill into trees.
+      text_04: |
+        The Camino goes through a barbed wire gate and then continues downhill through the pine forest.  It crosses a larger road that leads to a large structure on left.  After 75 meters the trail reaches another wire gate on the left gate, turns hard right, and then continues along the fence for 150 meters until reaching the corner. 
+      text_05: |
+        Visible from the Camino but 50 meters away on the left is a small Tarahumara cemetery, which may be decorated with colorful offerings.  Hikers should treat the location with all due respect.
+      text_06: |
+        segment_9.description.text_06
+      text_07: |
+        Las Quebredoras was formerly a station for the train, but is now nothing more than a wide flat area with abandoned rails (“double tracks”) in a gravel pit.  At 1.9 kilometers, the Camino bends left to cross the tracks, both the abandoned rails and those still in use.
+      text_08: |
+        The trail continues close to the tracks that are on the right side (3 to 5 meters) for another 150 meters.  At 2.0 kilometers from the start of this section, the trail bends left from the railroad and enters the forest.  It descends into a short section with the railroad on the right and 10 meters above.  After 250 in the trees the trail ascends to meet the tracks once again. 
+      text_09: |
+        At this junction hikers can easily see one of the many tunnels used by the railroad – on the left roughly 50 meters away.  Hikers turn left (toward the tunnel) and walk cautiously along the track for approximately 40 meters. Immediately to the left of tunnel is a narrow trail that rises steeply through the trees with switchbacks roughly 50 meters to a mid-level clearing near Highway 77. 
+      text_10: |
+        At the top of the trail there are good views to the left over various canyons to the East and North.  The Camino does not cross 77.  Instead, it bends left and follows a wide path 10 meters from the highway through low bushes.  The highway is on the right and rising above the Camino. 
+      text_11: |
+        This wide path becomes a road and continues for 400 meters, making a wide left turn through low trees and bushes with occasional views over the railroad below.   
+      text_12: |
+        After 400 meters there is a narrow forest trail (smaller than the wide road that the hikers have been using) that rises steeply on the right and up the slope.  The trail is narrow, and there are a few areas where it rises steeply over rocks and through the trees.  Hikers must be careful to maintain their footing.  
+      text_13: |
+        After 100 meters it reaches the top of the mesa.  At the top of the mesa the Camino follows a forest path for 200 meters, then joining a wide dirt road that wanders through the woods.  There are many paths leading in all directions in this area.  Hikers should take care to remain on the larger dirt road.
+      text_14: |
+        The wide dirt road goes all the way to a maintained and sign-posted country road leading from Highway 77 to the village of San Luis de Majimachi.  (Hikers wanting to leave the trail and catch the bus may continue down this road to the bus stop.)  However, approximately 100 meters from 77 (easily audible and often visible) there is sharp left turn into trees and onto up-and-down path.  It passes a Tarahumara structure made of logs and then some Tarahumara fields. It passes between two fences until it reaches the Majimachi road.  (The Majimachi access road is relatively wide and well-maintained.)  The Camino turns sharply left onto the Majimachi road for 20 meters and then turns hard right into the forest again. 
+      text_15: |
+        The forest path is easily followed and smooth, gradually curving to the right (toward Highway 77) through the trees.  After 500 meters it passes (at a distance) some Tarahumara fields on the right.  The trail remains in the forest but joins a small Tarahumara field along the fence line.  After 100 meters along the fence, the Camino re-enters the forest briefly until reaching a junction with a wider forest road. The path turns right 90 degrees and continues in the trees past fields and fences until intersecting the new natural gas pipeline. 
+      text_16: |
+        Immediately after crossing the cleared pipeline route, the trail makes a hard left turn past an area of small newly planted (2016) pine trees and heads downhill parallel to the gas pipeline.  On the right are larger pine trees of the forest.  After 50 meters the trail bends right into trees.  In only 20 meters there is another right turn right onto a flat and smooth forest path that leads 400 meters to Highway 77. 
+      text_17: |
+        However, the Camino does not cross the highway.  Instead, it makes a near-180 degree turn to the left back along the trees to an isolated Tarahumara house with a small orchard on the left,  Before entering the property, the Camino makes a sharp right turn onto a narrow forest path and descends 15 meters to a clearing which is immediately next to the railroad (now on the left). Directly ahead is a wide road parallel to the tracks (only 10 meters to the left). 
+      text_18: |
+        The wide road continues 150 meters to where Highway 77 crosses the railroad.  Across the highway is a small green and white shelter for individuals (largely Tarahumara living in the area) waiting for transport.
+      text_19: |
+        This crossing is well-known for its access to Fertility Rock (Piedra de Fertilidad), a phallic rock formation only 75 meters from the crossing on the left side of the railroad.  Camino hikers should cross the highway and continue alongside the railroad on the right side of the tracks for 50 meters.  There is extensive graffiti on the Rock itself, which looms 10 meters above the tracks and the Camino. 
+      text_20: |
+        From the Rock the tracks make a very gentle bend to the right and enter into another tunnel. The tunnel is easily visible from the Rock, approximately 250 meters away.
+      text_21: |
+        However, twenty (20) meters past the Rock, the Camino turns left to cross the tracks.  On the left there is a traditional rural path over tocks and past other impressive rock formations.  Because the large flat rocks in this area prevent a visible trail in the earth, hikers must be careful to follow the Camino markers painted on smaller standing rocks.  The Camino enters a nearly hidden break in the large rocks. 
+      text_22: |
+        After 50 meters through trees and rocks, the trail reaches the top of the mesa (approximately 10 meters of elevation change) roughly where the trail rejoins Highway 77.  From this point the Camino continues alongside the highway in a long (100 meters), wide, flat area for vehicles.  The trees to the right are roughly 20 meters from the highway.
+      text_23: |
+        Hikers pass a small religious shrine (painted green) approximately 75 meters into the sandy access area after leaving the forested area at the top of the mesa.
+      text_24: |
+        Beyond the shrine is a small white structure with a red roof.  It is the Nacayvo bus stop.  The bus shelter is located on the western edge of the highway access area next to the trees.  It is the final destination for this Section.9.
+      text_25: |
+        Hikers wanting to cut short their excursion can catch a bus toward either Creel (32 kilometers north) or Divisadero (12 kilometers south).
+    overview:
+      text: |
+        In this section (6.9 km, 3.0 hours) the Camino leaves the Tarahumara pueblo of Pitorreal (Km 26 on Highway 77) to connect with the much smaller community of Nacayvo (Kilometer 32).  As noted earlier in Section 8 of the guide, Pitorreal is a key central point for hikers on the Camino with a train station, bus stop, several small grocery stores, and rustic camping. 
     title: |
-      Segment 9: From Pitorreal to Nacaybo North
+      Segment 9: From Pitorreal to Nacayvo North
+  segment_10:
+    description:
+      text_01: |
+        This section starts at the Nacayvo bus shelter on Highway 77.  Nacayvo is a small rural Tarahumara community of roughly 10 families living in houses scattered around a large flat “meadow” area on both sides of a water course.  Highway 77 circles the meadow to the South and joins the railroad at the southern end of the meadow. 
+      text_02: |
+        Several farm houses and buildings are on top of the mesa near the bus stop, including a small health facility only 50 meters west of the bus shelter with an easy-to-read sign “Casa de Salud” (“House of Health”).
+      text_03: |
+        The Camino begins by turning west toward the Casa de Salud located among the trees on the top of the bluff above the meadow area.  It passes the Casa, turns sharply to the left, and descends the bluff (20 meters) through trees toward the meadow area. 
+      text_04: |
+        The meadow is largely treeless and features large fields on both sides of a shallow water course. Due to the scarcity of trees and rocks, there are only a few trail markers in the meadow itself – only several on isolated rocks and fence posts.  Nonetheless, hikers should be able to follow the Camino by traveling toward the highway (south) and the trees visible on the opposite side (west).
+      text_05: |
+        The Camino is the middle of the fields, heading south (toward the highway).  After 200 meters in the meadow, the trail crosses the water course to follow a fence line west toward the pine forest on the western edge of the open area.  There are several house scattered among the trees.  Behind the trees is the railroad.  
+      text_06: |
+        After reaching the trees, the Camino meets a small country road from the Tarahumara houses.  It turns a hard left and travels parallel to the railroad for 100 meters. At this point (700 meters from the start) the Camino has reached the southwest corner of the Nacayvo meadow. 
+      text_07: |
+        At this southwest corner of the Nacayvo meadow the Camino makes a sharp turn to the right (more than 90 degrees) and crosses the railroad in 10 meters.  After the crossing the Camino bends slightly left and ascends following a rough country road toward the West.  At this point the railroad and highway are slightly more distant on the left (roughly 100 meters). 
+      text_08: |
+        The wide pipeline service road bends left (among a network of alternative roads) and remains close to both the railroad and the highway.  The pipeline service road is wide, rocky and rough in parts, but generally straight in a due south direction (as are the highway and the railroad) for roughly 1.5 kilometers.  There are no trees close to the road, and as a result the route is not shaded.  The green and red Camino trail markers are nearly 100% on rocks in the road or on the side. 
+      text_09: |
+        At 2.0 kilometers from the bus stop, the Camino bends left onto a pleasant, tree-lined side road parallel to the wide service road.  After 100 meters the trail passes through a barbed wire gate and immediately rejoins the service road.
+      text_10: |
+        In another 200 meters, at 2.3 kilometers from the start, the Camino bends right off the wide road onto a smaller forest road that is lined with trees.  This section descends sharply over a length of approximately 100 meters, where it makes a sharp left turn onto another country road that runs parallel to a barbed wire fence on the left.  There are many roads and paths in this area.  Hikers must take care to follow the green and red Camino markers.
+      text_11: |
+        This road continues for 300 meters through the trees before coming to another barbed wire fence.  It can easily be seen that the Tarahumara who use the trail simply cross the fence without a gate.  Camino hikers should also be able cross either over or under the fence according to their preference.  After the fence crossing the trail consists of alternating sections of gently rolling forest path and country road for another 1.5 kilometers.  The trail is tree-lined and offers pleasant easy hiking. 
+      text_12: |
+        To the left (roughly 50 meters) is the railroad.  Further to the left (another 50 meters) is the highway.  In this substantially flat section the railroad is “double tracked,” where a train station and train yard existed in the past and where even now trains traveling in one direction can “lay by” to permit those traveling in the opposite direction to pass.
+      text_13: |
+        4.4. kilometers from the Nacayvo shelter, the Camino comes to a “gate” in a fence that blocks the trail.  However, immediately the right of the gate, there is an opening in the barbed wire fence.  Hikers can easily pass through this opening and continue straight.  In approximately 300 meters the Camino descends slightly (10 meters) into a final wide water course before rising again to an intersection with yet another country road providing access to Tarahumara ranchos to the West.  The trail makes a hard left turn onto the access road.  In just 5 meters it crosses the railroad (which has previously been to the left (east)).  In another 20 meters the Camino reaches Highway 77. 
+      text_14: |
+        Immediately below the crossing point on 77 (east side), a few Tarahumara buildings (Nacayvo Sur) can be seen below the highway level, as well as the route of the new gas pipeline.  The Section 10 ends at this point 5.0 kms from the Nacayvo Norte bus stop.
+    overview:
+      text: |
+        This section (5 kilometers, 1.5 hours) includes two Tarahumara settlements named Nacayvo on the official Mexican map (INEGI) of the area.  Separated by approximately 5 kilometers on Highway 77, the northern and southern ranchos provide a glimpse of rural Tarahumara life in the Sierra: a few simple houses, stony fields, surrounded by the pine forest. In 2016 the southern rancho (at Kilometer 37 on Highway 77) is cut through entirely by the new natural gas pipeline from the Pacific Coast to Chihuahua.
+    title: |
+      Segment 10: From Nacayvo North to Nacayvo South
+  segment_11:
+    description:
+      text_01: |
+        Nacayvo Sur is a small Tarahumara rancho (as of 2016) being overtaken by the new gas pipeline connecting the Chihuahua area with the Pacific Coast.  The community’s small rustic houses are approximately 15 meters below the pavement of Highway 77.  From the highway crossing a steep rocky 4WD road descends toward the pipeline.  This is the start of Section 11.  
+      text_02: |
+        After descending 50 meters, the Camino turns sharply to the right through rocks and trees along a water course that runs parallel to the highway 20 meters above.  The trail runs along this water course (often dry or with little water) for 150 meters, where it crosses the stream bed and rises into another forested area on the east side.  The trail runs 500 meters on a pleasant tree-lined path parallel to Highway 77 (approximately 50 meters to the right). As of 2016 the Camino crosses back over the water course (bending right) and up to the highway where it crosses the gas pipeline route.  The pipeline has itself been on the left and above the Camino since leaving the Nacayvo Sur hamlet. 
+      text_03: |
+        After crossing the pipeline (850 meters from the start), the Camino bends sharply left on another country dirt road that winds through the woods up the hill to the east of the pipeline.  There many interweaving paths and roads in this section.  It ascends 100 meters over a distance of 1.5 kilometers where it passes a lone Tarahumara house in a field on the right.
+      text_04: |
+        Shortly beyond the field, the Camino makes a sharp right turn to continue around the house toward the South.  The trail descends slightly into a complex intersection of Tarahumara trails and country roads. The Camino is the rightmost (western most) trail that slightly rises as it skirts the slope of the next ridge.
+      text_05: |
+        The Camino hike is a pleasant walk on a forested path through the trees with the downslope on the right.  After 400 meters it drops slightly to another stream bed, and, after crossing that stream (usually dry), it rises again following the uphill route of the water course.  After another 400 meters the Camino bends left slightly to the stream as it drains from a large Tarahumara cornfield.  The trail makes a hairpin turn to the left and ascends through the trees diagonally up the slope of the adjacent ridge. 
+      text_06: |
+        The Camino is again a pleasant path through the trees.  After 200 meters it passes through a fence gate and continues into a very large treeless field with wide views directly east over the canyons.  Tarahumara villages are visible on distant mesas on the other side of the canyons.  A Tarahumara farmhouse is slightly below on the left at the field’s edge.  This field is the largest on the Camino.  At its upper reaches there are a few Tarahumara orchards on both left (below the trail) and right (above).
+      text_07: |
+        At 3.6 kilometers from the start, in the middle of the open field, the Camino turns sharply right and up a slight grade to meet another trail. At that intersection it makes a hard right turn onto a well-defined trail going uphill.  Immediately after passing the upper orchard on the right, the Camino turns left, goes uphill to a small gate in the fence line.  The pine forest begins at the fence.  The trail then turns sharply left (90 degrees) and follows the fence line over the ridge.  There it intersects a well-defined trail and bends right. 
+      text_08: |
+        segment_11.description.text_08
+      text_09: |
+        As the Camino descends from the forest, it enters into a rocky flat area with an isolated Tarahumara farmhouse on the left (4.0 kilometers from the start).  To the right is a large cornfield that fills a small shallow valley. 
+      text_10: |
+        From the Tarahumara house the Camino bends right along the cornfield onto a clear path that ascends slightly through the trees.  Immediately to the left is a country road that runs parallel to the Camino.  Hikers can easily walk on the road if they prefer since it joins the Camino’s path in 150 meters.  The field in the valley can be seen over small trees on the right.
+      text_11: |
+        Above the cornfield there are a number of interweaving roads and paths. As a result, hikers should be careful to take the leftmost path out of this complex and confusing set of trails.  The left trail is the Camino.  For the next 800 meters it is a forested trail that skirts the eastern side of the hill rising on the right side.  Views from this remarkably flat path over the canyons to the left (East) are good. 
+      text_12: |
+        The quality of the trail is very good, often with rock walls to strengthen the trail’s downhill side.  Starting at approximately 500 meters, the Cerro Alto mesa (the destination of this section) can easily be seen on the left and above (100 meters higher),
+      text_13: |
+        After 700 meters along the flat section of the trail it rises toward the mesa, first gradually, then more steeply.  At 800 meters there are a series of forks that bend left toward a Tarahumara well. Although this well is visible and accessible from the trail (approximately 20 meters to the left and below), it is not on the Camino itself.
+      text_14: |
+        Instead of bending left toward the well, the Camino stays to the right and ascends steeply through trees and rocks to a small corn field below Cerro Alto.  Highway 77 is only 50 meters away across the field to the right.  An unused building with a red roof is visible at the corner of the field next to the highway.  In 2016, an abandoned car is mounted on blocks in the middle of the field. The field is 5.0 kilometers from the starting point.
+      text_15: |
+        As the hiker reaches the cornfield, a Tarahumara house is directly in front.  The Camino turns left onto an access road to the house, and then further left into the forest and over rocks in a series of confusing switchbacks.  Care and attention will be needed to stay on the Camino in this short section.  The trail then rises to the left with another larger cornfield on the right. The Camino meets a barbed wire gate on the upper fence line of the cornfield.  Hikers can also see a microwave tower on the opposite site of the field. 
+      text_16: |
+        After going through the gate, the well-defined trail rises through the trees to meet the formal access road to the Cerro Alto mesa (5.6 kilometers from the start at Nacayvo Sur).  The Camino turns left onto the rough 4WD access road and rises the final 20 meters to the top of the Cerro Alto mesa. 
+      text_17: |
+        At the summit is a large open area (5+ hectares) with only a few trees, primarily on the south edge.  On the east and north sides are a few Tarahumara houses and cornfields. 
+      text_18: |
+        On the west side of the summit is a small radio tower (with support building) on the topmost point.  
+      text_19: |
+        The eastern edge also features the mirador that is well constructed but now in a state of non-use and disrepair.  However, the views from the mirador (which is safe) are very good.
+      text_20: |
+        Under the trees on the southern edge of the summit is a handicraft center (now also not in use).  The center is a white building marked with a large blue sign as the ”Centro Artesanal de San Luis de Majimachi.”  (San Luis de Majimachi is the name of a nearby village that owns the land.)  The center building (the end point of the section) is 6.0 kilometers from Nacayvo Sur.
+      text_21: |
+        Because Cerro Alto (2480 meters) is the highest point in the area, the views span 360 degrees.  The western view is somewhat blocked by trees.  The northern view is unobstructed but focuses on the well-forested upper canyons to the North.  However, the views to the East and South overlooking the deep and complex canyons of the Barrancas de Cobre region are exceptional.
+    overview:
+      text: |
+        This entire second half of this section provides good views to the east that complement the views from the section terminus, the mirador on Cerro Alto / Majimachi.  (The prominent mountain called “Cerro Alto” (Spanish for “High Mountain”) on the Mexican government’s map is also called Majimachi by the Chihuahua State tourism organization.)  It starts at the point where the gas pipeline passes through the small Tarahumara settlement of Nacayvo Sur and generally follows Highway 77 (at a distance) up to the final hill before Divisadero.  The railroad turns to the West at Nacayvo Sur and remains somewhat distant from the Camino all the way to Divisadero (7 kilometers along the highway). 
+    title: |
+      Segment 11: From Nacaybo South to Cerro Alto
+  segment_12:
+    description:
+      text_01: |
+        The Camino begins on the north side of the Handicrafts Center (“Centro Artesanal”) – no longer in use as of 2016 – amid the trees on the southeastern edge of the Cerro Alto mesa.  It goes 20 meters down a concrete staircase directly east before turning a hard right on a clear path that goes straight south toward Divisadero through scattered trees and rocks.  
+      text_02: |
+        This upper part of the section (approximately 500 meters) is generally on the south-facing slope of the Cerro Alto mountain with very good views over the canyon system to the south.  It descends steeply on a series of switchbacks that overlook 2 to 3 Tarahumara farms and houses 50 meters below on the left.
+      text_03: |
+        It passes through an old wooden gate approximately 350 meters from the start, staying to the left of another Tarahumara farm visible through the trees on the right.
+      text_04: |
+        600 meters from the Cerro, the trail descends to a saddle and rises slightly to a good, almost flat trail through the woods on the South- and East-facing slope of another nearby mountain.  Views over the canyons to the East (left) are very good.  At times the trail is somewhat rocky, but in good condition.  It goes through another wooden gate (900 meters from the summit) before entering a wooded area.  
+      text_05: |
+        At 1.1 kilometers from the start, there is an important junction where the hiker must take care to follow the markers over an area composed nearly entirely of large flat rocks.  The trail bends slightly to the left as it descends from the trees.  On the right the hiker can see a small rock dam or bridge in a rocky ditch.  The Camino does not cross this dam, instead turning left 10 meters before.
+      text_06: |
+        At this point the trail again offers very easy walking, descending very gradually on an east-facing slope.  Canyon views to the left (east) are very good. 
+      text_07: |
+        The trail occasionally is rocky and narrow with short, steep up-and-down sections.  Local Tarahumara continue to use the trail frequently and safely. However, Camino hikers (who are not as familiar with the trail as the Tarahumara) should take care to maintain their footing in these sections.  
+      text_08: |
+        After 600 meters on the portion with good eastward views, there is mini-mirador (viewing point) from a prominent rock along the trail.  Hikers may look back up to Cerro Alto 150 meters above, as well as the canyons to the right (east). 
+      text_09: |
+        In this section the Camino continues on the side of a low mountain on its right.  Approximately 2.0 kilometers from the start the trail passes under some large overhanging rocks on the right side and uphill.  
+      text_10: |
+        In another 200 meters after the overhanging rocks, the trail leaves the best viewing section of the Camino as it comes to a flat saddle below the mountain.  At this point it enters some scattered trees near another isolated Tarahumara farmhouse (2.3 kilometers from the start).
+      text_11: |
+        To avoid disturbing the Tarahumara inhabitants, the Camino passes 40 meters to the left (east) of the house and takes a long side path through the trees.  Approximately 50 meters away from the house to the South, the trail makes a sharp right turn, again through the trees, to begin a cross-slope switchback.  It descends steeply through the trees to the reservoir providing water to the hotel in Divisadero.  The Tarahumara house is increasingly above the Camino on the right.  The trail is narrow and often composed of crumbly rocks and earth.  Hikers should be careful to avoid falls in this section.
+      text_12: |
+        After arriving at the reservoir, the Camino turns left and follows the water’s eastern edge (depending on time of year, the amount of rainfall, and water level) toward the dam.  It bends right at the dam to cross to the other side of the reservoir by means of the dam’s overflow wall.  The stone-and-concrete wall itself is 0.75 meters wide (2.5 feet), and hikers may easily walk along the top of the wall.  Alternatively, again depending on water level, it may be easier to walk immediately to the right of the wall, or descend further away from the wall to the left.
+      text_13: |
+        After the hiker crosses the water channel (according to water level and the individual’s preference), the Camino resumes on top of the dam itself.  The main part of the dam is 5 meters wide and flat and easy to walk on.  The dam is 2.7 kilometers from Cerro Alto. 
+      text_14: |
+        After passing the dam, the Camino bends right for 20 meters along the water, then sharply back to the left in a hairpin turn.  The trail from this point heads roughly south toward Divisadero.  It is often in good condition with rock walls on the downhill side.  In other areas it is a good forest path on the dirt.  Highway 77 is not far on the right.  At 400 meters from the dam, the Camino passes an opening immediately alongside the highway.  However, it does not cross the highway but bends left to run parallel to the highway (5 to 10 meters away on the right) for another 400 meters. 
+      text_15: |
+        At 3.5 kilometers from the start of Section 12, the Camino intersects a public road providing vehicle access from Highway 77 to the Tarahumara community at Mogotavo.  Hikers may wish to turn left at this access area to visit the Mogatavo mesa where the local Tarahumara community offers a system of hiking trails and a cultural center (as of 2016).  It is approximately 1.5 kilometers from the highway to the community along a public road (4 WD).  See the discussion of “Suggested Day Hikes” for more information.
+      text_16: |
+        The Camino bends right as it meets the Mogotavo road and then crosses the highway.  Directly across from the Mogotavo road is a well-used path through the trees in an area between Highway 77 (to the left) and the railroad (to the right).  The Divisadero train station is easily visible on the left.  Hikers should follow the path to the left approximately100 meters, descending gradually through the trees to the station. 
+      text_17: |
+        The Camino ends on the northern section of the station platform.  After 150 meters on the platform itself, hikers will encounter the section devoted to food and handicraft stalls of vendors.  Markers on the platform wall next to the vendor stalls indicate the final destination on the Camino.  It is 3.75 kilometers from the start on Cerro Alto.
+    overview:
+      text: |
+        This description of Section 12 of the Camino (3.7 kilometers, roughly 1 hour descent, but 1+ hour ascent) maintains (as in prior sections) the point of view of a hiker traveling from North (Creel) to South (Divisadero).  It starts at the top of Cerro Alto (Spanish for “High Mountain”), the highest point in the area at 2,480 meters (approximately 8,100 feet).  As discussed earlier in the guide for Section 11, the tourist center of San Luis de Majimachi (largely unused in 2016) at the summit of Cerro Alto offers outstanding views over much of the Cobre region.  The Camino descends along the sides of the mountains toward Divisadero 250 meters below, offering very good views to the east (on the left of the hiker traveling south).  After passing a small Tarahumara house and farm, the last 1.5 kilometers go through the trees to a small reservoir and along a forest path to the Divisadero train station.
+    title: |
+      Segment 12: From Cerro Alto to Divisadero
   segment_data:
     length: |
       Segment length

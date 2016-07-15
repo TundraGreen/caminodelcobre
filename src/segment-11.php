@@ -1,6 +1,9 @@
 <?php
-  session_start();
-  include_once('includes/copyright.php');
+/*
+©2015-2016 William H. Prescott. All Rights Reserved.
+This file is part of Camino del Cobre.
+*/
+
   include_once('includes/language.php');
 
   $length = 5.980;
@@ -57,6 +60,211 @@
     <div id='elev_data' hidden><?php print($elev_json); ?></div>
     <div id='section_11_map' class='section_map'></div>
     <div class="vision_text_block">
+
+      <h3><?php print(i18n('segment.overview.title', $lang)); ?></h3>
+      <p><?php print(i18n('segment_11.overview.text', $lang)); ?></p>
+
+      <h3><?php print(i18n('segment.description.title', $lang)); ?></h3>
+
+      <p><?php print(i18n('segment_11.description.text_01', $lang)); ?></p>
+      <p><?php print(i18n('segment_11.description.text_02', $lang)); ?></p>
+
+      <div class="two_thirds_width_text">
+        <p><?php print(i18n('segment_11.description.text_03', $lang)); ?></p>
+      </div>
+      <div class="third_width_photo">
+        <div>
+          <img src="imagenes/11-1-Isolated-T-house.jpg" width="250px" alt="Canyon Scene" /><br />
+          Lone Tarahumara house 
+        </div><br />
+      </div>
+      <div class="clear"></div>
+
+      <div class="third_width_photo">
+        <div>
+          <img src="imagenes/11-2-Multiple-paths.jpg" width="250px" alt="Canyon Scene" /><br />
+          Intersection of many trails
+        </div><br />
+      </div>
+      <div class="two_thirds_width_text">
+        <p><?php print(i18n('segment_11.description.text_04', $lang)); ?></p>
+      </div>
+      <div class="clear"></div>
+
+      <p><?php print(i18n('segment_11.description.text_05', $lang)); ?></p>
+      <p><?php print(i18n('segment_11.description.text_06', $lang)); ?></p>
+
+      <div class="half_width_photo">
+        <div>
+          <img src="imagenes/11-3-Vista-over-field.jpg" width="300px" alt="Canyon Scene" /><br />
+          Tarahumara house in large field 
+        </div>
+      </div>
+      <div class="half_width_photo">
+        <div>
+          <img src="imagenes/11-4-T-orchard.jpg" width="300px" alt="Canyon Scene" /><br />
+          Tarahumara orchard
+        </div>
+      </div>
+      <div class="clear"></div>
+
+      <p><?php print(i18n('segment_11.description.text_07', $lang)); ?></p>
+
+      <div class="two_thirds_width_text">
+        <p><?php print(i18n('segment_11.description.text_09', $lang)); ?></p>
+      </div>
+      <div class="third_width_photo">
+        <div>
+          <img src="imagenes/11-5-T-house-above-field.jpg" width="250px" alt="Canyon Scene" /><br />
+          Farmhouse above cornfield 
+        </div><br />
+      </div>
+      <div class="clear"></div>
+
+      <div class="third_width_photo">
+        <div>
+          <img src="imagenes/11-6-T-cornfield.jpg" width="250px" alt="Canyon Scene" /><br />
+          Cornfield in valley
+        </div><br />
+      </div>
+      <div class="two_thirds_width_text">
+        <p><?php print(i18n('segment_11.description.text_10', $lang)); ?></p>
+      </div>
+      <div class="clear"></div>
+
+      <p><?php print(i18n('segment_11.description.text_11', $lang)); ?></p>
+
+     <div class="full_width_photo">
+        <div>
+          <img src="imagenes/11-7-Vista-East-canyons.jpg" width="700px" alt="Canyon Scene" /><br />
+          Vista over eastern canyons
+        </div>
+      </div>
+
+      <div class="two_thirds_width_text">
+        <p><?php print(i18n('segment_11.description.text_12', $lang)); ?></p>
+      </div>
+      <div class="third_width_photo">
+        <div>
+          <img src="imagenes/11-8-CA-from-below.jpg" width="250px" alt="Canyon Scene" /><br />
+          Cerro Alto mesa from trail 
+        </div><br />
+      </div>
+      <div class="clear"></div>
+
+      <div class="third_width_photo">
+        <div>
+          <img src="imagenes/11-9-T-well.jpg" width="250px" alt="Canyon Scene" /><br />
+          Tarahumara well
+        </div><br />
+      </div>
+      <div class="two_thirds_width_text">
+        <p><?php print(i18n('segment_11.description.text_13', $lang)); ?></p>
+      </div>
+      <div class="clear"></div>
+
+      <div class="two_thirds_width_text">
+        <p><?php print(i18n('segment_11.description.text_14', $lang)); ?></p>
+      </div>
+      <div class="third_width_photo">
+        <div>
+          <img src="imagenes/11-10-Car-in-field.jpg" width="250px" alt="Canyon Scene" /><br />
+          Building and car in field 
+        </div><br />
+      </div>
+      <div class="clear"></div>
+
+      <p><?php print(i18n('segment_11.description.text_15', $lang)); ?></p>
+
+      <div class="two_thirds_width_text">
+        <p><?php print(i18n('segment_11.description.text_16', $lang)); ?></p>
+      </div>
+      <div class="third_width_photo">
+        <div>
+          <img src="imagenes/11-11-Road-to-CA.jpg" width="250px" alt="Canyon Scene" /><br />
+          Road to Cerro Alto summit 
+        </div><br />
+      </div>
+      <div class="clear"></div>
+
+      <div class="third_width_photo">
+        <div>
+          <img src="imagenes/11-12-CA-summit.jpg" width="250px" alt="Canyon Scene" /><br />
+          Cerro Alto summit
+        </div><br />
+      </div>
+      <div class="two_thirds_width_text">
+        <p><?php print(i18n('segment_11.description.text_17', $lang)); ?></p>
+      </div>
+      <div class="clear"></div>
+
+      <div class="two_thirds_width_text">
+        <p><?php print(i18n('segment_11.description.text_18', $lang)); ?></p>
+      </div>
+      <div class="third_width_photo">
+        <div>
+          <img src="imagenes/11-13-CA-tower.jpg" width="250px" alt="Canyon Scene" /><br />
+          Cerro Alto tower
+        </div><br />
+      </div>
+      <div class="clear"></div>
+
+      <p><?php print(i18n('segment_11.description.text_19', $lang)); ?></p>
+      <p><?php print(i18n('segment_11.description.text_20', $lang)); ?></p>
+
+      <div class="half_width_photo">
+        <div>
+          <img src="imagenes/11-14-CA-mirador.jpg" width="300px" alt="Canyon Scene" /><br />
+          Cerro Alto mirador 
+        </div>
+      </div>
+      <div class="half_width_photo">
+        <div>
+          <img src="imagenes/11-15-CA-center.jpg" width="300px" alt="Canyon Scene" /><br />
+          Majimachi handicrafts center
+        </div>
+      </div>
+      <div class="clear"></div>
+
+      <p><?php print(i18n('segment_11.description.text_21', $lang)); ?></p>
+
+      <div class="half_width_photo">
+        <div>
+          <img src="imagenes/11-16-CA-West-view.jpg" width="300px" alt="Canyon Scene" /><br />
+          West view 
+        </div>
+      </div>
+      <div class="half_width_photo">
+        <div>
+          <img src="imagenes/11-17-CA-North-view.jpg" width="300px" alt="Canyon Scene" /><br />
+          North view
+        </div>
+      </div>
+
+      <div class="half_width_photo">
+        <div>
+          <img src="imagenes/11-18-CA-East-view.jpg" width="300px" alt="Canyon Scene" /><br />
+          East view
+        </div>
+      </div>
+      <div class="half_width_photo">
+        <div>
+          <img src="imagenes/11-19-CA-South-view.jpg" width="300px" alt="Canyon Scene" /><br />
+          South view
+        </div>
+      </div>
+
+
+      <div class="previous_next">
+        <div class="floatLeft">
+          <a href="segment-10.php?lang=<?php print($lang); ?>"><?php print(i18n('segment.previous', $lang)); ?></a>
+        </div>
+        <div class="floatRight">
+          <a href="segment-12.php?lang=<?php print($lang); ?>"><?php print(i18n('segment.next', $lang)); ?></a>
+        </div>
+        <div class="clear"></div>
+      </div>
+
     </div>
 
     <div class="clear"></div>

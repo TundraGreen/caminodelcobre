@@ -1,6 +1,9 @@
 <?php
-  session_start();
-  include_once('includes/copyright.php');
+/*
+©2015-2016 William H. Prescott. All Rights Reserved.
+This file is part of Camino del Cobre.
+*/
+
   include_once('includes/language.php');
 
   $length = 4.97;
@@ -57,6 +60,105 @@
     <div id='elev_data' hidden><?php print($elev_json); ?></div>
     <div id='section_10_map' class='section_map'></div>
     <div class="vision_text_block">
+    
+      <h3><?php print(i18n('segment.overview.title', $lang)); ?></h3>
+      <p><?php print(i18n('segment_10.overview.text', $lang)); ?></p>
+
+      <h3><?php print(i18n('segment.description.title', $lang)); ?></h3>
+
+      <p><?php print(i18n('segment_10.description.text_01', $lang)); ?></p>
+
+      <div class="two_thirds_width_text">
+        <p><?php print(i18n('segment_10.description.text_02', $lang)); ?></p>
+      </div>
+      <div class="third_width_photo">
+        <div>
+          <img src="imagenes/10-1-Casa-salud.jpg" width="250px" alt="Canyon Scene" /><br />
+          Nacayvo Casa de Salud 
+        </div><br />
+      </div>
+      <div class="clear"></div>
+
+      <p><?php print(i18n('segment_10.description.text_03', $lang)); ?></p>
+
+      <div class="third_width_photo">
+        <div>
+          <img src="imagenes/10-2-Nacayvo-meadow.jpg" width="250px" alt="Canyon Scene" /><br />
+          Nacayvo open meadow
+        </div><br />
+      </div>
+      <div class="two_thirds_width_text">
+        <p><?php print(i18n('segment_10.description.text_04', $lang)); ?></p>
+      </div>
+      <div class="clear"></div>
+
+      <div class="two_thirds_width_text">
+        <p><?php print(i18n('segment_10.description.text_05', $lang)); ?></p>
+      </div>
+      <div class="third_width_photo">
+        <div>
+          <img src="imagenes/10-3-Nacayvo-water.jpg" width="250px" alt="Canyon Scene" /><br />
+          Nacayvo water course 
+        </div><br />
+      </div>
+      <div class="clear"></div>
+
+      <p><?php print(i18n('segment_10.description.text_06', $lang)); ?></p>
+      <p><?php print(i18n('segment_10.description.text_07', $lang)); ?></p>
+      <p><?php print(i18n('segment_10.description.text_08', $lang)); ?></p>
+
+      <div class="half_width_photo">
+        <div>
+          <img src="imagenes/10-4-pipeline-road.jpg" width="300px" alt="Canyon Scene" /><br />
+          Service road
+        </div>
+      </div>
+      <div class="half_width_photo">
+        <div>
+          <img src="imagenes/10-5-Gate-side-road.jpg" width="300px" alt="Canyon Scene" /><br />
+          Wire gate
+        </div>
+      </div>
+      <div class="clear"></div>
+
+      <p><?php print(i18n('segment_10.description.text_09', $lang)); ?></p>
+      <p><?php print(i18n('segment_10.description.text_10', $lang)); ?></p>
+      <p><?php print(i18n('segment_10.description.text_11', $lang)); ?></p>
+
+      <div class="two_thirds_width_text">
+        <p><?php print(i18n('segment_10.description.text_12', $lang)); ?></p>
+      </div>
+      <div class="third_width_photo">
+        <div>
+          <img src="imagenes/10-6-Nacayvo-tracks.jpg" width="250px" alt="Canyon Scene" /><br />
+          Nacayvo double tracks 
+        </div><br />
+      </div>
+      <div class="clear"></div>
+
+      <p><?php print(i18n('segment_10.description.text_13', $lang)); ?></p>
+
+      <div class="third_width_photo">
+        <div>
+          <img src="imagenes/10-7-Nacayvo-sur.jpg" width="250px" alt="Canyon Scene" /><br />
+          Nacayvo Sur houses and pipeline
+        </div><br />
+      </div>
+      <div class="two_thirds_width_text">
+        <p><?php print(i18n('segment_10.description.text_14', $lang)); ?></p>
+      </div>
+      <div class="clear"></div>
+
+      <div class="previous_next">
+        <div class="floatLeft">
+          <a href="segment-9.php?lang=<?php print($lang); ?>"><?php print(i18n('segment.previous', $lang)); ?></a>
+        </div>
+        <div class="floatRight">
+          <a href="segment-11.php?lang=<?php print($lang); ?>"><?php print(i18n('segment.next', $lang)); ?></a>
+        </div>
+        <div class="clear"></div>
+      </div>
+
     </div>
 
     <div class="clear"></div>

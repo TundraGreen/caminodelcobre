@@ -130,6 +130,9 @@
         <div class="floatLeft">
           <a href="segment-6.php?lang=<?php print($lang); ?>"><?php print(i18n('segment.previous', $lang)); ?></a>
         </div>
+        <div class="floatRight">
+          <a href="segment-8.php?lang=<?php print($lang); ?>"><?php print(i18n('segment.next', $lang)); ?></a>
+        </div>
         <div class="clear"></div>
       </div>
     </div>

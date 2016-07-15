@@ -38,15 +38,28 @@
 
       <h3><?php print(i18n('suggested_routes.part_04.title', $lang)); ?></h3>
       <p><?php print(i18n('suggested_routes.part_04.text_01', $lang)); ?></p>
-     
+
       <h3><?php print(i18n('suggested_routes.part_05.title', $lang)); ?></h3>
       <p><?php print(i18n('suggested_routes.part_05.text_01', $lang)); ?></p>
       <p><?php print(i18n('suggested_routes.part_05.text_02', $lang)); ?></p>
       <p><?php print(i18n('suggested_routes.part_05.text_03', $lang)); ?></p>
-      <p><?php print(i18n('suggested_routes.part_05.text_04', $lang)); ?></p>
+
+      <div class="two_thirds_width_text">
+        <p><?php print(i18n('suggested_routes.part_05.text_04', $lang)); ?></p>
+      </div>
+      <div class="third_width_photo">
+        <div>
+          <img src="imagenes/12-1-MM-highway.jpg" width="250px" alt="Canyon Scene" /><br />
+          Majimachi Highway Sign
+        </div><br />
+      </div>
+      <div class="clear"></div>
+
+
       <p><?php print(i18n('suggested_routes.part_05.text_05', $lang)); ?></p>
       <p><?php print(i18n('suggested_routes.part_05.text_06', $lang)); ?></p>
       <p><?php print(i18n('suggested_routes.part_05.text_07', $lang)); ?></p>
+
     </div>
 
     <div class="clear"></div>

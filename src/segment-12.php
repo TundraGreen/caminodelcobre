@@ -1,6 +1,9 @@
 <?php
-  session_start();
-  include_once('includes/copyright.php');
+/*
+©2015-2016 William H. Prescott. All Rights Reserved.
+This file is part of Camino del Cobre.
+*/
+
   include_once('includes/language.php');
 
   $length = 3.75;
@@ -62,6 +65,134 @@
     <div id='elev_data' hidden><?php print($elev_json); ?></div>
 	  <div id='section_12a_map' class='section_map'></div>
     <div class="vision_text_block">
+
+      <h3><?php print(i18n('segment.overview.title', $lang)); ?></h3>
+      <p><?php print(i18n('segment_12.overview.text', $lang)); ?></p>
+
+      <h3><?php print(i18n('segment.description.title', $lang)); ?></h3>
+
+      <p><?php print(i18n('segment_12.description.text_01', $lang)); ?></p>
+
+      <div class="two_thirds_width_text">
+        <p><?php print(i18n('segment_12.description.text_02', $lang)); ?></p>
+      </div>
+      <div class="third_width_photo">
+        <div>
+          <img src="imagenes/12-2-T-houses-view.jpg" width="250px" alt="Canyon Scene" /><br />
+          House with canyons beyond 
+        </div><br />
+      </div>
+      <div class="clear"></div>
+
+      <div class="third_width_photo">
+        <div>
+          <img src="imagenes/12-3-Upper-gate.jpg" width="250px" alt="Canyon Scene" /><br />
+          Wood gate
+        </div><br />
+      </div>
+      <div class="two_thirds_width_text">
+        <p><?php print(i18n('segment_12.description.text_03', $lang)); ?></p>
+      </div>
+      <div class="clear"></div>
+
+      <p><?php print(i18n('segment_12.description.text_04', $lang)); ?></p>
+
+      <div class="two_thirds_width_text">
+        <p><?php print(i18n('segment_12.description.text_05', $lang)); ?></p>
+      </div>
+      <div class="third_width_photo">
+        <div>
+          <img src="imagenes/12-4-Rock-dam.jpg" width="250px" alt="Canyon Scene" /><br />
+          Rock dam off trail 
+        </div><br />
+      </div>
+      <div class="clear"></div>
+
+      <p><?php print(i18n('segment_12.description.text_06', $lang)); ?></p>
+
+     <div class="full_width_photo">
+        <div>
+          <img src="imagenes/12-5-Canyon-views.jpg" width="700px" alt="Canyon Scene" /><br />
+          Canyon view from trail
+        </div>
+      </div>
+
+      <div class="third_width_photo">
+        <div>
+          <img src="imagenes/12-6-Narrow-trail.jpg" width="250px" alt="Canyon Scene" /><br />
+          Narrow rocky trail
+        </div><br />
+      </div>
+      <div class="two_thirds_width_text">
+        <p><?php print(i18n('segment_12.description.text_07', $lang)); ?></p>
+      </div>
+      <div class="clear"></div>
+
+      <p><?php print(i18n('segment_12.description.text_08', $lang)); ?></p>
+
+     <div class="full_width_photo">
+        <div>
+          <img src="imagenes/12-7-CA-houses.jpg" width="700px" alt="Canyon Scene" /><br />
+          Cerro Alto houses from below
+        </div>
+      </div>
+
+      <div class="two_thirds_width_text">
+        <p><?php print(i18n('segment_12.description.text_09', $lang)); ?></p>
+      </div>
+      <div class="third_width_photo">
+        <div>
+          <img src="imagenes/12-8-Overhanging.jpg" width="250px" alt="Canyon Scene" /><br />
+          Overhanging rocks 
+        </div><br />
+      </div>
+      <div class="clear"></div>
+
+      <div class="third_width_photo">
+        <div>
+          <img src="imagenes/12-9-T-house-saddle.jpg" width="250px" alt="Canyon Scene" /><br />
+          Farmhouse on saddle
+        </div><br />
+      </div>
+      <div class="two_thirds_width_text">
+        <p><?php print(i18n('segment_12.description.text_10', $lang)); ?></p>
+      </div>
+      <div class="clear"></div>
+
+      <p><?php print(i18n('segment_12.description.text_11', $lang)); ?></p>
+      <p><?php print(i18n('segment_12.description.text_12', $lang)); ?></p>
+
+      <div class="two_thirds_width_text">
+        <p><?php print(i18n('segment_12.description.text_13', $lang)); ?></p>
+      </div>
+      <div class="third_width_photo">
+        <div>
+          <img src="imagenes/12-10-Div-dam.jpg" width="250px" alt="Canyon Scene" /><br />
+          Divisadero dam 
+        </div><br />
+      </div>
+      <div class="clear"></div>
+
+      <p><?php print(i18n('segment_12.description.text_14', $lang)); ?></p>
+      <p><?php print(i18n('segment_12.description.text_15', $lang)); ?></p>
+      <p><?php print(i18n('segment_12.description.text_16', $lang)); ?></p>
+      <p><?php print(i18n('segment_12.description.text_17', $lang)); ?></p>
+
+     <div class="full_width_photo">
+        <div>
+          <img src="imagenes/12-11-Station-marker.jpg" width="700px" alt="Canyon Scene" /><br />
+          Divisadero station vendor stalls
+        </div>
+      </div>
+
+
+      <div class="previous_next">
+        <div class="floatLeft">
+          <a href="segment-11.php?lang=<?php print($lang); ?>"><?php print(i18n('segment.previous', $lang)); ?></a>
+        </div>
+        <div class="clear"></div>
+      </div>
+
     </div>
 
     <div class="clear"></div>
