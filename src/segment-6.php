@@ -57,6 +57,14 @@
     <div class='float_clear'></div>
     <div id='elev_data' hidden><?php print($elev_json); ?></div>
     <div id='section_06_map' class='section_map'></div>
+    <div class="vision_text_block">
+      <h3><?php print(i18n('segment.overview.title', $lang)); ?></h3>
+      <p><?php print(i18n('segment_6.overview.text', $lang)); ?></p>
+
+      <h3><?php print(i18n('segment.description.title', $lang)); ?></h3>
+      <div class="third_width_photo">
+        <div>
+          <img src="imagenes/San-Elias-School.jpeg" width="200px" alt="Canyon Scene" /><br />
           San Elias School
         </div>
       </div>
