@@ -61,6 +61,26 @@
           <a href="segment-7.php?lang=<?php print($lang); ?>"><?php print(i18n('guide.notes.segment_7.title', $lang)); ?></a>:
           <?php print(i18n('guide.notes.segment_7.text', $lang)); ?>
         </p>
+        <p>
+          <a href="segment-8.php?lang=<?php print($lang); ?>"><?php print(i18n('guide.notes.segment_8.title', $lang)); ?></a>:
+          <?php print(i18n('guide.notes.segment_8.text', $lang)); ?>
+        </p>
+        <p>
+          <a href="segment-9.php?lang=<?php print($lang); ?>"><?php print(i18n('guide.notes.segment_9.title', $lang)); ?></a>:
+          <?php print(i18n('guide.notes.segment_9.text', $lang)); ?>
+        </p>
+        <p>
+          <a href="segment-10.php?lang=<?php print($lang); ?>"><?php print(i18n('guide.notes.segment_10.title', $lang)); ?></a>:
+          <?php print(i18n('guide.notes.segment_10.text', $lang)); ?>
+        </p>
+        <p>
+          <a href="segment-11.php?lang=<?php print($lang); ?>"><?php print(i18n('guide.notes.segment_11.title', $lang)); ?></a>:
+          <?php print(i18n('guide.notes.segment_11.text', $lang)); ?>
+        </p>
+        <p>
+          <a href="segment-12.php?lang=<?php print($lang); ?>"><?php print(i18n('guide.notes.segment_12.title', $lang)); ?></a>:
+          <?php print(i18n('guide.notes.segment_12.text', $lang)); ?>
+        </p>
       </div>
     </div>
     <div class="clear"></div>
