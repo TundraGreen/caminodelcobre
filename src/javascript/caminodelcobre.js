@@ -27,6 +27,9 @@ google.maps.event.addDomListener(window, 'load', initialize);
 var section_map;
 var section_ctaLayer
 
+var map = L.map('section_01_map').setView([20.0, -101.0], 13);
+
+
 for (var ix=0; ix<sections.length; ix++) {
   if (ix == 8 || ix == 13) {continue};
   (function () {

@@ -21,13 +21,17 @@
     <title>
       <?php print(i18n('segment_1.title', $lang)); ?>
     </title>
-    <link href="estilos/master.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.3.1/leaflet.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.5.1/dist/leaflet.css"    integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
+   crossorigin=""/>
+       <link href="estilos/master.css" rel="stylesheet" type="text/css" />
     <link href="estilos/caminodelcobre.css" rel="stylesheet" type="text/css" />
     <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Raleway">
     <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDs2Fim0SK8tW23TjUALTd1V_K8pHmcps4">
     </script>
+    <script src="https://unpkg.com/leaflet@1.5.1/dist/leaflet.js" integrity="sha512-GffPMF3RvMeYyc1LWMHtK8EbPv0iNZ8/oTtHPx9/cc2ILxQ+u905qIwdpULaqDkyBKgOaB57QTMg7ztg8Jm2Og==" crossorigin=""></script>
     <script src="javascript/caminodelcobre.js"></script>
-  </head>
+    </head>
   <body onload="draw()">
     <?php include_once('includes/header.php') ?>
     <?php include_once('includes/navbar.php') ?>
@@ -128,5 +132,7 @@
 
     <div class="clear"></div>
     <?php include_once('includes/footer.php') ?>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.3.1/leaflet.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-gpx/1.4.0/gpx.min.js"></script>
   </body>
 </html>
